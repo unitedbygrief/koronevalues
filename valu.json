@@ -12417,17 +12417,18 @@
   {
     "_id": "6a0a363c4468349e062dc3ff",
     "Name": "WC Ultimates: Aquamarine Attitude",
-    "Value": 9000,
+    "Value": 5000,
     "RAP": 4713,
     "Image": "",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/705348/WC-Ultimates-Aquamarine-Attitude",
-    "Trend": "Stable",
+    "Trend": "Lowering",
     "History": [
-      9000
+      9000,
+      5000
     ],
     "itemId": "705348",
     "ValueChangerNote": ""
@@ -12435,19 +12436,20 @@
   {
     "_id": "6a0a36724468349e062dc402",
     "Name": "Living Art: Starry Night",
-    "Value": 170000,
+    "Value": 130000,
     "RAP": 0,
     "Image": "https://cdn.pekora.zip/images/thumbnails/16997aaad3cd683df76d29440dea8d69e0c4351ba3d4b1a397a89e8bb74dda8d.png",
-    "Demand": "High",
+    "Demand": "Low",
     "IsRare": true,
     "Tags": [
       "Rare"
     ],
     "Acronym": "Starry",
     "Link": "https://www.pekora.zip/catalog/56565/Living-Art-Starry-Night",
-    "Trend": "Raising",
+    "Trend": "Fluctuating",
     "History": [
-      170000
+      170000,
+      130000
     ],
     "itemId": "56565",
     "ValueChangerNote": ""
