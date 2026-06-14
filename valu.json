@@ -6967,7 +6967,7 @@
   {
     "_id": "69013cfd292118b8de7a7b8b",
     "Name": "Memento Mori",
-    "Value": 8500,
+    "Value": 16250,
     "RAP": 1083,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8f30c933f3d8d8c06e143a032685f24b29adce94131058225d06f5d5f3f33087.png",
     "Demand": "Low",
@@ -6982,7 +6982,8 @@
     "History": [
       0,
       3750,
-      8500
+      8500,
+      16250
     ],
     "itemId": "15753",
     "ValueChangerNote": ""
