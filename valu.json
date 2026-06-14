@@ -9792,7 +9792,7 @@
   {
     "_id": "69a5b54fb5970de41cc062ce",
     "Name": "Red Crown of Ozymandias",
-    "Value": 4500,
+    "Value": 5500,
     "RAP": 872,
     "Image": "https://cdn.pekora.zip/images/thumbnails/80e3bca2c75a94780d6163a1ddc03cf0e444ddd0a4ff725a38f6bfb139d95985.png",
     "Demand": "Low",
@@ -9803,7 +9803,8 @@
     "Trend": "Unstable",
     "History": [
       0,
-      4500
+      4500,
+      5500
     ],
     "itemId": "31632",
     "ValueChangerNote": ""
