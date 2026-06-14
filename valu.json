@@ -1403,7 +1403,7 @@
     "Tags": [],
     "Acronym": "SBSTF",
     "Link": "https://www.pekora.zip/catalog/158951/Sky-Blue-Sparkle-Time-Fedora",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "History": [
       8500,
       8501,
@@ -1411,7 +1411,8 @@
       9500,
       12000,
       14000,
-      16000
+      16000,
+      20000
     ],
     "itemId": "158951",
     "ValueChangerNote": ""
