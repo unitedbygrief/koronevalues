@@ -8559,7 +8559,7 @@
   {
     "_id": "694cbd255e551ebada74eebd",
     "Name": "Red Tango",
-    "Value": 37500,
+    "Value": 42500,
     "RAP": 11250,
     "Image": "https://cdn.pekora.zip/images/thumbnails/382e9deb8bc523c71d05abac8fca440ab9efbfe936b8306070a904ed9dfd3e31.png",
     "Demand": "Decent",
@@ -8573,7 +8573,8 @@
     "History": [
       0,
       29000,
-      37500
+      37500,
+      42500
     ],
     "itemId": "373589",
     "ValueChangerNote": ""
