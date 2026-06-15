@@ -185,7 +185,7 @@
   {
     "_id": "68c5a9f7466e8efec0919489",
     "Name": "Midnight Blue Sparkle Time Fedora",
-    "Value": 65000,
+    "Value": 42000,
     "RAP": 11762,
     "Image": "https://cdn.pekora.zip/images/thumbnails/492a8bfd96773718e6510f1fdf1d44eda323b5bf497a72c155de7fc289c8494f.png",
     "Demand": "Low",
@@ -195,7 +195,7 @@
     ],
     "Acronym": "MBSTF",
     "Link": "https://www.pekora.zip/catalog/41910/--",
-    "Trend": "Stable",
+    "Trend": "Unstable",
     "History": [
       18500,
       22100,
@@ -206,7 +206,8 @@
       47500,
       35500,
       47500,
-      65000
+      65000,
+      42000
     ],
     "itemId": "41910",
     "ValueChangerNote": ""
