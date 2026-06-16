@@ -582,7 +582,7 @@
   {
     "_id": "68c5b044fcf127633e3d087b",
     "Name": "Earl of the Federation",
-    "Value": 10000,
+    "Value": 25000,
     "RAP": 10145,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b41e8ac0da34addffc646505be0efe591b0fe492585057ec843ae8f6f1dd9b5a.png",
     "Demand": "Low",
@@ -597,7 +597,8 @@
       12100,
       12000,
       9000,
-      10000
+      10000,
+      25000
     ],
     "itemId": "90462",
     "ValueChangerNote": ""
@@ -1055,7 +1056,7 @@
   {
     "_id": "68caee6f89d0106668272799",
     "Name": "Rainbow Shaggy",
-    "Value": 80000,
+    "Value": 120000,
     "RAP": 3174,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e72e39ecf3832c7c853eb7247b8937cad8cba54d8bd848bba648399ade5a1978.png",
     "Demand": "High",
@@ -1065,7 +1066,7 @@
     ],
     "Acronym": "RS",
     "Link": "https://www.pekora.zip/catalog/16588/Rainbow-Shaggy",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "History": [
       10000,
       13000,
@@ -1073,7 +1074,8 @@
       20500,
       25000,
       26500,
-      45000
+      45000,
+      120000
     ],
     "itemId": "16588",
     "ValueChangerNote": ""
