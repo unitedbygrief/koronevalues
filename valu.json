@@ -239,7 +239,7 @@
   {
     "_id": "68c5aab7ca3be7ca1f3add68",
     "Name": "Pink Sparkle Time Fedora",
-    "Value": 17500,
+    "Value": 26000,
     "RAP": 5040,
     "Image": "https://cdn.pekora.zip/images/thumbnails/1ea0b7e0cd69549bff55620ebee3abdb8ede0d965c3855bfe6c8864249cea9bd.png",
     "Demand": "High",
@@ -252,7 +252,8 @@
       7250,
       10500,
       12000,
-      17500
+      17500,
+      26000
     ],
     "itemId": "37564",
     "ValueChangerNote": ""
@@ -6906,7 +6907,7 @@
   {
     "_id": "690134f33d185173fb16b1cf",
     "Name": "American Cowboy",
-    "Value": 4000,
+    "Value": 10000,
     "RAP": 944,
     "Image": "https://cdn.pekora.zip/images/thumbnails/109a19d83f905ddadcfc92ae6ceb962f20ed3cb79d11f9a6d3174edbedba96f0.png",
     "Demand": "Decent",
@@ -6920,7 +6921,8 @@
     "History": [
       0,
       1800,
-      4000
+      4000,
+      10000
     ],
     "itemId": "46262",
     "ValueChangerNote": ""
