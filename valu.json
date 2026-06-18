@@ -242,12 +242,12 @@
     "Value": 26000,
     "RAP": 5040,
     "Image": "https://cdn.pekora.zip/images/thumbnails/1ea0b7e0cd69549bff55620ebee3abdb8ede0d965c3855bfe6c8864249cea9bd.png",
-    "Demand": "High",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "PISTF",
     "Link": "https://www.pekora.zip/catalog/37564/--",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "History": [
       7250,
       10500,
@@ -6910,14 +6910,14 @@
     "Value": 10000,
     "RAP": 944,
     "Image": "https://cdn.pekora.zip/images/thumbnails/109a19d83f905ddadcfc92ae6ceb962f20ed3cb79d11f9a6d3174edbedba96f0.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [
       "Hoarded"
     ],
     "Acronym": "Americow",
     "Link": "https://www.pekora.zip/catalog/46262/--",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "History": [
       0,
       1800,
