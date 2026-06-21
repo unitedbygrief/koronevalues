@@ -1149,7 +1149,7 @@
   {
     "_id": "68caef9828db36577f2c5ea7",
     "Name": "Interstellar Wings",
-    "Value": 10000,
+    "Value": 20000,
     "RAP": 0,
     "Image": "https://cdn.pekora.zip/images/thumbnails/529e13a61c572b90a8b92c62268343456e79b5f584ff699cc520828b31dc390c.png",
     "Demand": "Low",
@@ -1162,7 +1162,8 @@
     "Trend": "Fluctuating",
     "History": [
       4500,
-      10000
+      10000,
+      20000
     ],
     "itemId": 127301,
     "ValueChangerNote": ""
