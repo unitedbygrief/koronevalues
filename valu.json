@@ -1032,7 +1032,7 @@
   {
     "_id": "68caee2f7db1551bd930d292",
     "Name": "Eerie Pumpkin Head",
-    "Value": 32000,
+    "Value": 82500,
     "RAP": 4614,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b08c2929653bf52547454acef11d80412775134ec79f7555cf36dbe9f234bff5.png",
     "Demand": "Low",
@@ -8903,7 +8903,7 @@
   {
     "_id": "69681708dabfad32fa36ed2d",
     "Name": "The Ice Crown",
-    "Value": 8500,
+    "Value": 16500,
     "RAP": 2242,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e14139e8428d50c5f949412363fde4b254a9414864d47de235091d562452ebf8.png",
     "Demand": "Decent",
