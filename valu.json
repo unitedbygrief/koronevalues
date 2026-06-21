@@ -823,7 +823,7 @@
   {
     "_id": "68c7efdc43a6cd0fdd2c5a0a",
     "Name": "Eccentric Shop Teacher",
-    "Value": 52670,
+    "Value": 200000,
     "RAP": 6480,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5e84625a860268228ab3641d2dbfbed5ed7324cd10df47c6469d14d1093b3b03.png",
     "Demand": "Low",
@@ -841,7 +841,8 @@
       37500,
       52670,
       52669,
-      52670
+      52670,
+      200000
     ],
     "itemId": "53061",
     "ValueChangerNote": ""
