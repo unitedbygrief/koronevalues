@@ -114,7 +114,7 @@
   {
     "_id": "68c5a89fd260efda14d03fa0",
     "Name": "Super Super Happy Face",
-    "Value": 0,
+    "Value": 5000,
     "RAP": 3214,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e2d636b906d29a06e30b843a340d919e6233590d7a51ecaf919f37f530e1f927.png",
     "Demand": "High",
@@ -122,14 +122,15 @@
     "Tags": [],
     "Acronym": "SSHF",
     "Link": "https://cdn.pekora.zip/catalog/38528/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       0,
       3000,
       0,
       4000,
       5500,
-      0
+      0,
+      5000
     ],
     "itemId": "38528",
     "ValueChangerNote": ""
@@ -379,21 +380,22 @@
   {
     "_id": "68c5aec5ec513bbc2e5d75f1",
     "Name": "Valkyrie Helm",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 2401,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c50b54e8c08a2b14bab7c8bab1ccc9a9624afa8c56c2a849b98aaf3e368ad0fa.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Valk",
     "Link": "https://www.pekora.zip/catalog/36461/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       0,
       2700,
       3700,
       4000,
-      0
+      0,
+      3500
     ],
     "itemId": "36461",
     "ValueChangerNote": ""
@@ -499,18 +501,19 @@
   {
     "_id": "68c5afd1fcf127633e3d0879",
     "Name": "Dominus Vespertilio",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 2721,
     "Image": "https://cdn.pekora.zip/images/thumbnails/13ba31c5c38a8d7b2b6c3f02148d262179ba6ed02cf3e0fb04cad3c9a21f40f2.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Vesp",
     "Link": "https://www.pekora.zip/catalog/16325/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       4500,
-      0
+      0,
+      3500
     ],
     "itemId": "16325",
     "ValueChangerNote": ""
@@ -723,7 +726,7 @@
   {
     "_id": "68c5b14929a435a9a1c0c752",
     "Name": "Silver King of the Night",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 2188,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7e7c6bbd6f52474e23495e2cb65466158e8fcb6322f53db08aa84ada3e7d0b69.png",
     "Demand": "Decent",
@@ -731,13 +734,14 @@
     "Tags": [],
     "Acronym": "SKOTN",
     "Link": "https://www.pekora.zip/catalog/41084/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       2500,
       3200,
       0,
       3200,
-      0
+      0,
+      3500
     ],
     "itemId": "41084",
     "ValueChangerNote": ""
@@ -784,7 +788,7 @@
   {
     "_id": "68c7eefbcd97559336a90e81",
     "Name": "Transient Harmonica",
-    "Value": 0,
+    "Value": 5000,
     "RAP": 4971,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f8f2c7180709a7340dc75491575b49f59701fc13ecdaaf66140bc0bc291d9636.png",
     "Demand": "Decent",
@@ -792,9 +796,11 @@
     "Tags": [],
     "Acronym": "Harm",
     "Link": "https://www.pekora.zip/catalog/35479/Transient-Harmonica",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
-      3000
+      3000,
+      0,
+      5000
     ],
     "itemId": "35479",
     "ValueChangerNote": ""
@@ -802,7 +808,7 @@
   {
     "_id": "68c7ef3e2ffa5970f76f405e",
     "Name": "Frozen Horns of the Frigid Planes",
-    "Value": 0,
+    "Value": 8000,
     "RAP": 6619,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a38f765006bf3321fd4974b0711e31b07970386406f1919bde6a5c359941054e.png",
     "Demand": "High",
@@ -810,12 +816,13 @@
     "Tags": [],
     "Acronym": "Frozen ",
     "Link": "https://www.pekora.zip/catalog/39611/Frozen-Horns-of-the-Frigid-Planes",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       7300,
       8000,
       11000,
-      0
+      0,
+      8000
     ],
     "itemId": "39611",
     "ValueChangerNote": ""
@@ -960,7 +967,7 @@
   {
     "_id": "68caec7269be20ebfd8927f2",
     "Name": "Fiery Horns of the Netherworld",
-    "Value": 0,
+    "Value": 7000,
     "RAP": 0,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ad968de72af8264bebe41e890b0e1d7549865b6fd740fa4c40de13fc2ff32bf4.png",
     "Demand": "High",
@@ -968,14 +975,15 @@
     "Tags": [],
     "Acronym": "Fiery",
     "Link": "",
-    "Trend": "Raising",
+    "Trend": "Fluctuating",
     "History": [
       6800,
       7500,
       9250,
       10250,
       12500,
-      0
+      0,
+      7000
     ],
     "itemId": 36041,
     "ValueChangerNote": ""
@@ -983,7 +991,7 @@
   {
     "_id": "68caecfbc8b8f15c0c515825",
     "Name": "Poisoned Horns of the Toxic Wasteland",
-    "Value": 0,
+    "Value": 8000,
     "RAP": 6108,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f304893d0d48cccf1a2066aba5630cf31670aa760e52d4e14d9b914916f36d62.png",
     "Demand": "Decent",
@@ -991,14 +999,15 @@
     "Tags": [],
     "Acronym": "Poison",
     "Link": "https://www.pekora.zip/catalog/9092/Poisoned-Horns-of-the-Toxic-Wasteland",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       3000,
       9000,
       14000,
       0,
       8500,
-      0
+      0,
+      8000
     ],
     "itemId": "9092",
     "ValueChangerNote": ""
@@ -1006,17 +1015,17 @@
   {
     "_id": "68caede67db1551bd930d290",
     "Name": "Bling $$ Necklace",
-    "Value": 0,
+    "Value": 85000,
     "RAP": 7157,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2fd19ef24db68bd65dab9e2055dfaa3ba6784d8820ef901d5e65f6876db9b9fb.png",
-    "Demand": "Unassigned",
+    "Demand": "High",
     "IsRare": true,
     "Tags": [
       "Rare"
     ],
     "Acronym": "Bling",
     "Link": "",
-    "Trend": "None",
+    "Trend": "Fluctuating",
     "History": [
       20000,
       27500,
@@ -1025,7 +1034,8 @@
       55000,
       90000,
       150000,
-      0
+      0,
+      85000
     ],
     "itemId": 32155,
     "ValueChangerNote": "Holy fuck"
@@ -1214,22 +1224,23 @@
   {
     "_id": "68caf08d89d01066682727a1",
     "Name": "Yum!",
-    "Value": 0,
+    "Value": 3000,
     "RAP": 1850,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8dbf747b0eaad7a8bd92eeedb6b6f21b322d81d2d287e04315d7a36dd8d02d9d.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Yum",
     "Link": "https://www.pekora.zip/catalog/120712/Yum",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       5500,
       0,
       1,
       0,
       1,
-      0
+      0,
+      3000
     ],
     "itemId": "120712",
     "ValueChangerNote": ""
@@ -1768,12 +1779,12 @@
     "Value": 0,
     "RAP": 3289,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6a0cacccd0d138fc6ca1714c99249c1ee3c3f66c62f3ce851b451c8db2142c46.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "CF",
     "Link": "https://www.pekora.zip/catalog/34341/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       0,
       3601,
@@ -1782,7 +1793,8 @@
       4250,
       0,
       1,
-      0
+      0,
+      3500
     ],
     "itemId": "34341",
     "ValueChangerNote": ""
@@ -1828,16 +1840,19 @@
   {
     "_id": "68f04dddb41d086123104c8f",
     "Name": "Dominus Praefectus",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 1976,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cdbcc1996d0a684eca6ffda1ef7904573c84a4f9b4074bdcd44314458ad643da.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Prae",
     "Link": "https://www.pekora.zip/catalog/42443/--",
-    "Trend": "Stable",
-    "History": [],
+    "Trend": "Fluctuating",
+    "History": [
+      0,
+      3500
+    ],
     "itemId": "42443",
     "ValueChangerNote": ""
   },
@@ -6430,7 +6445,7 @@
   {
     "_id": "690112210d75d2ba601366e6",
     "Name": "Playful Vampire",
-    "Value": 0,
+    "Value": 3000,
     "RAP": 2798,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b09e59f6f5fac754a6aac99342f0e551bdff263e59d87b98a2b6d6c1e27eb51a.png",
     "Demand": "Decent",
@@ -6438,10 +6453,12 @@
     "Tags": [],
     "Acronym": "PV",
     "Link": "https://www.pekora.zip/catalog/14801/--",
-    "Trend": "Raising",
+    "Trend": "Fluctuating",
     "History": [
       0,
-      2800
+      2800,
+      0,
+      3000
     ],
     "itemId": "14801",
     "ValueChangerNote": ""
@@ -9560,16 +9577,19 @@
   {
     "_id": "69a3e52308821e5e9e4debf5",
     "Name": "Purple Ice Crown",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 3898,
     "Image": "https://cdn.pekora.zip/images/thumbnails/747c4a0f73c49693a5e79c782961e3622b0492e7755059db552dc4ccb4bc33ee.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "N/A",
     "Link": "https://www.pekora.zip/catalog/48698/--",
-    "Trend": "Stable",
-    "History": [],
+    "Trend": "Fluctuating",
+    "History": [
+      0,
+      3500
+    ],
     "itemId": "48698",
     "ValueChangerNote": ""
   },
@@ -12581,7 +12601,7 @@
   {
     "_id": "6a158153702d121873dc4519",
     "Name": "Wings of Liberty",
-    "Value": 37500,
+    "Value": 42500,
     "RAP": 9200,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5c82df5797c12246faa127c7f644682ba045cf4b9fa8bd66fdc41e02726980d8.png",
     "Demand": "Decent",
@@ -12592,7 +12612,8 @@
     "Trend": "Raising",
     "History": [
       32500,
-      37500
+      37500,
+      42500
     ],
     "itemId": "746589",
     "ValueChangerNote": ""
