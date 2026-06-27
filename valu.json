@@ -808,7 +808,7 @@
   {
     "_id": "68c7ef3e2ffa5970f76f405e",
     "Name": "Frozen Horns of the Frigid Planes",
-    "Value": 8000,
+    "Value": 9000,
     "RAP": 6619,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a38f765006bf3321fd4974b0711e31b07970386406f1919bde6a5c359941054e.png",
     "Demand": "High",
@@ -822,7 +822,8 @@
       8000,
       11000,
       0,
-      8000
+      8000,
+      9000
     ],
     "itemId": "39611",
     "ValueChangerNote": ""
@@ -1776,7 +1777,7 @@
   {
     "_id": "68eee6fe42dd45ac3dc08412",
     "Name": "The Classic ROBLOX Fedora",
-    "Value": 0,
+    "Value": 4000,
     "RAP": 3289,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6a0cacccd0d138fc6ca1714c99249c1ee3c3f66c62f3ce851b451c8db2142c46.png",
     "Demand": "Decent",
@@ -1794,7 +1795,8 @@
       0,
       1,
       0,
-      3500
+      3500,
+      4000
     ],
     "itemId": "34341",
     "ValueChangerNote": ""
