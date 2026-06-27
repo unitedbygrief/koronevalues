@@ -8592,7 +8592,7 @@
   {
     "_id": "694cbd255e551ebada74eebd",
     "Name": "Red Tango",
-    "Value": 42500,
+    "Value": 55000,
     "RAP": 11250,
     "Image": "https://cdn.pekora.zip/images/thumbnails/382e9deb8bc523c71d05abac8fca440ab9efbfe936b8306070a904ed9dfd3e31.png",
     "Demand": "Decent",
@@ -12623,7 +12623,7 @@
   {
     "_id": "6a1566153702d121873dc4519",
     "Name": ":( Front Stand",
-    "Value": 14000,
+    "Value": 9000,
     "RAP": 10800,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5c82df5797c12246faa127c7f644682ba045cf4b9fa8bd66fdc41e02726980d8.png",
     "Demand": "Low",
@@ -12631,7 +12631,7 @@
     "Tags": [],
     "Acronym": "N/A",
     "Link": "https://www.pekora.zip/catalog/765514/--",
-    "Trend": "Fluctuating",
+    "Trend": "Lowering",
     "History": [],
     "itemId": "765514",
     "ValueChangerNote": ""
