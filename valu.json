@@ -313,18 +313,19 @@
     "Value": 0,
     "RAP": 6433,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8e1244ca59858108f099e1d00f92b3a1a61d2c602c6991acad9cac8a82e0b0bf.png",
-    "Demand": "Decent",
+    "Demand": "None",
     "IsRare": false,
     "Tags": [],
     "Acronym": "STF",
     "Link": "https://www.pekora.zip/catalog/33373/--",
-    "Trend": "Raising",
+    "Trend": "None",
     "History": [
       4000,
       6250,
       8500,
       10500,
-      16000
+      16000,
+      0
     ],
     "itemId": "33373",
     "ValueChangerNote": ""
@@ -1225,7 +1226,7 @@
   {
     "_id": "68caf08d89d01066682727a1",
     "Name": "Yum!",
-    "Value": 3000,
+    "Value": 3500,
     "RAP": 1850,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8dbf747b0eaad7a8bd92eeedb6b6f21b322d81d2d287e04315d7a36dd8d02d9d.png",
     "Demand": "Decent",
@@ -1241,7 +1242,8 @@
       0,
       1,
       0,
-      3000
+      3000,
+      3500
     ],
     "itemId": "120712",
     "ValueChangerNote": ""
