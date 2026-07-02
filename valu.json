@@ -502,7 +502,7 @@
   {
     "_id": "68c5afd1fcf127633e3d0879",
     "Name": "Dominus Vespertilio",
-    "Value": 3500,
+    "Value": 4000,
     "RAP": 2721,
     "Image": "https://cdn.pekora.zip/images/thumbnails/13ba31c5c38a8d7b2b6c3f02148d262179ba6ed02cf3e0fb04cad3c9a21f40f2.png",
     "Demand": "Decent",
@@ -543,7 +543,7 @@
   {
     "_id": "68c5b017fcf127633e3d087a",
     "Name": "Disgraced Baron of the Federation",
-    "Value": 7200,
+    "Value": 30000,
     "RAP": 3875,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ae8e0a9826785a60b7b72953961b9d2cc9460bbff2d1d320fae75b33e3af1de7.png",
     "Demand": "Low",
@@ -8172,7 +8172,7 @@
   {
     "_id": "6924cbc97c73e7f49fe74f83",
     "Name": "Dr. Ishmael",
-    "Value": 2550,
+    "Value": 5500,
     "RAP": 1965,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d2ed2acbe9691b6a8980320b66c6fa30f8cbbcfb899fc3f70591054168286576.png ",
     "Demand": "Low",
