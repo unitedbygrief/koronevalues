@@ -186,7 +186,7 @@
   {
     "_id": "68c5a9f7466e8efec0919489",
     "Name": "Midnight Blue Sparkle Time Fedora",
-    "Value": 42000,
+    "Value": 0,
     "RAP": 11762,
     "Image": "https://cdn.pekora.zip/images/thumbnails/492a8bfd96773718e6510f1fdf1d44eda323b5bf497a72c155de7fc289c8494f.png",
     "Demand": "Low",
@@ -262,7 +262,7 @@
   {
     "_id": "68c5aaeb12cddae3b79c0d3a",
     "Name": "Red Sparkle Time Fedora",
-    "Value": 85000,
+    "Value": 0,
     "RAP": 25000,
     "Image": "https://cdn.pekora.zip/images/thumbnails/522a2b33dfa6ad4e09e1b8df5129c9fd4c0ea2061449148acbafc69a3776d9fc.png",
     "Demand": "High",
