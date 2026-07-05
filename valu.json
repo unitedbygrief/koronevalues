@@ -483,15 +483,15 @@
   {
     "_id": "68c5afbb24144ed136ce4f3c",
     "Name": "Dominus Rex",
-    "Value": 0,
+    "Value": 7250,
     "RAP": 5207,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5faa59b14da2bcb905129e04b04e3a1b2f5864d6dcde37ad0d836d5c173b6b07.png",
-    "Demand": "None",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Rex",
     "Link": "https://www.pekora.zip/catalog/43223/--",
-    "Trend": "Stable",
+    "Trend": "Unstable",
     "History": [
       5000,
       0
