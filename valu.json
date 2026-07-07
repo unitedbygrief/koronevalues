@@ -262,17 +262,17 @@
   {
     "_id": "68c5aaeb12cddae3b79c0d3a",
     "Name": "Red Sparkle Time Fedora",
-    "Value": 0,
+    "Value": 45000,
     "RAP": 25000,
     "Image": "https://cdn.pekora.zip/images/thumbnails/522a2b33dfa6ad4e09e1b8df5129c9fd4c0ea2061449148acbafc69a3776d9fc.png",
     "Demand": "High",
-    "IsRare": true,
+    "IsRare": false,
     "Tags": [
       "Rare"
     ],
     "Acronym": "RSTF",
     "Link": "https://www.pekora.zip/catalog/44745/--",
-    "Trend": "Raising",
+    "Trend": "Fluctuating",
     "History": [
       18500,
       28000,
@@ -310,15 +310,15 @@
   {
     "_id": "68c5ab91180eb1381301c4c4",
     "Name": "Sparkle Time Fedora",
-    "Value": 0,
+    "Value": 10000,
     "RAP": 6433,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8e1244ca59858108f099e1d00f92b3a1a61d2c602c6991acad9cac8a82e0b0bf.png",
-    "Demand": "None",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "STF",
     "Link": "https://www.pekora.zip/catalog/33373/--",
-    "Trend": "None",
+    "Trend": "Stable",
     "History": [
       4000,
       6250,
