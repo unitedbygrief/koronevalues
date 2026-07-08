@@ -1017,17 +1017,17 @@
   {
     "_id": "68caede67db1551bd930d290",
     "Name": "Bling $$ Necklace",
-    "Value": 85000,
+    "Value": 100000,
     "RAP": 7157,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2fd19ef24db68bd65dab9e2055dfaa3ba6784d8820ef901d5e65f6876db9b9fb.png",
-    "Demand": "High",
+    "Demand": "Decent",
     "IsRare": true,
     "Tags": [
       "Rare"
     ],
     "Acronym": "Bling",
     "Link": "",
-    "Trend": "Fluctuating",
+    "Trend": "Stable",
     "History": [
       20000,
       27500,
