@@ -502,7 +502,7 @@
   {
     "_id": "68c5afd1fcf127633e3d0879",
     "Name": "Dominus Vespertilio",
-    "Value": 4000,
+    "Value": 3500,
     "RAP": 2721,
     "Image": "https://cdn.pekora.zip/images/thumbnails/13ba31c5c38a8d7b2b6c3f02148d262179ba6ed02cf3e0fb04cad3c9a21f40f2.png",
     "Demand": "Decent",
@@ -1226,7 +1226,7 @@
   {
     "_id": "68caf08d89d01066682727a1",
     "Name": "Yum!",
-    "Value": 3500,
+    "Value": 3000,
     "RAP": 1850,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8dbf747b0eaad7a8bd92eeedb6b6f21b322d81d2d287e04315d7a36dd8d02d9d.png",
     "Demand": "Decent",
