@@ -114,7 +114,7 @@
   {
     "_id": "68c5a89fd260efda14d03fa0",
     "Name": "Super Super Happy Face",
-    "Value": 5000,
+    "Value": 4000,
     "RAP": 3214,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e2d636b906d29a06e30b843a340d919e6233590d7a51ecaf919f37f530e1f927.png",
     "Demand": "High",
@@ -993,7 +993,7 @@
   {
     "_id": "68caecfbc8b8f15c0c515825",
     "Name": "Poisoned Horns of the Toxic Wasteland",
-    "Value": 7000,
+    "Value": 8000,
     "RAP": 6108,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f304893d0d48cccf1a2066aba5630cf31670aa760e52d4e14d9b914916f36d62.png",
     "Demand": "Decent",
@@ -6449,7 +6449,7 @@
   {
     "_id": "690112210d75d2ba601366e6",
     "Name": "Playful Vampire",
-    "Value": 3000,
+    "Value": 0,
     "RAP": 2798,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b09e59f6f5fac754a6aac99342f0e551bdff263e59d87b98a2b6d6c1e27eb51a.png",
     "Demand": "Decent",
@@ -8594,7 +8594,7 @@
   {
     "_id": "694cbd255e551ebada74eebd",
     "Name": "Red Tango",
-    "Value": 55000,
+    "Value": 60000,
     "RAP": 11250,
     "Image": "https://cdn.pekora.zip/images/thumbnails/382e9deb8bc523c71d05abac8fca440ab9efbfe936b8306070a904ed9dfd3e31.png",
     "Demand": "Decent",
@@ -12605,7 +12605,7 @@
   {
     "_id": "6a158153702d121873dc4519",
     "Name": "Wings of Liberty",
-    "Value": 42500,
+    "Value": 48000,
     "RAP": 9200,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5c82df5797c12246faa127c7f644682ba045cf4b9fa8bd66fdc41e02726980d8.png",
     "Demand": "Decent",
