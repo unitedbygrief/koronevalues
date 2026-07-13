@@ -9312,6 +9312,26 @@
     "itemId": "7265",
     "ValueChangerNote": ""
   },
+   {
+    "_id": "6999f246aa31c3b7141b3701",
+    "Name": "Lord of the Tixeration",
+    "Value": 37500,
+    "RAP": 24799,
+    "Image": "hhttps://cdn.pekora.zip/images/thumbnails/5aa9ddcc6ba43bf4e649e1398edaaa9318bdd264e0f88c031716e3e6a613e908.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "LOTT",
+    "Link": "https://www.pekora.zip/catalog/892348/--",
+    "Trend": "Fluctuating",
+    "History": [
+      0
+    ],
+    "itemId": "892348",
+    "ValueChangerNote": ""
+  },
   {
     "_id": "699b6c01af6708a6e513f10c",
     "Name": "Ivory Periastron",
