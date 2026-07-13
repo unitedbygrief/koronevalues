@@ -9290,10 +9290,10 @@
   {
     "_id": "6999f736aa31c3b7141b3701",
     "Name": "Dark Assassin",
-    "Value": 57500,
+    "Value": 110000,
     "RAP": 10000,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b2f7307f55fc770d68d5a951865a96a23a30d28354aa1cb0198ae5fdd3a99de4.png",
-    "Demand": "Low",
+    "Demand": "Decent",
     "IsRare": true,
     "Tags": [
       "Rare",
@@ -9301,7 +9301,7 @@
     ],
     "Acronym": "DA",
     "Link": "https://www.pekora.zip/catalog/7265/--",
-    "Trend": "Stable",
+    "Trend": "Raising",
     "History": [
       0,
       28000,
