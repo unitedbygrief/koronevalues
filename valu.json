@@ -6955,15 +6955,15 @@
   {
     "_id": "690135011e2449d1b6a13114",
     "Name": "Crown of Om Nom Nom",
-    "Value": 0,
+    "Value": 17500,
     "RAP": 548,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8fc86bdaaa6c0a9693b9f4a5f1c0667b6c103cffd487446562c978fe98eebd39.png",
-    "Demand": "None",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "N/A",
     "Link": "https://www.pekora.zip/catalog/16479/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [],
     "itemId": "16479",
     "ValueChangerNote": ""
