@@ -6109,10 +6109,10 @@
   {
     "_id": "69010296ea19c10d162df4a3",
     "Name": "Red Bandana of SQL Injection",
-    "Value": 70000,
+    "Value": 115000,
     "RAP": 7325,
     "Image": "https://cdn.pekora.zip/images/thumbnails/020efe6a69911b85035fa04020c518430dd6ce67d2a541bdb8b37eea09880404.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": true,
     "Tags": [
       "Rare",
@@ -6120,7 +6120,7 @@
     ],
     "Acronym": "SQL",
     "Link": "https://www.pekora.zip/catalog/45393/--",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "History": [
       0,
       14000,
