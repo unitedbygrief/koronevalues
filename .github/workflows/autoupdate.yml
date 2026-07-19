@@ -1,0 +1,90 @@
+name: Automatically update value list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: automatically-update-value-list
+  cancel-in-progress: false
+
+jobs:
+  update-value-list:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Automatically update value list
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for iteration in {1..5}; do
+            temporary_file="$(mktemp)"
+
+            if ! curl \
+              --fail \
+              --silent \
+              --show-error \
+              --location \
+              --connect-timeout 15 \
+              --max-time 45 \
+              "https://koromons.net/items.json" \
+              --output "$temporary_file"; then
+
+              echo "Failed to fetch root, trying with www"
+
+              if ! curl \
+                --fail \
+                --silent \
+                --show-error \
+                --location \
+                --connect-timeout 15 \
+                --max-time 45 \
+                "https://www.koromons.net/items.json" \
+                --output "$temporary_file"; then
+                rm -f "$temporary_file"
+                echo "::error::failed to fetch"
+                exit 1
+              fi
+            fi
+
+            if [ ! -s "$temporary_file" ]; then
+              rm -f "$temporary_file"
+              echo "::error::failed to fetch"
+              exit 1
+            fi
+
+            if ! jq empty "$temporary_file"; then
+              rm -f "$temporary_file"
+              echo "::error::failed to fetch"
+              exit 1
+            fi
+
+            mv "$temporary_file" valu.json
+
+            if ! git diff --quiet -- valu.json; then
+              git add valu.json
+              git commit -m "chore: automatically update value list"
+              git pull --rebase origin "${GITHUB_REF_NAME}"
+              git push origin "HEAD:${GITHUB_REF_NAME}"
+            fi
+
+            if [ "$iteration" -lt 5 ]; then
+              sleep 60
+            fi
+          done
