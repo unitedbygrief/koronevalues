@@ -904,10 +904,10 @@
   {
     "_id": "68caeab7e5c9ad6263ac800c",
     "Name": "Dominus Messor",
-    "Value": 5700,
+    "Value": 10000,
     "RAP": 5255,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e25a3266dd3200f0986bc83dc7ccab9e9b1c1bea1e17f8d7835727f93c5544c6.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Messor",
@@ -920,6 +920,24 @@
       5700
     ],
     "itemId": "33985",
+    "ValueChangerNote": ""
+  },
+  {
+    "_id": "68caeab7e5d2ad6263ac800c",
+    "Name": "Sword Cane",
+    "Value": 8500,
+    "RAP": 5255,
+    "Image": "https://cdn.pekora.zip/images/thumbnails/472fb192d1c5df00b6890ea46dd788d6759c8b011dc8c205ef51e9609e222ce5.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "SC",
+    "Link": "https://www.pekora.zip/catalog/892391/Sword-Cane",
+    "Trend": "Stable",
+    "History": [
+      0
+    ],
+    "itemId": "892391",
     "ValueChangerNote": ""
   },
   {
@@ -1017,10 +1035,10 @@
   {
     "_id": "68caede67db1551bd930d290",
     "Name": "Bling $$ Necklace",
-    "Value": 100000,
+    "Value": 140000,
     "RAP": 7157,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2fd19ef24db68bd65dab9e2055dfaa3ba6784d8820ef901d5e65f6876db9b9fb.png",
-    "Demand": "Decent",
+    "Demand": "High",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -8707,7 +8725,7 @@
   {
     "_id": "6959a72d9a5220b0fd38332b",
     "Name": "Archduke of the Federation",
-    "Value": 75000,
+    "Value": 115000,
     "RAP": 0,
     "Image": "https://cdn.pekora.zip/images/thumbnails/daf4c4620a3628e902519eaf7be6d3415a5b32a73648d65347e51cb3729bd821.png",
     "Demand": "Decent",
