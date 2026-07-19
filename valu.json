@@ -878,10 +878,10 @@
   {
     "_id": "68caea89c4ec6f49365e70eb",
     "Name": "Dominus Infernus",
-    "Value": 160000,
+    "Value": 265000,
     "RAP": 9675,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bf8b3905d00b79847d068397e6fa38de62898dda2e99d188a8161698ee088621.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -6135,10 +6135,10 @@
   {
     "_id": "690102a0429d91ea501973f3",
     "Name": "Red Balloon",
-    "Value": 4000,
+    "Value": 8500,
     "RAP": 1557,
     "Image": "https://cdn.pekora.zip/images/thumbnails/72be187ee357858069d4878855cebef76207f428692047920e23490857a5f8d2.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "RB",
@@ -9417,10 +9417,10 @@
   {
     "_id": "699ce45098c7247b26a0bf2d",
     "Name": "Dominus Pittacium",
-    "Value": 30000,
+    "Value": 21000,
     "RAP": 10000,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9ebe578e09ebd397bdf60a0af3187b1d97a53c404f51c47f9932d1d3f15d65ab.png",
-    "Demand": "Low",
+    "Demand": "Terrible",
     "IsRare": true,
     "Tags": [
       "Rare"
