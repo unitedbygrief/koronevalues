@@ -11678,7 +11678,7 @@
   {
     "_id": "69b6380594a1d5253312fb0b",
     "Name": "Eyes of Emeraldwrath",
-    "Value": 8500,
+    "Value": 5500,
     "RAP": 6797,
     "Image": "https://cdn.pekora.zip/images/thumbnails/fddb8e381f7281d9d0fadcc5d03df1732dd301f523484f8e498390564ada32ee.png",
     "Demand": "Low",
@@ -11688,7 +11688,7 @@
     ],
     "Acronym": "EoE",
     "Link": "",
-    "Trend": "Stable",
+    "Trend": "Unstable",
     "History": [
       0,
       8500
