@@ -2854,7 +2854,7 @@
     "_id": "68f9a02dfdc39077181787de",
     "Name": "Neon Pink Top Hat",
     "Value": 0,
-    "RAP": 262,
+    "RAP": 265,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3e5275a6ae8aa5b32759401ed7aff35e59a50f73549f155ee8ede6f88e668816.png",
     "Demand": "None",
     "IsRare": false,
@@ -4355,7 +4355,7 @@
     "_id": "6900e4f37e073cd810fd05fe",
     "Name": "Noob Attack: Luchador Liability",
     "Value": 0,
-    "RAP": 322,
+    "RAP": 372,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4299fe96e494869a0669022a9031f8eb6da01acfc822a7134e87f14c55ced6b8.png",
     "Demand": "None",
     "IsRare": false,
@@ -5722,7 +5722,7 @@
     "_id": "6900eb9d032ad54929dec23b",
     "Name": "Rockstar Disguise",
     "Value": 0,
-    "RAP": 101,
+    "RAP": 97,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b81bf4ca6233d00ae45b114b3f99bcb3e19f37a547351951e439e11024b8965e.png",
     "Demand": "None",
     "IsRare": false,
@@ -10508,7 +10508,7 @@
     "_id": "6998f17d1baa5469fcb686d7",
     "Name": "Bluesteel Domino Crown",
     "Value": 6000,
-    "RAP": 5343,
+    "RAP": 5204,
     "Image": "https://cdn.pekora.zip/images/thumbnails/631fb1122e32c8ea9ae21a58931ec7ee9842a4830c9eb9c67394da473d6e5a6f.png",
     "Demand": "Low",
     "IsRare": false,
@@ -15938,7 +15938,7 @@
   {
     "Name": "Back Axe Guitar",
     "Value": 0,
-    "RAP": 59,
+    "RAP": 57,
     "Image": "https://cdn.pekora.zip/images/thumbnails/83de448ff6add57489604265d29ab8517a46cb623265b31f66be497ed512d11a.png",
     "Demand": "None",
     "IsRare": false,
@@ -16079,7 +16079,7 @@
   {
     "Name": "Gold Mechaknight Mantle",
     "Value": 0,
-    "RAP": 70,
+    "RAP": 68,
     "Image": "https://cdn.pekora.zip/images/thumbnails/1e27b9634063f066ee5e383372899e2099706711affc2b7f747e6c38768931b6.png",
     "Demand": "None",
     "IsRare": false,
@@ -18469,7 +18469,7 @@
   {
     "Name": "Zebra Fedora",
     "Value": 0,
-    "RAP": 81,
+    "RAP": 78,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=806348&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18499,54 +18499,6 @@
     "ValueChangerNote": "",
     "TypeId": 43,
     "OriginalPrice": 200
-  },
-  {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
-  },
-  {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1469,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
   },
   {
     "itemId": 923157,
@@ -18612,6 +18564,54 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1469,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
     "createdBy": "auto-discover"
   }
 ]
