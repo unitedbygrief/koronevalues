@@ -771,7 +771,7 @@
     "_id": "68c5b08624144ed136ce4f3e",
     "Name": "Viscount of the Federation",
     "Value": 0,
-    "RAP": 2662,
+    "RAP": 2695,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b33c033c4c794620d549a12561c5bb9f8e1b0c38d0f67511bc9a7b8652c04243.png",
     "Demand": "None",
     "IsRare": false,
@@ -5894,7 +5894,7 @@
     "_id": "6900ebf738d2c1e4bb92c79c",
     "Name": "Orange Queen of the Night",
     "Value": 0,
-    "RAP": 1084,
+    "RAP": 1076,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f04d9f58b140398ba32b341c2fb59dcff3bf1b526e8ca57e13ddd6a3084ae498.png",
     "Demand": "None",
     "IsRare": false,
@@ -8123,7 +8123,7 @@
     "_id": "690146d54be3cae41791b187",
     "Name": "Eyes of Everflame",
     "Value": 0,
-    "RAP": 416,
+    "RAP": 415,
     "Image": "https://cdn.pekora.zip/images/thumbnails/841e523f15e1e6d7f2b0ada9be3a4a5d0b589b4091ccc347c45424ecfdb8dc9b.png",
     "Demand": "None",
     "IsRare": false,
@@ -9174,7 +9174,7 @@
     "_id": "691f6c4ed2481ad026643fe3",
     "Name": "BFF Lock",
     "Value": 0,
-    "RAP": 498,
+    "RAP": 494,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d9acdd7a5833659fdb1e919231808a0096fffc767d8826d9af9e78348f66d875.png",
     "Demand": "Unassigned",
     "IsRare": false,
@@ -9232,7 +9232,7 @@
     "_id": "69223acdfea9508e8e87f6af",
     "Name": "BFF Key",
     "Value": 0,
-    "RAP": 573,
+    "RAP": 556,
     "Image": "https://cdn.pekora.zip/images/thumbnails/aaa1645caa22e320522f2ced2569fe5de59b592cf0ea8b654417062415919b3f.png",
     "Demand": "Unassigned",
     "IsRare": false,
@@ -12238,7 +12238,7 @@
     "_id": "69a5b674b06e50e5b5a7d36d",
     "Name": "Inaugural Top Hat",
     "Value": 0,
-    "RAP": 76,
+    "RAP": 73,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f932a230b10549eec6a9c8bdee91182162a7fd8faa510ff7a9507c4cc7530c31.png",
     "Demand": "None",
     "IsRare": false,
@@ -13213,7 +13213,7 @@
     "_id": "69bc3ef4592e9d21c425739a",
     "Name": "St Patrick's Day Fairy",
     "Value": 0,
-    "RAP": 678,
+    "RAP": 652,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c481db1d6c3fd82a435e6b8926789c9480d17c56351d7dc11370d748a69d0774.png",
     "Demand": "None",
     "IsRare": false,
@@ -13501,7 +13501,7 @@
     "_id": "69c475436898ded01581e56c",
     "Name": "Bacon Face",
     "Value": 0,
-    "RAP": 112,
+    "RAP": 115,
     "Image": "https://cdn.pekora.zip/images/thumbnails/327ced3e7cf127a4fb47fea955dec920f86184387fb523141ffbd6504bda9a4e.png",
     "Demand": "None",
     "IsRare": false,
@@ -13593,7 +13593,7 @@
     "_id": "69c6208581c67468a3087f4e",
     "Name": "Teal Mermaid Queen",
     "Value": 0,
-    "RAP": 293,
+    "RAP": 301,
     "Image": "https://cdn.pekora.zip/images/thumbnails/60408328b52853a776f8ea90f120c4251c566f7a94b9814e5483609fb29a943e.png",
     "Demand": "None",
     "IsRare": false,
@@ -13657,7 +13657,7 @@
     "_id": "69d0bfe7b4d2252534288468",
     "Name": "Countess of the Federation",
     "Value": 16000,
-    "RAP": 9600,
+    "RAP": 10540,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3658ae839d1a90e68de360800e977b03efd16137d3fd42c270dc4c3de5b15843.png",
     "Demand": "Decent",
     "IsRare": true,
@@ -15920,7 +15920,7 @@
   {
     "Name": "Noob Assist: Undead Unrest",
     "Value": 0,
-    "RAP": 63,
+    "RAP": 62,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d6dcebf8eaf490a59f421a4794cfd1952028a478e76d2ee73d2c6f0cb075629f.png",
     "Demand": "None",
     "IsRare": false,
@@ -15973,7 +15973,7 @@
   {
     "Name": "Epic Egg",
     "Value": 0,
-    "RAP": 47,
+    "RAP": 49,
     "Image": "https://cdn.pekora.zip/images/thumbnails/07b8637a953b333f766dd595204f207086072c199522c99337af667d9db36e12.png",
     "Demand": "None",
     "IsRare": false,
@@ -18327,7 +18327,7 @@
   {
     "Name": "Overseer Hooded Cloak",
     "Value": 0,
-    "RAP": 46,
+    "RAP": 47,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825724&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18363,7 +18363,7 @@
   {
     "Name": "Overseer Short Sword",
     "Value": 0,
-    "RAP": 143,
+    "RAP": 139,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825722&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,50 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1469,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
     "itemId": 893394,
     "Name": "Rusty McBucketton",
     "Value": 0,
@@ -18611,6 +18567,50 @@
     "Created": "2026-07-21T09:36:11.434Z"
   },
   {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T01:49:02.683Z"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1063,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:13:50.163Z"
+  },
+  {
     "itemId": 893493,
     "Name": "Hotdog Head",
     "Value": 0,
@@ -18633,17 +18633,17 @@
     "Created": "2026-07-21T10:21:47.890Z"
   },
   {
-    "itemId": 926817,
-    "Name": "Indomitus DRS: Exclusive Item",
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
     "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
+    "RAP": 1419,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926817",
+    "Link": "https://www.pekora.zip/catalog/932477",
     "History": [
       {
         "v": 0,
@@ -18652,7 +18652,33 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:14:49.300Z"
+    "Created": "2026-07-21T10:53:18.589Z"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "None",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:11:39.910Z",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T19:35:58.086Z"
   },
   {
     "itemId": 893471,
@@ -18677,17 +18703,17 @@
     "Created": "2026-07-21T09:36:11.434Z"
   },
   {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "RAP": 1469,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
+    "Link": "https://www.pekora.zip/catalog/911735",
     "History": [
       {
         "v": 0,
@@ -18696,7 +18722,29 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:11:39.910Z"
+    "Created": "2026-07-21T01:49:02.683Z"
+  },
+  {
+    "itemId": 926817,
+    "Name": "Indomitus DRS: Exclusive Item",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926817",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:14:49.300Z"
   },
   {
     "itemId": 893463,
@@ -18719,49 +18767,5 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T10:38:50.817Z"
-  },
-  {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1058,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:13:50.163Z"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1257,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:53:18.589Z"
   }
 ]
