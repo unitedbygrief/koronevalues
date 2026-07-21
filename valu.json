@@ -16834,7 +16834,7 @@
   {
     "Name": "Green Amazeface",
     "Value": 0,
-    "RAP": 135,
+    "RAP": 130,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d5753b672a8f0e282ebb915f7ba716fc7d19372a90bf9c7be2d01004b6cee7b4.png",
     "Demand": "None",
     "IsRare": false,
@@ -17289,7 +17289,7 @@
   {
     "Name": "Friendly Fedora",
     "Value": 0,
-    "RAP": 240,
+    "RAP": 232,
     "Image": "https://cdn.pekora.zip/images/thumbnails/462c4bbe9fda40e6d8dd355052cefb3ef8cff26bb95dc3cdb9d9fadd7a18205c.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,94 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1064,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:13:50.163Z"
-  },
-  {
-    "itemId": 926817,
-    "Name": "Indomitus DRS: Exclusive Item",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926817",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:14:49.300Z"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
-    "itemId": 893394,
-    "Name": "Rusty McBucketton",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893394&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893394",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:03:33.681Z"
-  },
-  {
     "itemId": 893230,
     "Name": "Gold Buckle Capotain",
     "Value": 0,
@@ -18633,17 +18545,17 @@
     "Created": "2026-07-21T01:49:02.683Z"
   },
   {
-    "itemId": 893471,
-    "Name": "Werewolf Mask",
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
     "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893471&width=420&height=420&format=png",
+    "RAP": 1064,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893471",
+    "Link": "https://www.pekora.zip/catalog/923157",
     "History": [
       {
         "v": 0,
@@ -18652,7 +18564,29 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:36:11.434Z"
+    "Created": "2026-07-21T02:13:50.163Z"
+  },
+  {
+    "itemId": 926817,
+    "Name": "Indomitus DRS: Exclusive Item",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926817",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:14:49.300Z"
   },
   {
     "itemId": 926762,
@@ -18697,5 +18631,71 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T05:56:13.164Z"
+  },
+  {
+    "itemId": 893394,
+    "Name": "Rusty McBucketton",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893394&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893394",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T09:03:33.681Z"
+  },
+  {
+    "itemId": 893471,
+    "Name": "Werewolf Mask",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893471&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893471",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T09:36:11.434Z"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T01:49:02.683Z"
   }
 ]
