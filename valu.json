@@ -18501,28 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1058,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:13:50.163Z"
-  },
-  {
     "itemId": 893471,
     "Name": "Werewolf Mask",
     "Value": 0,
@@ -18543,94 +18521,6 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T09:36:11.434Z"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:11:39.910Z"
-  },
-  {
-    "itemId": 926817,
-    "Name": "Indomitus DRS: Exclusive Item",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926817",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:14:49.300Z"
-  },
-  {
-    "itemId": 893413,
-    "Name": "Neon Calaca",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893413&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893413",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T05:56:13.164Z"
   },
   {
     "itemId": 911735,
@@ -18677,17 +18567,17 @@
     "Created": "2026-07-21T09:03:33.681Z"
   },
   {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
+    "itemId": 893413,
+    "Name": "Neon Calaca",
     "Value": 0,
-    "RAP": 1257,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893413&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
+    "Link": "https://www.pekora.zip/catalog/893413",
     "History": [
       {
         "v": 0,
@@ -18696,7 +18586,7 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:53:18.589Z"
+    "Created": "2026-07-21T05:56:13.164Z"
   },
   {
     "itemId": 893230,
@@ -18721,17 +18611,17 @@
     "Created": "2026-07-21T09:36:11.434Z"
   },
   {
-    "itemId": 893463,
-    "Name": "Iceworld Smuggler",
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
     "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893463&width=420&height=420&format=png",
+    "RAP": 1257,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893463",
+    "Link": "https://www.pekora.zip/catalog/932477",
     "History": [
       {
         "v": 0,
@@ -18740,7 +18630,29 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:38:50.817Z"
+    "Created": "2026-07-21T10:53:18.589Z"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1058,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:13:50.163Z"
   },
   {
     "itemId": 893493,
@@ -18763,5 +18675,93 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T10:21:47.890Z"
+  },
+  {
+    "itemId": 926817,
+    "Name": "Indomitus DRS: Exclusive Item",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926817",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:14:49.300Z"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T01:49:02.683Z"
+  },
+  {
+    "itemId": 893463,
+    "Name": "Iceworld Smuggler",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893463&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893463",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T10:38:50.817Z"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:11:39.910Z"
   }
 ]
