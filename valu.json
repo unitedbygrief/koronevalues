@@ -1953,7 +1953,7 @@
     "_id": "68e262e14497ac4475e66a69",
     "Name": "Dominus Formidulosus",
     "Value": 0,
-    "RAP": 1417,
+    "RAP": 1382,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cf58981745291b2fd30db587ebecd5a192a2a1d7df09b496dfd621ffde65f299.png",
     "Demand": "None",
     "IsRare": false,
@@ -2542,7 +2542,7 @@
     "_id": "68f88be77949f80410e43919",
     "Name": "Orange Trance",
     "Value": 0,
-    "RAP": 144,
+    "RAP": 148,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ea8cbb044f2dc24011dc88ed259f12c5ecd9da86091cd1d37055c6c39df2c04f.png",
     "Demand": "None",
     "IsRare": false,
@@ -3581,7 +3581,7 @@
     "_id": "6900ded7fa79bfd19f642082",
     "Name": "Dragonfire Sword",
     "Value": 0,
-    "RAP": 69,
+    "RAP": 68,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0d1d438bc68225334006e161704d61cf56442b35c47f9d0d48842f6b78ea0900.png",
     "Demand": "None",
     "IsRare": false,
@@ -4651,7 +4651,7 @@
     "_id": "6900e6dc4055f9c2d4f7ed23",
     "Name": "Monarch Butterfly Smile ",
     "Value": 0,
-    "RAP": 444,
+    "RAP": 449,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0056629c33c6c9ed58fbb909b5fef234d1e48f9abdf16d387808e3b175592e98.png",
     "Demand": "None",
     "IsRare": false,
@@ -5041,7 +5041,7 @@
     "_id": "6900e727793f70ac85a8e15d",
     "Name": "Black Iron Commando",
     "Value": 0,
-    "RAP": 147,
+    "RAP": 143,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bcb24d3583a769338ae028de297aace9e7738da97c227c0b3845d517823b7a6b.png",
     "Demand": "None",
     "IsRare": false,
@@ -6044,7 +6044,7 @@
     "_id": "6900ed175d97557bb587823f",
     "Name": "Camo Commando",
     "Value": 0,
-    "RAP": 164,
+    "RAP": 162,
     "Image": "https://cdn.pekora.zip/images/thumbnails/184e336896130dbb6722e59aaaee54ece1fe909346f23d1b62f48e00221d06f4.png",
     "Demand": "None",
     "IsRare": false,
@@ -12634,7 +12634,7 @@
     "_id": "69a5b67fb06e50e5b5a7d381",
     "Name": "White Beanie with Rainbow Hair",
     "Value": 0,
-    "RAP": 100,
+    "RAP": 103,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0fcd9223e7adfa8872ebef37c6dcb0d0b59883ea7b1492b41f720bd7c7533a2b.png",
     "Demand": "None",
     "IsRare": false,
@@ -15155,7 +15155,7 @@
   {
     "Name": "Crossroads Sugar Egg ",
     "Value": 0,
-    "RAP": 52,
+    "RAP": 53,
     "Image": "https://cdn.pekora.zip/images/thumbnails/230b5e5ae7b884aa8ab04d3869226f908311a11987b74ff877625a7d92807094.png",
     "Demand": "None",
     "IsRare": false,
@@ -15172,7 +15172,7 @@
   {
     "Name": "Chaos Canyon Sugar Egg",
     "Value": 0,
-    "RAP": 53,
+    "RAP": 51,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b20ff62ec786e22a1100d969175138cc357e0f7d969ac99a9f33311cf15bfb80.png",
     "Demand": "None",
     "IsRare": false,
@@ -15740,7 +15740,7 @@
   {
     "Name": "Red Mardi Gras Mask",
     "Value": 0,
-    "RAP": 125,
+    "RAP": 127,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7cde173df5f81623312f15971cbc1a071e3068149b9c2a685a6d9a7f4bf81c5a.png",
     "Demand": "None",
     "IsRare": false,
@@ -17221,7 +17221,7 @@
   {
     "Name": "Pizza Bandit",
     "Value": 0,
-    "RAP": 40,
+    "RAP": 41,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c96ab017cb585bd9dc0f66e04029f20e7e9e137dd2bca8a2699f529e78d4e6c9.png",
     "Demand": "None",
     "IsRare": false,
@@ -18499,5 +18499,119 @@
     "ValueChangerNote": "",
     "TypeId": 43,
     "OriginalPrice": 200
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1469,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1063,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1516,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
   }
 ]
