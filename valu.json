@@ -2462,7 +2462,7 @@
     "_id": "68f77aedb23b85b4d7fed44c",
     "Name": "Blizzaria: The Frozen",
     "Value": 1300,
-    "RAP": 1325,
+    "RAP": 1273,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6fb4524ca47b1499efa0ad88c17a742b17a8d1fd9fd75373cf78afb768911381.png",
     "Demand": "Decent",
     "IsRare": false,
@@ -18501,138 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1127,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:53:18.589Z"
-  },
-  {
-    "itemId": 893463,
-    "Name": "Iceworld Smuggler",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893463&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893463",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:38:50.817Z"
-  },
-  {
-    "itemId": 893471,
-    "Name": "Werewolf Mask",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893471&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893471",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:36:11.434Z"
-  },
-  {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1469,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
-    "itemId": 893493,
-    "Name": "Hotdog Head",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893493&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893493",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:21:47.890Z"
-  },
-  {
-    "itemId": 893413,
-    "Name": "Neon Calaca",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893413&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893413",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T05:56:13.164Z"
-  },
-  {
     "itemId": 893230,
     "Name": "Gold Buckle Capotain",
     "Value": 0,
@@ -18675,6 +18543,72 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T09:03:33.681Z"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1058,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:13:50.163Z"
+  },
+  {
+    "itemId": 893471,
+    "Name": "Werewolf Mask",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893471&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893471",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T09:36:11.434Z"
+  },
+  {
+    "itemId": 893413,
+    "Name": "Neon Calaca",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893413&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893413",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T05:56:13.164Z"
   },
   {
     "itemId": 30731,
@@ -18721,17 +18655,17 @@
     "Created": "2026-07-21T02:11:39.910Z"
   },
   {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
+    "itemId": 893493,
+    "Name": "Hotdog Head",
     "Value": 0,
-    "RAP": 1058,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893493&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
+    "Link": "https://www.pekora.zip/catalog/893493",
     "History": [
       {
         "v": 0,
@@ -18740,7 +18674,7 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:13:50.163Z"
+    "Created": "2026-07-21T10:21:47.890Z"
   },
   {
     "itemId": 926817,
@@ -18763,5 +18697,71 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T02:14:49.300Z"
+  },
+  {
+    "itemId": 893463,
+    "Name": "Iceworld Smuggler",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893463&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893463",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T10:38:50.817Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1469,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T01:49:02.683Z"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1127,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T10:53:18.589Z"
   }
 ]
