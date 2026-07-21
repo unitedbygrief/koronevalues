@@ -35,6 +35,7 @@ jobs:
 
           for iteration in {1..5}; do
             temporary_file="$(mktemp)"
+            formatted_file="$(mktemp)"
 
             if ! curl \
               --fail \
@@ -57,25 +58,26 @@ jobs:
                 --max-time 45 \
                 "https://www.koromons.net/items.json" \
                 --output "$temporary_file"; then
-                rm -f "$temporary_file"
+                rm -f "$temporary_file" "$formatted_file"
                 echo "::error::failed to fetch"
                 exit 1
               fi
             fi
 
             if [ ! -s "$temporary_file" ]; then
-              rm -f "$temporary_file"
+              rm -f "$temporary_file" "$formatted_file"
               echo "::error::failed to fetch"
               exit 1
             fi
 
-            if ! jq empty "$temporary_file"; then
-              rm -f "$temporary_file"
+            if ! jq --indent 2 '.' "$temporary_file" > "$formatted_file"; then
+              rm -f "$temporary_file" "$formatted_file"
               echo "::error::failed to fetch"
               exit 1
             fi
 
-            mv "$temporary_file" valu.json
+            mv "$formatted_file" valu.json
+            rm -f "$temporary_file"
 
             if ! git diff --quiet -- valu.json; then
               git add valu.json
