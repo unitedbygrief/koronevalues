@@ -18501,116 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 926817,
-    "Name": "Indomitus DRS: Exclusive Item",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926817",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:14:49.300Z"
-  },
-  {
-    "itemId": 893413,
-    "Name": "Neon Calaca",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893413&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893413",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T05:56:13.164Z"
-  },
-  {
-    "itemId": 893493,
-    "Name": "Hotdog Head",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893493&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893493",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:21:47.890Z"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
-    "itemId": 893394,
-    "Name": "Rusty McBucketton",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893394&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893394",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:03:33.681Z"
-  },
-  {
     "itemId": 923157,
     "Name": "Ghostfire Sword",
     "Value": 0,
@@ -18633,50 +18523,6 @@
     "Created": "2026-07-21T02:13:50.163Z"
   },
   {
-    "itemId": 893230,
-    "Name": "Gold Buckle Capotain",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893230&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893230",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:36:11.434Z"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1257,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:53:18.589Z"
-  },
-  {
     "itemId": 893471,
     "Name": "Werewolf Mask",
     "Value": 0,
@@ -18697,6 +18543,50 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T09:36:11.434Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1469,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T01:49:02.683Z"
+  },
+  {
+    "itemId": 893413,
+    "Name": "Neon Calaca",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893413&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893413",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T05:56:13.164Z"
   },
   {
     "itemId": 893463,
@@ -18743,17 +18633,127 @@
     "Created": "2026-07-21T02:11:39.910Z"
   },
   {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
+    "itemId": 926817,
+    "Name": "Indomitus DRS: Exclusive Item",
     "Value": 0,
-    "RAP": 1469,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
+    "Link": "https://www.pekora.zip/catalog/926817",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T02:14:49.300Z"
+  },
+  {
+    "itemId": 893230,
+    "Name": "Gold Buckle Capotain",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893230&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893230",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T09:36:11.434Z"
+  },
+  {
+    "itemId": 893394,
+    "Name": "Rusty McBucketton",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893394&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893394",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T09:03:33.681Z"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1257,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T10:53:18.589Z"
+  },
+  {
+    "itemId": 893493,
+    "Name": "Hotdog Head",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893493&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893493",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T10:21:47.890Z"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
     "History": [
       {
         "v": 0,
