@@ -35,6 +35,15 @@ jobs:
 
           for iteration in {1..5}; do
             temporary_file="$(mktemp)"
+            formatted_file="$(mktemp)"
+            previous_file="$(mktemp)"
+            commit_message="$(mktemp)"
+
+            if [ -f valu.json ]; then
+              cp valu.json "$previous_file"
+            else
+              printf '[]\n' > "$previous_file"
+            fi
 
             if ! curl \
               --fail \
@@ -57,32 +66,125 @@ jobs:
                 --max-time 45 \
                 "https://www.koromons.net/items.json" \
                 --output "$temporary_file"; then
-                rm -f "$temporary_file"
+                rm -f \
+                  "$temporary_file" \
+                  "$formatted_file" \
+                  "$previous_file" \
+                  "$commit_message"
+
                 echo "::error::failed to fetch"
                 exit 1
               fi
             fi
 
             if [ ! -s "$temporary_file" ]; then
-              rm -f "$temporary_file"
+              rm -f \
+                "$temporary_file" \
+                "$formatted_file" \
+                "$previous_file" \
+                "$commit_message"
+
               echo "::error::failed to fetch"
               exit 1
             fi
 
-            if ! jq empty "$temporary_file"; then
-              rm -f "$temporary_file"
+            if ! jq --indent 2 '.' "$temporary_file" > "$formatted_file"; then
+              rm -f \
+                "$temporary_file" \
+                "$formatted_file" \
+                "$previous_file" \
+                "$commit_message"
+
               echo "::error::failed to fetch"
               exit 1
             fi
 
-            mv "$temporary_file" valu.json
+            if ! cmp -s "$previous_file" "$formatted_file"; then
+              {
+                echo "chore: automatically update value list"
+                echo
 
-            if ! git diff --quiet -- valu.json; then
+                jq \
+                  --null-input \
+                  --raw-output \
+                  --slurpfile old "$previous_file" \
+                  --slurpfile new "$formatted_file" '
+                    def map_by_id($items):
+                      reduce $items[] as $item (
+                        {};
+                        .[($item.itemId | tostring)] = $item
+                      );
+
+                    def note_text($item):
+                      ($item.ValueChangerNote // "" | tostring);
+
+                    ($old[0] // []) as $old_items |
+                    ($new[0] // []) as $new_items |
+                    map_by_id($old_items) as $old_map |
+
+                    $new_items[] |
+                    . as $new_item |
+                    ($new_item.itemId | tostring) as $item_id |
+                    $old_map[$item_id] as $old_item |
+                    note_text($new_item) as $note |
+
+                    if $old_item == null then
+                      if $note != "" then
+                        "+ New Item: \($new_item.Name) | \($item_id) | Value Changer Note: \($note)"
+                      else
+                        "+ New Item: \($new_item.Name) | \($item_id)"
+                      end
+                    else
+                      [
+                        if $old_item.Value != $new_item.Value then
+                          "Value: \($old_item.Value) -> \($new_item.Value)"
+                        else
+                          empty
+                        end,
+
+                        if $old_item.Demand != $new_item.Demand then
+                          "Demand: \($old_item.Demand) -> \($new_item.Demand)"
+                        else
+                          empty
+                        end,
+
+                        if $old_item.Trend != $new_item.Trend then
+                          "Trend: \($old_item.Trend) -> \($new_item.Trend)"
+                        else
+                          empty
+                        end
+                      ] as $changes |
+
+                      (
+                        ($old_item.ValueChangerNote // "" | tostring) != $note
+                      ) as $note_changed |
+
+                      if (($changes | length) > 0) or $note_changed then
+                        if $note != "" then
+                          "~ \($new_item.Name) | \(($changes + ["Value Changer Note: \($note)"]) | join(" | "))"
+                        else
+                          "~ \($new_item.Name) | \($changes | join(" | "))"
+                        end
+                      else
+                        empty
+                      end
+                    end
+                  '
+              } > "$commit_message"
+
+              mv "$formatted_file" valu.json
+
               git add valu.json
-              git commit -m "chore: automatically update value list"
+              git commit --file "$commit_message"
               git pull --rebase origin "${GITHUB_REF_NAME}"
               git push origin "HEAD:${GITHUB_REF_NAME}"
             fi
+
+            rm -f \
+              "$temporary_file" \
+              "$formatted_file" \
+              "$previous_file" \
+              "$commit_message"
 
             if [ "$iteration" -lt 5 ]; then
               sleep 60
