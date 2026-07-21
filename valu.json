@@ -3249,7 +3249,7 @@
     "_id": "6900ddd3343874ff603c2f30",
     "Name": "Zombie Attack Bunny",
     "Value": 0,
-    "RAP": 255,
+    "RAP": 258,
     "Image": "https://cdn.pekora.zip/images/thumbnails/270faf395bbc7f4cba6f7f61285de02bced121b41606412217e28aa2cbd95259.png",
     "Demand": "None",
     "IsRare": false,
@@ -3377,7 +3377,7 @@
     "_id": "6900de4030462f0a8b9ee6b1",
     "Name": "Clown School Dropout",
     "Value": 0,
-    "RAP": 269,
+    "RAP": 273,
     "Image": "https://cdn.pekora.zip/images/thumbnails/191f4bcf1c0a9a6d4f5362639de437aabebbc29f45e83a15a4b370d645d1ad8e.png",
     "Demand": "None",
     "IsRare": false,
@@ -5391,7 +5391,7 @@
     "_id": "6900e94ed6fba9718c259d8c",
     "Name": "Bluesteel Viking Helm of Infinite Pillage",
     "Value": 0,
-    "RAP": 123,
+    "RAP": 121,
     "Image": "https://cdn.pekora.zip/images/thumbnails/38c0e6d64746ee32781af657359f0dbc7458e7a479a18a36c49c9a6a5c4b74e2.png",
     "Demand": "None",
     "IsRare": false,
@@ -8787,7 +8787,7 @@
     "_id": "6903b6a8319fc42e41fe14ee",
     "Name": "Emerald Valk Shades",
     "Value": 0,
-    "RAP": 257,
+    "RAP": 254,
     "Image": "https://cdn.pekora.zip/images/thumbnails/050470371af47757b4a0e2def9ddfac026431fab1262e8d27978a75276597503.png",
     "Demand": "None",
     "IsRare": false,
@@ -8868,7 +8868,7 @@
     "_id": "69095eb98a46ac1c2016f988",
     "Name": "Musica Infernus Dominator",
     "Value": 0,
-    "RAP": 357,
+    "RAP": 358,
     "Image": "https://cdn.pekora.zip/images/thumbnails/387c88543c1b52b4a34ea119e6e7a7165ddfb2c7ed233d4ee3e346498b908f51.png",
     "Demand": "None",
     "IsRare": false,
@@ -12964,7 +12964,7 @@
     "_id": "69a5b687b06e50e5b5a7d392",
     "Name": "Bluesteel Alterer of Destiny",
     "Value": 0,
-    "RAP": 79,
+    "RAP": 89,
     "Image": "https://cdn.pekora.zip/images/thumbnails/624f2fd3fffb2eaf618063d1c499b95fed91ddc01f1cca97aa6d85c6f2c1b3b7.png",
     "Demand": "None",
     "IsRare": false,
@@ -13024,7 +13024,7 @@
     "_id": "69b0358580b1e2e3729d2333",
     "Name": "O RLY?",
     "Value": 0,
-    "RAP": 105,
+    "RAP": 111,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8ef818a3b58a59b37cd8c2b398e3690a405c649df4da7e3ec127455229973034.png",
     "Demand": "None",
     "IsRare": false,
@@ -13819,7 +13819,7 @@
     "_id": "69d6f5eb79a36f5f55b67f4b",
     "Name": "Bucket",
     "Value": 0,
-    "RAP": 170,
+    "RAP": 160,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3d934780088991708bc2f2972be5618ecc1b9a72aeb2d3902c1019293dbaa76a.png",
     "Demand": "None",
     "IsRare": false,
@@ -14769,7 +14769,7 @@
   {
     "Name": "Xtreme Monochrome Hair",
     "Value": 0,
-    "RAP": 86,
+    "RAP": 75,
     "Image": "https://cdn.pekora.zip/images/thumbnails/845cb88815a5d014184cf3cc037957d34457a2b3bb30a0b0c10f1869a6c15027.png",
     "Demand": "None",
     "IsRare": false,
@@ -18309,7 +18309,7 @@
   {
     "Name": "Overseer Warlord's Sword",
     "Value": 0,
-    "RAP": 164,
+    "RAP": 159,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825726&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18327,7 +18327,7 @@
   {
     "Name": "Overseer Hooded Cloak",
     "Value": 0,
-    "RAP": 45,
+    "RAP": 46,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825724&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18486,7 +18486,7 @@
   {
     "Name": "Tix Bling",
     "Value": 0,
-    "RAP": 453,
+    "RAP": 435,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=445233&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,17 +18501,17 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 893463,
-    "Name": "Iceworld Smuggler",
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
     "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893463&width=420&height=420&format=png",
+    "RAP": 1257,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893463",
+    "Link": "https://www.pekora.zip/catalog/932477",
     "History": [
       {
         "v": 0,
@@ -18520,7 +18520,7 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:38:50.817Z"
+    "Created": "2026-07-21T10:53:18.589Z"
   },
   {
     "itemId": 30731,
@@ -18545,39 +18545,17 @@
     "Created": "2026-07-21T01:49:02.683Z"
   },
   {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1469,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T01:49:02.683Z"
-  },
-  {
-    "itemId": 893394,
-    "Name": "Rusty McBucketton",
+    "itemId": 893463,
+    "Name": "Iceworld Smuggler",
     "Value": 0,
     "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893394&width=420&height=420&format=png",
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893463&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893394",
+    "Link": "https://www.pekora.zip/catalog/893463",
     "History": [
       {
         "v": 0,
@@ -18586,51 +18564,7 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:03:33.681Z"
-  },
-  {
-    "itemId": 926817,
-    "Name": "Indomitus DRS: Exclusive Item",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926817",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T02:14:49.300Z"
-  },
-  {
-    "itemId": 893471,
-    "Name": "Werewolf Mask",
-    "Value": 0,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893471&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893471",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "createdBy": "auto-discover",
-    "Created": "2026-07-21T09:36:11.434Z"
+    "Created": "2026-07-21T10:38:50.817Z"
   },
   {
     "itemId": 923157,
@@ -18655,17 +18589,17 @@
     "Created": "2026-07-21T02:13:50.163Z"
   },
   {
-    "itemId": 893493,
-    "Name": "Hotdog Head",
+    "itemId": 893471,
+    "Name": "Werewolf Mask",
     "Value": 0,
     "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893493&width=420&height=420&format=png",
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893471&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/893493",
+    "Link": "https://www.pekora.zip/catalog/893471",
     "History": [
       {
         "v": 0,
@@ -18674,20 +18608,20 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:21:47.890Z"
+    "Created": "2026-07-21T09:36:11.434Z"
   },
   {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
+    "itemId": 926817,
+    "Name": "Indomitus DRS: Exclusive Item",
     "Value": 0,
-    "RAP": 1144,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926817&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
+    "Link": "https://www.pekora.zip/catalog/926817",
     "History": [
       {
         "v": 0,
@@ -18696,7 +18630,7 @@
     ],
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
-    "Created": "2026-07-21T10:53:18.589Z"
+    "Created": "2026-07-21T02:14:49.300Z"
   },
   {
     "itemId": 926762,
@@ -18719,6 +18653,28 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T02:11:39.910Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1469,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T01:49:02.683Z"
   },
   {
     "itemId": 893413,
@@ -18763,5 +18719,49 @@
     "ValueChangerNote": "",
     "createdBy": "auto-discover",
     "Created": "2026-07-21T09:36:11.434Z"
+  },
+  {
+    "itemId": 893394,
+    "Name": "Rusty McBucketton",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893394&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893394",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T09:03:33.681Z"
+  },
+  {
+    "itemId": 893493,
+    "Name": "Hotdog Head",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=893493&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/893493",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "createdBy": "auto-discover",
+    "Created": "2026-07-21T10:21:47.890Z"
   }
 ]
