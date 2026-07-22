@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 929,
+    "RAP": 859,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -13501,7 +13501,7 @@
     "_id": "69c475436898ded01581e56c",
     "Name": "Bacon Face",
     "Value": 0,
-    "RAP": 120,
+    "RAP": 124,
     "Image": "https://cdn.pekora.zip/images/thumbnails/327ced3e7cf127a4fb47fea955dec920f86184387fb523141ffbd6504bda9a4e.png",
     "Demand": "None",
     "IsRare": false,
@@ -13837,7 +13837,7 @@
     "_id": "69d7127a79a36f5f55b67f90",
     "Name": "Hyperlaser Gun",
     "Value": 0,
-    "RAP": 217,
+    "RAP": 216,
     "Image": "https://cdn.pekora.zip/images/thumbnails/48a452ce8484037218a8a714a1fd81de09e9b390d25ce8775a141d408e725238.png",
     "Demand": "None",
     "IsRare": false,
@@ -15473,7 +15473,7 @@
   {
     "Name": "Earth Day Cowboy",
     "Value": 0,
-    "RAP": 96,
+    "RAP": 93,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4208fd154cf5b1bf88c406a498ecb1503589144152766d49efd674b501934542.png",
     "Demand": "None",
     "IsRare": false,
@@ -15704,7 +15704,7 @@
   {
     "Name": "Steampunk Cowboy",
     "Value": 0,
-    "RAP": 292,
+    "RAP": 304,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f3f7a0a1af1ea7e054edf1fdce405899901637c98a08a1bdc0294c7bbc942cdb.png",
     "Demand": "None",
     "IsRare": false,
@@ -17459,7 +17459,7 @@
   {
     "Name": "Protest Sign: Explode the Fireworks",
     "Value": 0,
-    "RAP": 97,
+    "RAP": 94,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9e101040fdcfd3ffdb381b771fd85b5adbebf87081ab76773577c4209466b59f.png",
     "Demand": "None",
     "IsRare": false,
@@ -17750,7 +17750,7 @@
   {
     "Name": "Spectral Antlers",
     "Value": 0,
-    "RAP": 512,
+    "RAP": 505,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b3a91c5237f4670921f0bb789ceb34ce07050a53cf3690f7e5f98d2015d3d90e.png",
     "Demand": "None",
     "IsRare": false,
@@ -18095,7 +18095,7 @@
   {
     "Name": "Red, White, and Shaggy",
     "Value": 0,
-    "RAP": 253,
+    "RAP": 257,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=869892&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18309,7 +18309,7 @@
   {
     "Name": "Overseer Warlord's Sword",
     "Value": 0,
-    "RAP": 159,
+    "RAP": 154,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825726&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,28 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
     "Value": -666,
@@ -18552,7 +18530,7 @@
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
-    "RAP": 1584,
+    "RAP": 1521,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18612,6 +18590,28 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
   }
 ]
