@@ -60,7 +60,7 @@
     "_id": "68c5a82cca3be7ca1f3add66",
     "Name": "Prankster",
     "Value": 0,
-    "RAP": 1510,
+    "RAP": 1479,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8871bc85533e1e28c8dafb4ba931368bc7cc62b5f61edffe0141000ba44d7420.png",
     "Demand": "None",
     "IsRare": false,
@@ -502,7 +502,7 @@
   {
     "_id": "68c5aee01692bd0f1a0fb8c1",
     "Name": "Dominus Astra",
-    "Value": 185000,
+    "Value": 290000,
     "RAP": 15000,
     "Image": "https://cdn.pekora.zip/images/thumbnails/51618d3bd5c7e48c44957e3da9d233e5cd8fe0b018523ced92e77a21399f52fa.png",
     "Demand": "Decent",
@@ -513,7 +513,7 @@
     ],
     "Acronym": "Astra",
     "Link": "",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "History": [
       25000,
       47500,
@@ -522,7 +522,7 @@
       185000
     ],
     "itemId": 39190,
-    "ValueChangerNote": "Insane overpays, getting a consistent 100k+ across 3 proofs despite being only 55k.",
+    "ValueChangerNote": "Astra has been performing very strongly, getting large overpays, resulting in a raise.",
     "TypeId": 8,
     "OriginalPrice": 450
   },
@@ -916,7 +916,7 @@
     "_id": "68c5b14929a435a9a1c0c752",
     "Name": "Silver King of the Night",
     "Value": 4000,
-    "RAP": 3351,
+    "RAP": 3415,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7e7c6bbd6f52474e23495e2cb65466158e8fcb6322f53db08aa84ada3e7d0b69.png",
     "Demand": "High",
     "IsRare": false,
@@ -940,7 +940,7 @@
     "_id": "68c73bdcec95ec3243b49236",
     "Name": "Perfectly Legitimate Business Hat",
     "Value": 0,
-    "RAP": 316,
+    "RAP": 320,
     "Image": "https://cdn.pekora.zip/images/thumbnails/82db095aea8bf0b5f7b9d99957fb8d7966a7cad68af77fb20d45cf809f0fa160.png",
     "Demand": "None",
     "IsRare": false,
@@ -965,7 +965,7 @@
   {
     "_id": "68c73c55ec95ec3243b49238",
     "Name": "Agonizingly White Bucket of Ultimate Doom",
-    "Value": 1400,
+    "Value": 0,
     "RAP": 1682,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e89e6d93e52f410da0688e7f1f2fa189d803145c1026a0793fbafac941d71511.png",
     "Demand": "Low",
@@ -983,7 +983,7 @@
       1400
     ],
     "itemId": 270398,
-    "ValueChangerNote": "Trend Update",
+    "ValueChangerNote": "Doesn't meet eligibility for valuation.",
     "TypeId": 8,
     "OriginalPrice": 120,
     "LimitedU": true
@@ -1411,7 +1411,7 @@
     "_id": "68caef6a28db36577f2c5ea5",
     "Name": "Brighteyes’ Bloxy Cola Hat",
     "Value": 0,
-    "RAP": 1498,
+    "RAP": 1508,
     "Image": "https://cdn.pekora.zip/images/thumbnails/51f94988ed17150946adc9d6d396be35224afc90f75201c10f785e06b0aaeaf1.png",
     "Demand": "High",
     "IsRare": false,
@@ -1510,7 +1510,7 @@
   {
     "_id": "68caf08d89d01066682727a1",
     "Name": "Yum!",
-    "Value": 3000,
+    "Value": 0,
     "RAP": 2393,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8dbf747b0eaad7a8bd92eeedb6b6f21b322d81d2d287e04315d7a36dd8d02d9d.png",
     "Demand": "Decent",
@@ -1528,7 +1528,7 @@
       0
     ],
     "itemId": 120712,
-    "ValueChangerNote": "Yum has been underperforming well in sales, leading to a drop.",
+    "ValueChangerNote": "Yum no longer meets the requirement to be valued. Performance will be monitored in case it is eligible again.",
     "TypeId": 18,
     "OriginalPrice": 900,
     "LimitedU": true
@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 859,
+    "RAP": 763,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -1953,7 +1953,7 @@
     "_id": "68e262e14497ac4475e66a69",
     "Name": "Dominus Formidulosus",
     "Value": 0,
-    "RAP": 1382,
+    "RAP": 1354,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cf58981745291b2fd30db587ebecd5a192a2a1d7df09b496dfd621ffde65f299.png",
     "Demand": "None",
     "IsRare": false,
@@ -2326,10 +2326,10 @@
   {
     "_id": "68f65a8e99104bb1ce26bce8",
     "Name": "): Fourth of July",
-    "Value": 2000,
+    "Value": 0,
     "RAP": 3247,
     "Image": "https://cdn.pekora.zip/images/thumbnails/af3ac8438d7a1665fa80d82fcd0968d61015a97c26d0d7c80f41fe21d78f0b82.png",
-    "Demand": "Low",
+    "Demand": "Terrible",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -2342,7 +2342,7 @@
       2000
     ],
     "itemId": 112585,
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Doesn't meet eligibility for valuation.",
     "TypeId": 8,
     "OriginalPrice": 250,
     "LimitedU": true
@@ -2440,10 +2440,10 @@
   {
     "_id": "68f77ae4256dfbf4a33d7b7f",
     "Name": "Darkseed the Fallen",
-    "Value": 1500,
+    "Value": 0,
     "RAP": 1635,
     "Image": "https://cdn.pekora.zip/images/thumbnails/50a1de1fc069d97a40c024bea5c984a2e327ea6ae18ca75b0f6b8214f4f5c536.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Darkseed",
@@ -2454,49 +2454,49 @@
       1500
     ],
     "itemId": 16390,
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Doesn't meet eligibility for valuation.",
     "TypeId": 8,
     "OriginalPrice": 111
   },
   {
     "_id": "68f77aedb23b85b4d7fed44c",
     "Name": "Blizzaria: The Frozen",
-    "Value": 1300,
+    "Value": 0,
     "RAP": 1273,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6fb4524ca47b1499efa0ad88c17a742b17a8d1fd9fd75373cf78afb768911381.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Blizz",
     "Link": "https://www.pekora.zip/catalog/87983/--",
-    "Trend": "Fluctuating",
+    "Trend": "Stable",
     "History": [
       0,
       1300
     ],
     "itemId": 87983,
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Doesn't meet eligibility for valuation.",
     "TypeId": 8,
     "OriginalPrice": 100
   },
   {
     "_id": "68f77af5b23b85b4d7fed44d",
     "Name": "Darkseed: The Hallow",
-    "Value": 1200,
+    "Value": 0,
     "RAP": 1103,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a0d0649aaf8690b8f5388dca64ae7ed24bc570acbae2c4bdd2815da34a949079.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Hallow",
     "Link": "https://www.pekora.zip/catalog/15393/--",
-    "Trend": "Fluctuating",
+    "Trend": "Stable",
     "History": [
       0,
       1200
     ],
     "itemId": 15393,
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Doesn't meet eligibility for valuation.",
     "TypeId": 8,
     "OriginalPrice": 130
   },
@@ -2542,7 +2542,7 @@
     "_id": "68f88be77949f80410e43919",
     "Name": "Orange Trance",
     "Value": 0,
-    "RAP": 148,
+    "RAP": 149,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ea8cbb044f2dc24011dc88ed259f12c5ecd9da86091cd1d37055c6c39df2c04f.png",
     "Demand": "None",
     "IsRare": false,
@@ -2935,7 +2935,7 @@
     "_id": "6900d451ff4e8efea3a1cca2",
     "Name": "Gold Clockwork Headphones",
     "Value": 0,
-    "RAP": 1187,
+    "RAP": 1159,
     "Image": "https://cdn.pekora.zip/images/thumbnails/fe2b08dfe23ed8c582eb94f7d1c016a51873effdc262d44e756df058f231a7fa.png",
     "Demand": "None",
     "IsRare": false,
@@ -3947,7 +3947,7 @@
     "_id": "6900e098fa79bfd19f642083",
     "Name": "Rubber Duckie",
     "Value": 0,
-    "RAP": 252,
+    "RAP": 247,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b4c8052bdc6dc5a708a984afb474575447fec1951d634d0dde9d8a51af5e9281.png",
     "Demand": "None",
     "IsRare": false,
@@ -4181,7 +4181,7 @@
     "_id": "6900e0c063faef66f461e883",
     "Name": "Blue Top Hat with White Band",
     "Value": 0,
-    "RAP": 146,
+    "RAP": 141,
     "Image": "https://cdn.pekora.zip/images/thumbnails/76e60a9423c7da2bf50ec735b522a349a19d020f8b9815e1cb7d429a0ecbd972.png",
     "Demand": "None",
     "IsRare": false,
@@ -4633,7 +4633,7 @@
     "_id": "6900e6c1294767dc88d2cef9",
     "Name": "2010 Fireworks",
     "Value": 0,
-    "RAP": 70,
+    "RAP": 68,
     "Image": "https://cdn.pekora.zip/images/thumbnails/48eb02107e3e598794bd0faa120b3f5cd876c5951c13c1c6195851187dfc312a.png",
     "Demand": "None",
     "IsRare": false,
@@ -7406,7 +7406,7 @@
     "_id": "69011221de958938f7055d0d",
     "Name": "JJ5x5's White Top Hat",
     "Value": 0,
-    "RAP": 1064,
+    "RAP": 1077,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f4c36615127a62a18bcb80202e407c6234a5ed6f84a63bdb53d2d8c56fbc497b.png",
     "Demand": "None",
     "IsRare": false,
@@ -7468,7 +7468,7 @@
     "_id": "6901130b85594da8b428e935",
     "Name": "Ninja Mask of Awesome",
     "Value": 0,
-    "RAP": 252,
+    "RAP": 242,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a4f90210c40cd3d85aff7982d34a08bf13d37bda9008efffcd5e3893ffe44ee0.png",
     "Demand": "None",
     "IsRare": false,
@@ -9466,7 +9466,7 @@
     "_id": "692efadcb278d7758cacae9c",
     "Name": "Cyan Equinox",
     "Value": 0,
-    "RAP": 122,
+    "RAP": 127,
     "Image": "https://cdn.pekora.zip/images/thumbnails/1838ef16420ac0fcad996f84c88b19c1348323adaed6f038329526adb519e10c.png",
     "Demand": "None",
     "IsRare": false,
@@ -10823,7 +10823,7 @@
   {
     "_id": "699f904498c7247b26a0c916",
     "Name": "Blue Rock Star Smile",
-    "Value": -1,
+    "Value": 0,
     "RAP": 1293,
     "Image": "https://cdn.pekora.zip/images/thumbnails/11952461cb30c6ea887d647ed7dd5d93fb753db32da173c5c83cf3d6c4dadf66.png",
     "Demand": "None",
@@ -12797,7 +12797,7 @@
     "_id": "69a5b683b06e50e5b5a7d38a",
     "Name": "Gork, Your Caveman Shoulder Friend",
     "Value": 0,
-    "RAP": 206,
+    "RAP": 198,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e987ea34a9c5f89696fbfcebd4e003708b12beb08d95b366827ef95138f1cdfe.png",
     "Demand": "None",
     "IsRare": false,
@@ -14089,7 +14089,7 @@
     "_id": "6a0a37a84468349e062dc420",
     "Name": "Real Flaming Hot Stunnas",
     "Value": 0,
-    "RAP": 4875,
+    "RAP": 4680,
     "Image": "https://cdn.pekora.zip/images/thumbnails/480bcc0e9778f4dcc6c3f86c71a03883c4231504e0d3aa3a180124310e45e16a.png",
     "Demand": "Terrible",
     "IsRare": false,
@@ -14874,7 +14874,7 @@
   {
     "Name": "Square Waffle Top Hat",
     "Value": 0,
-    "RAP": 85,
+    "RAP": 84,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a382b9e0398b4445e81283e7cd1b6f3ef8892603a800e90def8c3fc070fb7b09.png",
     "Demand": "None",
     "IsRare": false,
@@ -17715,7 +17715,7 @@
   {
     "Name": "Monstars Visor",
     "Value": 0,
-    "RAP": 400,
+    "RAP": 390,
     "Image": "https://cdn.pekora.zip/images/thumbnails/24fa8d5613a790d21a4a1569ad18b61d3a9c2bae1a736019c77a1315fb19daf9.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,72 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1076,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1598,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
     "Value": -666,
@@ -18612,6 +18546,72 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1076,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1623,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
   }
 ]
