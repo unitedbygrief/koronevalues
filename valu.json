@@ -4336,7 +4336,7 @@
     "_id": "6900e4f3990883a6ae5b6236",
     "Name": "Blue Bubble Trouble",
     "Value": 0,
-    "RAP": 321,
+    "RAP": 309,
     "Image": "https://cdn.pekora.zip/images/thumbnails/714a64aa6519f11a6bb3ed8689d108bb663b37a07e89a23e22e3b8ef3af565c1.png",
     "Demand": "None",
     "IsRare": false,
@@ -4614,7 +4614,7 @@
     "_id": "6900e56756ed3717c3885078",
     "Name": "Green Bubble Trouble",
     "Value": 0,
-    "RAP": 268,
+    "RAP": 269,
     "Image": "https://cdn.pekora.zip/images/thumbnails/31a6fa88bdf7fddfcc2def7311c34d02e05f3ddacaad5caf9105c8559a8d80e7.png",
     "Demand": "None",
     "IsRare": false,
@@ -7772,7 +7772,7 @@
     "_id": "690118e837553a90508b9609",
     "Name": "Double Rainbow",
     "Value": 0,
-    "RAP": 264,
+    "RAP": 254,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cb8fa904a2a02605ee84682f607d0ea433f30785f5477318f23c44f01f2ee72f.png",
     "Demand": "None",
     "IsRare": false,
@@ -8324,7 +8324,7 @@
     "_id": "6901c5c6b9b97a9d44e9f038",
     "Name": "Bubble Trouble",
     "Value": 0,
-    "RAP": 325,
+    "RAP": 312,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0df0630c8ac8243b220355eec4a1d74c44fa18e88046b585f617d1f92a459148.png",
     "Demand": "None",
     "IsRare": false,
@@ -11429,7 +11429,7 @@
     "_id": "69a5b649b06e50e5b5a7d344",
     "Name": "Snow Leopard Fedora",
     "Value": 0,
-    "RAP": 381,
+    "RAP": 368,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a777ba6c70709c14d5c7eb5794bdd01f9b358cae92fb808e48111164285f30c2.png",
     "Demand": "None",
     "IsRare": false,
@@ -12300,7 +12300,7 @@
     "_id": "69a5b676b06e50e5b5a7d370",
     "Name": "Red Rock Star Smile",
     "Value": 0,
-    "RAP": 672,
+    "RAP": 665,
     "Image": "https://cdn.pekora.zip/images/thumbnails/274b7e3168ea60bc456a7114dd6a0c576f1a0bf620ce2a4241f9bceb433189a7.png",
     "Demand": "None",
     "IsRare": false,
@@ -13213,7 +13213,7 @@
     "_id": "69bc3ef4592e9d21c425739a",
     "Name": "St Patrick's Day Fairy",
     "Value": 0,
-    "RAP": 652,
+    "RAP": 637,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c481db1d6c3fd82a435e6b8926789c9480d17c56351d7dc11370d748a69d0774.png",
     "Demand": "None",
     "IsRare": false,
@@ -18381,7 +18381,7 @@
   {
     "Name": "Overseer Armor Pauldrons",
     "Value": 0,
-    "RAP": 117,
+    "RAP": 114,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825721&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18435,7 +18435,7 @@
   {
     "Name": "Game Over",
     "Value": 0,
-    "RAP": 67,
+    "RAP": 65,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=824544&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,36 +18501,10 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
-  },
-  {
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
-    "RAP": 1521,
+    "RAP": 1558,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18552,7 +18526,7 @@
     "itemId": 923157,
     "Name": "Ghostfire Sword",
     "Value": 0,
-    "RAP": 1063,
+    "RAP": 1076,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18574,7 +18548,7 @@
     "itemId": 932477,
     "Name": "Grimgold Periastron Beta",
     "Value": 0,
-    "RAP": 1582,
+    "RAP": 1598,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18613,5 +18587,31 @@
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
   }
 ]
