@@ -1975,10 +1975,10 @@
   {
     "_id": "68e6b8c9eebde4cd49146044",
     "Name": "Al Capwn",
-    "Value": 900,
+    "Value": 0,
     "RAP": 1184,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5ead1f212a5a75c7f73bdfcb294697987db873a298542843505755f066d378f6.png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "IsRare": false,
     "Tags": [],
     "Acronym": "Al",
@@ -1988,7 +1988,7 @@
       900
     ],
     "itemId": 34439,
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Doesn't meet eligibility for valuation.",
     "TypeId": 8,
     "OriginalPrice": 100,
     "LimitedU": true
