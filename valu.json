@@ -2990,7 +2990,7 @@
     "_id": "6900d451eb8e2ec784196466",
     "Name": "Kitty Monster",
     "Value": 0,
-    "RAP": 240,
+    "RAP": 224,
     "Image": "https://cdn.pekora.zip/images/thumbnails/37709206d2c5060a2e0a75bff4df3284df91c55bff6877f193c807ddfa99a1da.png",
     "Demand": "None",
     "IsRare": false,
@@ -4450,7 +4450,7 @@
     "_id": "6900e53087fca86375996555",
     "Name": "Legendary Egg of Gygax",
     "Value": 0,
-    "RAP": 331,
+    "RAP": 328,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a7dc4e1ad19ab61731cb2a571f54247c9e31f8f4e16299f0e02a7b4a74f3571b.png",
     "Demand": "None",
     "IsRare": false,
@@ -10220,7 +10220,7 @@
     "_id": "696a393db70b9ef84aec68c1",
     "Name": "Green-eyed Awesome Face",
     "Value": 0,
-    "RAP": 100,
+    "RAP": 102,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9d349903c16fbcbc4946962c83f691106c6b1c0850e13ba161b161caa3db5b32.png",
     "Demand": "None",
     "IsRare": false,
@@ -13347,7 +13347,7 @@
     "_id": "69c3aa0f640ae2d125cf0c4d",
     "Name": "Project X Russian Flag",
     "Value": 0,
-    "RAP": 906,
+    "RAP": 871,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ff28a15a6de77f90248d654e5c50195a23398750183235f0de0b5db98b393416.png",
     "Demand": "None",
     "IsRare": false,
@@ -13501,7 +13501,7 @@
     "_id": "69c475436898ded01581e56c",
     "Name": "Bacon Face",
     "Value": 0,
-    "RAP": 115,
+    "RAP": 120,
     "Image": "https://cdn.pekora.zip/images/thumbnails/327ced3e7cf127a4fb47fea955dec920f86184387fb523141ffbd6504bda9a4e.png",
     "Demand": "None",
     "IsRare": false,
@@ -16007,7 +16007,7 @@
   {
     "Name": "Lost Boy of Winter",
     "Value": 0,
-    "RAP": 80,
+    "RAP": 77,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8381b25d382d47988e2dc678572374529b6333de87a9050907d50b1de2cc20de.png",
     "Demand": "None",
     "IsRare": false,
@@ -16762,7 +16762,7 @@
   {
     "Name": "Crimson Evil Eye",
     "Value": 0,
-    "RAP": 123,
+    "RAP": 119,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7ae1ef5d4af25917e4769b75e08811875a11db6218d79e68831a239bf3309faf.png",
     "Demand": "None",
     "IsRare": false,
@@ -16992,7 +16992,7 @@
   {
     "Name": "Green Starface ",
     "Value": 0,
-    "RAP": 86,
+    "RAP": 85,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e35f6ad8c1bb7ea67e83a00beb7a1719a4ce87c3cc65fe47626d5ea771740cf0.png",
     "Demand": "None",
     "IsRare": false,
@@ -18327,7 +18327,7 @@
   {
     "Name": "Overseer Hooded Cloak",
     "Value": 0,
-    "RAP": 47,
+    "RAP": 49,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825724&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,6 +18501,28 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1063,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 932477,
     "Name": "Grimgold Periastron Beta",
     "Value": 0,
@@ -18582,28 +18604,6 @@
     "Tags": [],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1063,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
     "History": [
       {
         "v": 0,
