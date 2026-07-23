@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 737,
+    "RAP": 720,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -3213,7 +3213,7 @@
     "_id": "6900ddd36e1706e9bc071357",
     "Name": "Recycled Cardboard Fedora",
     "Value": 0,
-    "RAP": 189,
+    "RAP": 195,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c3d30547fb45e032dbb1b2e6f2c4b252434939103b3b3db61a08b7a1f4e8e41.png",
     "Demand": "None",
     "IsRare": false,
@@ -3910,7 +3910,7 @@
     "_id": "6900e098479d0947d6164ada",
     "Name": "The Last Egg of 2012",
     "Value": 0,
-    "RAP": 316,
+    "RAP": 326,
     "Image": "https://cdn.pekora.zip/images/thumbnails/870cd4f8d8d008f6ce7b1d9e3cfe0612a5de1a79bb986571fb6e5ec1109d369e.png",
     "Demand": "None",
     "IsRare": false,
@@ -4336,7 +4336,7 @@
     "_id": "6900e4f3990883a6ae5b6236",
     "Name": "Blue Bubble Trouble",
     "Value": 0,
-    "RAP": 309,
+    "RAP": 299,
     "Image": "https://cdn.pekora.zip/images/thumbnails/714a64aa6519f11a6bb3ed8689d108bb663b37a07e89a23e22e3b8ef3af565c1.png",
     "Demand": "None",
     "IsRare": false,
@@ -5041,7 +5041,7 @@
     "_id": "6900e727793f70ac85a8e15d",
     "Name": "Black Iron Commando",
     "Value": 0,
-    "RAP": 140,
+    "RAP": 138,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bcb24d3583a769338ae028de297aace9e7738da97c227c0b3845d517823b7a6b.png",
     "Demand": "None",
     "IsRare": false,
@@ -5594,7 +5594,7 @@
     "_id": "6900eb1138d2c1e4bb92c799",
     "Name": "Blue Banded Top Hat",
     "Value": 0,
-    "RAP": 196,
+    "RAP": 199,
     "Image": "https://cdn.pekora.zip/images/thumbnails/eb082635362516dcdfabbcc35f184f1d52c3e838b98e1fe1d1a84138f0d2b1f4.png",
     "Demand": "None",
     "IsRare": false,
@@ -5875,7 +5875,7 @@
     "_id": "6900ebfba881a0d64f9f58a8",
     "Name": "Icy Blue Viking Helm of Frozen Victory",
     "Value": 0,
-    "RAP": 122,
+    "RAP": 133,
     "Image": "https://cdn.pekora.zip/images/thumbnails/37832c657d2bfc39769d92a7fe20ff0190b8ddf292755df8a57628e3fd459444.png",
     "Demand": "None",
     "IsRare": false,
@@ -10083,7 +10083,7 @@
     "_id": "6967f2edf7d85cc065d02cbe",
     "Name": "Scenic Egg of the Clouds",
     "Value": 0,
-    "RAP": 118,
+    "RAP": 114,
     "Image": "https://cdn.pekora.zip/images/thumbnails/068dc421934a21d1c60dbe6ede4f4c01958527c0064fed11341916d95b473e62.png",
     "Demand": "None",
     "IsRare": false,
@@ -10220,7 +10220,7 @@
     "_id": "696a393db70b9ef84aec68c1",
     "Name": "Green-eyed Awesome Face",
     "Value": 0,
-    "RAP": 102,
+    "RAP": 105,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9d349903c16fbcbc4946962c83f691106c6b1c0850e13ba161b161caa3db5b32.png",
     "Demand": "None",
     "IsRare": false,
@@ -12676,7 +12676,7 @@
     "_id": "69a5b680b06e50e5b5a7d383",
     "Name": "Sorcus' Chair",
     "Value": 0,
-    "RAP": 128,
+    "RAP": 123,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4ef6d9e534129e4989d6f663395da8a32602bdd5a9a1b345f2e44a158afdd05d.png",
     "Demand": "None",
     "IsRare": false,
@@ -13520,7 +13520,7 @@
     "_id": "69c4b9c36898ded01581e5bc",
     "Name": "Pretty Pretty Princess",
     "Value": 0,
-    "RAP": 1087,
+    "RAP": 1113,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3189262cc53a1e5aa248dae239ddadedbabe3c54363f7ad97f2f327e9bae3426.png",
     "Demand": "None",
     "IsRare": false,
@@ -13819,7 +13819,7 @@
     "_id": "69d6f5eb79a36f5f55b67f4b",
     "Name": "Bucket",
     "Value": 0,
-    "RAP": 160,
+    "RAP": 164,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3d934780088991708bc2f2972be5618ecc1b9a72aeb2d3902c1019293dbaa76a.png",
     "Demand": "None",
     "IsRare": false,
@@ -18219,7 +18219,7 @@
   {
     "Name": "Amethyst Vision Visor",
     "Value": 0,
-    "RAP": 95,
+    "RAP": 92,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=853278&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18381,7 +18381,7 @@
   {
     "Name": "Overseer Armor Pauldrons",
     "Value": 0,
-    "RAP": 114,
+    "RAP": 111,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825721&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,6 +18501,32 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
@@ -18587,31 +18613,5 @@
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
   }
 ]
