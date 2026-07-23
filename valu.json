@@ -940,7 +940,7 @@
     "_id": "68c73bdcec95ec3243b49236",
     "Name": "Perfectly Legitimate Business Hat",
     "Value": 0,
-    "RAP": 320,
+    "RAP": 326,
     "Image": "https://cdn.pekora.zip/images/thumbnails/82db095aea8bf0b5f7b9d99957fb8d7966a7cad68af77fb20d45cf809f0fa160.png",
     "Demand": "None",
     "IsRare": false,
@@ -1212,7 +1212,7 @@
     "_id": "68caec7269be20ebfd8927f2",
     "Name": "Fiery Horns of the Netherworld",
     "Value": 7000,
-    "RAP": 6431,
+    "RAP": 6537,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3d2264eeacad08d87f56c18901a8b3b69c9a18444a9085195f5d78bcb1b0d5b2.png",
     "Demand": "High",
     "IsRare": false,
@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 639,
+    "RAP": 614,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -6272,7 +6272,7 @@
     "_id": "6900ee690fac50229a79b34e",
     "Name": "Orange Shaggy",
     "Value": 0,
-    "RAP": 171,
+    "RAP": 182,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a0f186beef07162264f582c692dbef1c4dee24805acea42004cb803b3e976c8d.png",
     "Demand": "None",
     "IsRare": false,
@@ -7732,7 +7732,7 @@
     "_id": "690118ca51d622ea474a9236",
     "Name": "Green Top Hat with White Band",
     "Value": 0,
-    "RAP": 123,
+    "RAP": 129,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3739b5a7fdbdbf8fadfe5cfacd2f5bc2e1317f9c181f56568960e465e791315f.png",
     "Demand": "None",
     "IsRare": false,
@@ -8269,7 +8269,7 @@
     "_id": "690161527f753fec25888104",
     "Name": "Lime Green Shaggy",
     "Value": 0,
-    "RAP": 149,
+    "RAP": 164,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2be596edfb628a9dae05339e63fb888e8d77aa87dbb393e07eeb6e17b1137f31.png",
     "Demand": "None",
     "IsRare": false,
@@ -16475,7 +16475,7 @@
   {
     "Name": "Arctic Commando",
     "Value": 0,
-    "RAP": 937,
+    "RAP": 900,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b0318dc1e76cb6b78a473cf238f9fab08224e98d2bbfa2cd533cf9ac93bb9481.png",
     "Demand": "None",
     "IsRare": false,
@@ -17476,7 +17476,7 @@
   {
     "Name": "BIG: Silverthorn Antlers",
     "Value": 0,
-    "RAP": 262,
+    "RAP": 252,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a6fa80b1034c3ce1e8304f0749cb2d3038dc4c71f72c2574398d2e93215a7c34.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,6 +18501,28 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1558,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 923157,
     "Name": "Ghostfire Sword",
     "Value": 0,
@@ -18526,7 +18548,7 @@
     "itemId": 932477,
     "Name": "Grimgold Periastron Beta",
     "Value": 0,
-    "RAP": 1611,
+    "RAP": 1600,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18548,7 +18570,7 @@
     "itemId": 30731,
     "Name": "Real Scorching Frost Stunnas",
     "Value": 0,
-    "RAP": 142,
+    "RAP": 139,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18564,6 +18586,28 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
   },
   {
@@ -18591,27 +18635,5 @@
     "createdBy": "auto-discover",
     "updatedBy": 13224,
     "updatedAt": "2026-07-21T20:03:01.067Z"
-  },
-  {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1558,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
   }
 ]
