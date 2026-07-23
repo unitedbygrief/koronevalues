@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 763,
+    "RAP": 737,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -4614,7 +4614,7 @@
     "_id": "6900e56756ed3717c3885078",
     "Name": "Green Bubble Trouble",
     "Value": 0,
-    "RAP": 269,
+    "RAP": 270,
     "Image": "https://cdn.pekora.zip/images/thumbnails/31a6fa88bdf7fddfcc2def7311c34d02e05f3ddacaad5caf9105c8559a8d80e7.png",
     "Demand": "None",
     "IsRare": false,
@@ -5797,7 +5797,7 @@
     "_id": "6900ebbe93995cbf435e4d7f",
     "Name": "Blue Queen of the Night",
     "Value": 0,
-    "RAP": 979,
+    "RAP": 956,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c71c2b102bd1b8f1906b6a223b142502f848479e4d71f7e3a9456865d1c6e0bf.png",
     "Demand": "None",
     "IsRare": false,
@@ -8324,7 +8324,7 @@
     "_id": "6901c5c6b9b97a9d44e9f038",
     "Name": "Bubble Trouble",
     "Value": 0,
-    "RAP": 312,
+    "RAP": 321,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0df0630c8ac8243b220355eec4a1d74c44fa18e88046b585f617d1f92a459148.png",
     "Demand": "None",
     "IsRare": false,
@@ -15669,7 +15669,7 @@
   {
     "Name": "Sapphiresea Battlehelm",
     "Value": 0,
-    "RAP": 54,
+    "RAP": 55,
     "Image": "https://cdn.pekora.zip/images/thumbnails/37cf2f9864a25f03ad555efad31d37d58393b44674cc5f78ba64f78745678827.png",
     "Demand": "None",
     "IsRare": false,
@@ -16939,7 +16939,7 @@
   {
     "Name": "True Love Smile",
     "Value": 0,
-    "RAP": 84,
+    "RAP": 81,
     "Image": "https://cdn.pekora.zip/images/thumbnails/06604804770777c7c363f1800cd876b257b77d1bba862ebfd15c50423d7e2725.png",
     "Demand": "None",
     "IsRare": false,
@@ -17697,7 +17697,7 @@
   {
     "Name": "Neon Pink Shaggy",
     "Value": 0,
-    "RAP": 241,
+    "RAP": 237,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d3ed4f1585c1a1b33d659ecff700daf19dd8593097bfd4c6603233c71ce9ebfa.png",
     "Demand": "None",
     "IsRare": false,
@@ -18219,7 +18219,7 @@
   {
     "Name": "Amethyst Vision Visor",
     "Value": 0,
-    "RAP": 98,
+    "RAP": 95,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=853278&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,50 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1076,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1623,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 30731,
     "Name": "Real Scorching Frost Stunnas",
     "Value": 0,
@@ -18612,6 +18568,50 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1078,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1623,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
     "createdBy": "auto-discover"
   }
 ]
