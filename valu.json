@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 692,
+    "RAP": 665,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -5797,7 +5797,7 @@
     "_id": "6900ebbe93995cbf435e4d7f",
     "Name": "Blue Queen of the Night",
     "Value": 0,
-    "RAP": 956,
+    "RAP": 936,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c71c2b102bd1b8f1906b6a223b142502f848479e4d71f7e3a9456865d1c6e0bf.png",
     "Demand": "None",
     "IsRare": false,
@@ -7714,7 +7714,7 @@
     "_id": "690118bd30c917c7f581b48c",
     "Name": "Chill Cap",
     "Value": 0,
-    "RAP": 191,
+    "RAP": 184,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9ee5a42ca0098df93d9bee0003de16aa0311e16dcfa535656349683cdce63a96.png",
     "Demand": "None",
     "IsRare": false,
@@ -13819,7 +13819,7 @@
     "_id": "69d6f5eb79a36f5f55b67f4b",
     "Name": "Bucket",
     "Value": 0,
-    "RAP": 165,
+    "RAP": 166,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3d934780088991708bc2f2972be5618ecc1b9a72aeb2d3902c1019293dbaa76a.png",
     "Demand": "None",
     "IsRare": false,
@@ -13986,7 +13986,7 @@
     "_id": "69d7b64e79a36f5f55b680ab",
     "Name": "Crimson Shaggy",
     "Value": 0,
-    "RAP": 181,
+    "RAP": 182,
     "Image": "https://cdn.pekora.zip/images/thumbnails/50f0e88baaf51867dfee22f5101a0f5465c80c13fcae03b0e87733d707315d7b.png",
     "Demand": "None",
     "IsRare": false,
@@ -14892,7 +14892,7 @@
   {
     "Name": "Dark Horns of Pwnage",
     "Value": 3000,
-    "RAP": 2495,
+    "RAP": 2446,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d7fb57d1892fb909b1fda72b2851beb9ac0c981b2cbae14036bdf30fb9e5cecd.png",
     "Demand": "Low",
     "IsRare": false,
@@ -16780,7 +16780,7 @@
   {
     "Name": "Rose Amazeface",
     "Value": 0,
-    "RAP": 140,
+    "RAP": 135,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4e4ecea90388bf9e4eb947fb0f5b8f9ea91ca5577c525004e211056af831d529.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,54 +18501,10 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1558,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1078,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 932477,
     "Name": "Grimgold Periastron Beta",
     "Value": 0,
-    "RAP": 1623,
+    "RAP": 1611,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18613,5 +18569,49 @@
     "createdBy": "auto-discover",
     "updatedBy": 13224,
     "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1558,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1078,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
   }
 ]
