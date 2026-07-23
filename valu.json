@@ -529,17 +529,17 @@
   {
     "_id": "68c5af001692bd0f1a0fb8c2",
     "Name": "Dominus Empyreus",
-    "Value": 460000,
+    "Value": 500000,
     "RAP": 12050,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c28f676a9e4fd9b7891ccce63ba37b4d1f5740229775edb35e44f1808d292a60.png",
-    "Demand": "Low",
+    "Demand": "Decent",
     "IsRare": true,
     "Tags": [
       "Rare"
     ],
     "Acronym": "Emp",
     "Link": "https://www.pekora.zip/catalog/37738/--",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "History": [
       60000,
       {
@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 614,
+    "RAP": 572,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -4199,7 +4199,7 @@
     "_id": "6900e4982ba26af47d273a47",
     "Name": "Danger's Minion",
     "Value": 0,
-    "RAP": 53,
+    "RAP": 54,
     "Image": "https://cdn.pekora.zip/images/thumbnails/fbd34a01db678ffe372f3aa8753962f64e32459fe7433c59fc5018b9559cda5b.png",
     "Demand": "None",
     "IsRare": false,
@@ -7620,7 +7620,7 @@
     "_id": "690118628ec167bb97e7e470",
     "Name": "Doge Bunny",
     "Value": 0,
-    "RAP": 266,
+    "RAP": 260,
     "Image": "https://cdn.pekora.zip/images/thumbnails/316bb4ac65be3491a99d542ed09c6404c5caf735f1c71a48ba3212c73bf00b75.png",
     "Demand": "None",
     "IsRare": false,
@@ -12922,7 +12922,7 @@
     "_id": "69a5b686b06e50e5b5a7d390",
     "Name": "Bluesteel Shutter Shades",
     "Value": 0,
-    "RAP": 173,
+    "RAP": 167,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5a7fdfaf0113ac46438f5b19274399c2664572ee25fc042b4578204c1d5506f3.png",
     "Demand": "None",
     "IsRare": false,
@@ -13194,7 +13194,7 @@
     "_id": "69bae942b6ae0e8c4307f2b8",
     "Name": "Green Super Happy Joy",
     "Value": 0,
-    "RAP": 136,
+    "RAP": 132,
     "Image": "https://cdn.pekora.zip/images/thumbnails/430aecdffa6b47e7b292f7856982285499af58b287ecd15b25672eac80b8efbf.png",
     "Demand": "None",
     "IsRare": false,
@@ -16493,7 +16493,7 @@
   {
     "Name": "Seeing Stars",
     "Value": 0,
-    "RAP": 136,
+    "RAP": 134,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d49d56d2a6ed9a1beac85b3c4299c5dfdb00c4a30e834e7910f2beafc6149d47.png",
     "Demand": "None",
     "IsRare": false,
@@ -16762,7 +16762,7 @@
   {
     "Name": "Crimson Evil Eye",
     "Value": 0,
-    "RAP": 116,
+    "RAP": 115,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7ae1ef5d4af25917e4769b75e08811875a11db6218d79e68831a239bf3309faf.png",
     "Demand": "None",
     "IsRare": false,
@@ -16816,7 +16816,7 @@
   {
     "Name": "Blue Amazeface",
     "Value": 0,
-    "RAP": 143,
+    "RAP": 138,
     "Image": "https://cdn.pekora.zip/images/thumbnails/735d9c33a7d7bb3c16107a343914dc16a8131ce25c58b39bf4e301726cb1d7a5.png",
     "Demand": "None",
     "IsRare": false,
@@ -18007,7 +18007,7 @@
   {
     "Name": "Immortal Sword: Burning Embrace",
     "Value": 0,
-    "RAP": 511,
+    "RAP": 491,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7b326b8ef6fbf99efc3b0174f11261ec98a4ec840df1a78f702c9b7b8028de76.png",
     "Demand": "None",
     "IsRare": false,
@@ -18095,7 +18095,7 @@
   {
     "Name": "Red, White, and Shaggy",
     "Value": 0,
-    "RAP": 257,
+    "RAP": 261,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=869892&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,72 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1600,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 139,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
     "Value": -666,
@@ -18634,6 +18568,72 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1600,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 139,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
   }
 ]
