@@ -18501,6 +18501,54 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
@@ -18587,53 +18635,5 @@
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
   }
 ]
