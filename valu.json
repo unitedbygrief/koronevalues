@@ -316,15 +316,15 @@
   {
     "_id": "68c5aaeb12cddae3b79c0d3a",
     "Name": "Red Sparkle Time Fedora",
-    "Value": 45000,
+    "Value": 62500,
     "RAP": 26800,
     "Image": "https://cdn.pekora.zip/images/thumbnails/522a2b33dfa6ad4e09e1b8df5129c9fd4c0ea2061449148acbafc69a3776d9fc.png",
-    "Demand": "High",
+    "Demand": "Decent",
     "IsRare": false,
     "Tags": [],
     "Acronym": "RSTF",
     "Link": "https://www.pekora.zip/catalog/44745/--",
-    "Trend": "Fluctuating",
+    "Trend": "Stable",
     "History": [
       18500,
       28000,
@@ -337,7 +337,7 @@
       85000
     ],
     "itemId": 44745,
-    "ValueChangerNote": "Red sparkle time fedora has been performing pretty good lately even after its recent restock, leading to the valuation!",
+    "ValueChangerNote": "Red sparkle time fedora has been performing pretty good lately leading to a raise :)",
     "TypeId": 8,
     "OriginalPrice": 2000,
     "LimitedU": true
@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 665,
+    "RAP": 639,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -3966,7 +3966,7 @@
     "_id": "6900e098d41ef68a3973b180",
     "Name": "Shaggy",
     "Value": 0,
-    "RAP": 706,
+    "RAP": 678,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bd15fb65fc495d804a866f5e176f59784398861aca5c5d5aeafd685bb09a162a.png",
     "Demand": "None",
     "IsRare": false,
@@ -4181,7 +4181,7 @@
     "_id": "6900e0c063faef66f461e883",
     "Name": "Blue Top Hat with White Band",
     "Value": 0,
-    "RAP": 141,
+    "RAP": 146,
     "Image": "https://cdn.pekora.zip/images/thumbnails/76e60a9423c7da2bf50ec735b522a349a19d020f8b9815e1cb7d429a0ecbd972.png",
     "Demand": "None",
     "IsRare": false,
@@ -4336,7 +4336,7 @@
     "_id": "6900e4f3990883a6ae5b6236",
     "Name": "Blue Bubble Trouble",
     "Value": 0,
-    "RAP": 299,
+    "RAP": 290,
     "Image": "https://cdn.pekora.zip/images/thumbnails/714a64aa6519f11a6bb3ed8689d108bb663b37a07e89a23e22e3b8ef3af565c1.png",
     "Demand": "None",
     "IsRare": false,
@@ -5612,7 +5612,7 @@
     "_id": "6900eb56ba78a88935342555",
     "Name": "Infernal Undead Immortal Sword",
     "Value": 0,
-    "RAP": 1364,
+    "RAP": 1313,
     "Image": "https://cdn.pekora.zip/images/thumbnails/353ac83f19d46b4ff67089bc959110350232ba247085ab02e383f5b786053d37.png",
     "Demand": "None",
     "IsRare": false,
@@ -5722,7 +5722,7 @@
     "_id": "6900eb9d032ad54929dec23b",
     "Name": "Rockstar Disguise",
     "Value": 0,
-    "RAP": 97,
+    "RAP": 130,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b81bf4ca6233d00ae45b114b3f99bcb3e19f37a547351951e439e11024b8965e.png",
     "Demand": "None",
     "IsRare": false,
@@ -10696,7 +10696,7 @@
     "_id": "699e3fc098c7247b26a0c378",
     "Name": "George Washingtons Cat",
     "Value": 0,
-    "RAP": 475,
+    "RAP": 456,
     "Image": "https://cdn.pekora.zip/images/thumbnails/fe7e38d242593e292a3e37b7ab4eacc580d0a11549b94e6f005e26ccb81be9f3.png",
     "Demand": "None",
     "IsRare": false,
@@ -13232,7 +13232,7 @@
     "_id": "69bc75a1ebb98046a00e2024",
     "Name": "For the Ages: Saint Patrick",
     "Value": 0,
-    "RAP": 47,
+    "RAP": 46,
     "Image": "https://cdn.pekora.zip/images/thumbnails/43496052fe7466e22daea7e368ab75d540a174bf4cb93bbbc53cdafcd2b5eb4a.png",
     "Demand": "None",
     "IsRare": false,
@@ -13700,7 +13700,7 @@
     "_id": "69d65ff17d206b888b4f1250",
     "Name": "Blue Chrome Glasses",
     "Value": 0,
-    "RAP": 160,
+    "RAP": 154,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bfe0d627b17d0460e0ccf7384bc6ec764ee4b3f35bffb824711b3694238431cd.png",
     "Demand": "None",
     "IsRare": false,
@@ -15973,7 +15973,7 @@
   {
     "Name": "Epic Egg",
     "Value": 0,
-    "RAP": 49,
+    "RAP": 54,
     "Image": "https://cdn.pekora.zip/images/thumbnails/07b8637a953b333f766dd595204f207086072c199522c99337af667d9db36e12.png",
     "Demand": "None",
     "IsRare": false,
@@ -16186,7 +16186,7 @@
   {
     "Name": "Gravitron 3000",
     "Value": 0,
-    "RAP": 52,
+    "RAP": 50,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4656ec9eb2abc53882400246cdbdddfe6c22ed5e464c5fe0bf613253e603410d.png",
     "Demand": "None",
     "IsRare": false,
@@ -16242,7 +16242,7 @@
   {
     "Name": "Light Face Melting Guitar",
     "Value": 0,
-    "RAP": 113,
+    "RAP": 109,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b96ab3959f65fc19192f9972e3c56ba30f4f70311f1667a447dd13c308383ad4.png",
     "Demand": "None",
     "IsRare": false,
@@ -16349,7 +16349,7 @@
   {
     "Name": "The Masked Popcorn Enthusiast!",
     "Value": 0,
-    "RAP": 164,
+    "RAP": 158,
     "Image": "https://cdn.pekora.zip/images/thumbnails/867225d47f0055c43384adf8b035d6746342b7732ddd44cb280c4d86996850f7.png",
     "Demand": "None",
     "IsRare": false,
@@ -16421,7 +16421,7 @@
   {
     "Name": "The Bluesteel Bathelm",
     "Value": 0,
-    "RAP": 158,
+    "RAP": 155,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5d1dd01aab19afd1fb48f1168e09feba1be6b181544fb76de2481a5801b2ba26.png",
     "Demand": "None",
     "IsRare": false,
@@ -16655,7 +16655,7 @@
   {
     "Name": "Violet Starry Sight",
     "Value": 0,
-    "RAP": 96,
+    "RAP": 90,
     "Image": "https://cdn.pekora.zip/images/thumbnails/15d05a4f25345b2f0ebb06396d8f9066cc3e893076c8b2e88ddfb92aa3a6a698.png",
     "Demand": "None",
     "IsRare": false,
@@ -16974,7 +16974,7 @@
   {
     "Name": "Purple Starface ",
     "Value": 0,
-    "RAP": 79,
+    "RAP": 77,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4483f0f7c21eca470fd11abfd3bb61fd2106091768545f9fc9947bdcbbb34d52.png",
     "Demand": "None",
     "IsRare": false,
@@ -18327,7 +18327,7 @@
   {
     "Name": "Overseer Hooded Cloak",
     "Value": 0,
-    "RAP": 54,
+    "RAP": 58,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825724&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18435,7 +18435,7 @@
   {
     "Name": "Game Over",
     "Value": 0,
-    "RAP": 63,
+    "RAP": 64,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=824544&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18499,28 +18499,6 @@
     "ValueChangerNote": "",
     "TypeId": 43,
     "OriginalPrice": 200
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 142,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
   },
   {
     "itemId": 926762,
@@ -18612,6 +18590,28 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 142,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
   }
 ]
