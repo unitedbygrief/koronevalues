@@ -60,7 +60,7 @@
     "_id": "68c5a82cca3be7ca1f3add66",
     "Name": "Prankster",
     "Value": 0,
-    "RAP": 1479,
+    "RAP": 1461,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8871bc85533e1e28c8dafb4ba931368bc7cc62b5f61edffe0141000ba44d7420.png",
     "Demand": "None",
     "IsRare": false,
@@ -1953,7 +1953,7 @@
     "_id": "68e262e14497ac4475e66a69",
     "Name": "Dominus Formidulosus",
     "Value": 0,
-    "RAP": 1354,
+    "RAP": 1339,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cf58981745291b2fd30db587ebecd5a192a2a1d7df09b496dfd621ffde65f299.png",
     "Demand": "None",
     "IsRare": false,
@@ -7790,7 +7790,7 @@
     "_id": "690118e830c917c7f581b48d",
     "Name": "Captain Greenshanks the Lucky",
     "Value": 0,
-    "RAP": 436,
+    "RAP": 419,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6a030cedb723bca04445347aa798d095b29ed549ea3a70f4b5001170f1c8cccf.png",
     "Demand": "None",
     "IsRare": false,
@@ -12078,7 +12078,7 @@
     "_id": "69a5b670b06e50e5b5a7d365",
     "Name": "Black Iron Warhelm of Pwnage",
     "Value": 0,
-    "RAP": 147,
+    "RAP": 149,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e5a0e42b9aa710f7f4fe977d3d2f35abb9b7a40398d8253cc2de7c7385ecce6a.png",
     "Demand": "None",
     "IsRare": false,
@@ -16260,7 +16260,7 @@
   {
     "Name": "When Animals Attack : Shark Situations",
     "Value": 0,
-    "RAP": 144,
+    "RAP": 149,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b5fc233ee4dd4857e68dc1fe3295655d0b174d5e2ddde7b325f15552e1a4bdc3.png",
     "Demand": "None",
     "IsRare": false,
@@ -16762,7 +16762,7 @@
   {
     "Name": "Crimson Evil Eye",
     "Value": 0,
-    "RAP": 119,
+    "RAP": 116,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7ae1ef5d4af25917e4769b75e08811875a11db6218d79e68831a239bf3309faf.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,6 +18501,54 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
@@ -18587,53 +18635,5 @@
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
   }
 ]
