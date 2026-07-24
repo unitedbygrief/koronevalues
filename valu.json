@@ -1212,7 +1212,7 @@
     "_id": "68caec7269be20ebfd8927f2",
     "Name": "Fiery Horns of the Netherworld",
     "Value": 7000,
-    "RAP": 6537,
+    "RAP": 6883,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3d2264eeacad08d87f56c18901a8b3b69c9a18444a9085195f5d78bcb1b0d5b2.png",
     "Demand": "High",
     "IsRare": false,
@@ -1760,7 +1760,7 @@
     "_id": "68d7e6e0010cacf5a49b6f8b",
     "Name": "Silverthorn Antlers",
     "Value": 0,
-    "RAP": 462,
+    "RAP": 456,
     "Image": "https://cdn.pekora.zip/images/thumbnails/eeaa29a7815853720d6e1dcdcee8e238e6130802017e9f406b5ce371f3a99d53.png",
     "Demand": "None",
     "IsRare": false,
@@ -4181,7 +4181,7 @@
     "_id": "6900e0c063faef66f461e883",
     "Name": "Blue Top Hat with White Band",
     "Value": 0,
-    "RAP": 146,
+    "RAP": 151,
     "Image": "https://cdn.pekora.zip/images/thumbnails/76e60a9423c7da2bf50ec735b522a349a19d020f8b9815e1cb7d429a0ecbd972.png",
     "Demand": "None",
     "IsRare": false,
@@ -5556,7 +5556,7 @@
     "_id": "6900eb116d2b268c519515c9",
     "Name": "Beast Mode",
     "Value": 0,
-    "RAP": 1179,
+    "RAP": 1181,
     "Image": "https://cdn.pekora.zip/images/thumbnails/22953ed10824d734bfad542cff6ef266269249512f0e741653cb056a98aeb0a3.png",
     "Demand": "None",
     "IsRare": false,
@@ -15013,7 +15013,7 @@
   {
     "Name": "Sword Fight on the Heights Sugar Egg",
     "Value": 0,
-    "RAP": 56,
+    "RAP": 55,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bfd7fab9b3137a20c48619b4f8cdf364756605e7cde16f2d3f4fe9e7f6235811.png",
     "Demand": "None",
     "IsRare": false,
@@ -15138,7 +15138,7 @@
   {
     "Name": "RoBLING",
     "Value": 0,
-    "RAP": 68,
+    "RAP": 71,
     "Image": "https://cdn.pekora.zip/images/thumbnails/92f581bc63494682a08e267f2cc19a9cc403dd0dbab4e45027150cfc75ecffad.png",
     "Demand": "None",
     "IsRare": false,
@@ -15938,7 +15938,7 @@
   {
     "Name": "Back Axe Guitar",
     "Value": 0,
-    "RAP": 57,
+    "RAP": 56,
     "Image": "https://cdn.pekora.zip/images/thumbnails/83de448ff6add57489604265d29ab8517a46cb623265b31f66be497ed512d11a.png",
     "Demand": "None",
     "IsRare": false,
@@ -18166,7 +18166,7 @@
   {
     "Name": "Summer Sophistication",
     "Value": 0,
-    "RAP": 58,
+    "RAP": 62,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=854734&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18219,7 +18219,7 @@
   {
     "Name": "Amethyst Vision Visor",
     "Value": 0,
-    "RAP": 92,
+    "RAP": 90,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=853278&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18345,7 +18345,7 @@
   {
     "Name": "Overseer All-Seeing Pendant",
     "Value": 0,
-    "RAP": 50,
+    "RAP": 66,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825723&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18452,7 +18452,7 @@
   {
     "Name": "Take a Chance",
     "Value": 0,
-    "RAP": 122,
+    "RAP": 118,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=824536&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18499,6 +18499,28 @@
     "ValueChangerNote": "",
     "TypeId": 43,
     "OriginalPrice": 200
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1548,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
   },
   {
     "itemId": 923157,
@@ -18613,27 +18635,5 @@
     "createdBy": "auto-discover",
     "updatedBy": 13224,
     "updatedAt": "2026-07-21T20:03:01.067Z"
-  },
-  {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1548,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
   }
 ]
