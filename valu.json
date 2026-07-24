@@ -3689,7 +3689,7 @@
     "_id": "6900df29db9f524f12523955",
     "Name": "Elf Ears",
     "Value": 0,
-    "RAP": 1002,
+    "RAP": 992,
     "Image": "https://cdn.pekora.zip/images/thumbnails/45bdfc4ee44b4a39095504b6d583c330238dde19fad26d0c2bf68f379111b59b.png",
     "Demand": "None",
     "IsRare": false,
@@ -7298,7 +7298,7 @@
     "_id": "69010ed3a7211aa70c640ab9",
     "Name": "The Crown of Warlords",
     "Value": 0,
-    "RAP": 1210,
+    "RAP": 1488,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f4ca1f6f00786c712790c4c0e4c928422b302e5328fa7aeae8a60abaffcb6ecb.png",
     "Demand": "None",
     "IsRare": false,
@@ -7997,7 +7997,7 @@
     "_id": "69013501ec49ae90b0a59cdb",
     "Name": "Sk12r Boi",
     "Value": 0,
-    "RAP": 169,
+    "RAP": 168,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f1e4b11adee20ff12f75cf8f4944494b1f75ce00766d5e077cecfc099703f3c9.png",
     "Demand": "None",
     "IsRare": false,
@@ -14298,7 +14298,7 @@
   {
     "Name": "Mini Eggmin Shoulder Friend",
     "Value": 0,
-    "RAP": 62,
+    "RAP": 64,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c91718aaef4fc1f43f435e466e53ea040d882e5235f2c389a799ff302f43e7b7.png",
     "Demand": "None",
     "IsRare": false,
@@ -14910,7 +14910,7 @@
   {
     "Name": "Full Moon Egg",
     "Value": 0,
-    "RAP": 78,
+    "RAP": 76,
     "Image": "https://cdn.pekora.zip/images/thumbnails/dc6804e5e59cc9ac8871ed6125572281b85b55275880cf0446c1bb71335365fb.png",
     "Demand": "None",
     "IsRare": false,
@@ -15634,7 +15634,7 @@
   {
     "Name": "Dark Knight of the Order of the Ram",
     "Value": 0,
-    "RAP": 58,
+    "RAP": 59,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a09fbaaa82836ef0e2112f3dfe0d7ab738d3edba02103e1e0a870f107aefdecf.png",
     "Demand": "None",
     "IsRare": false,
@@ -15829,7 +15829,7 @@
   {
     "Name": "Noob Assist: Astronaut Action",
     "Value": 0,
-    "RAP": 122,
+    "RAP": 118,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c35a88d6f1c1b1e47e054da9adb16c28f61a3a1338ec71511518fb0b8ddcaf1a.png",
     "Demand": "None",
     "IsRare": false,
@@ -18131,7 +18131,7 @@
   {
     "Name": "ROBLOX Summer Sparkler",
     "Value": 0,
-    "RAP": 164,
+    "RAP": 157,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=854744&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,32 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
-  },
-  {
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
@@ -18635,5 +18609,31 @@
     "ValueChangerNote": "",
     "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
   }
 ]
