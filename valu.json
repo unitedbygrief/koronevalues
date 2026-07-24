@@ -3008,7 +3008,7 @@
     "_id": "6900d4527b4ea5ba63b5fb42",
     "Name": "Purple Wistful Wink",
     "Value": 0,
-    "RAP": 679,
+    "RAP": 691,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9e5283492107e1bb4e8e7627bd33c30e66a492cf6ae62fe9026a3e50fb5a7800.png",
     "Demand": "None",
     "IsRare": false,
@@ -5519,7 +5519,7 @@
     "_id": "6900e9717f0f6032dda0344b",
     "Name": "Virtual Commando",
     "Value": 0,
-    "RAP": 174,
+    "RAP": 177,
     "Image": "https://cdn.pekora.zip/images/thumbnails/99a6a93818515c55e15981901b2514232af0321ede495f7832872933a98e2fee.png",
     "Demand": "None",
     "IsRare": false,
@@ -7714,7 +7714,7 @@
     "_id": "690118bd30c917c7f581b48c",
     "Name": "Chill Cap",
     "Value": 0,
-    "RAP": 184,
+    "RAP": 179,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9ee5a42ca0098df93d9bee0003de16aa0311e16dcfa535656349683cdce63a96.png",
     "Demand": "None",
     "IsRare": false,
@@ -12509,7 +12509,7 @@
     "_id": "69a5b67cb06e50e5b5a7d37b",
     "Name": "Snowman Headrow",
     "Value": 0,
-    "RAP": 65,
+    "RAP": 63,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6fba7459a0d3647ddb53a07cf65cde9038226dfc232596c7a854e27ba6e491cf.png",
     "Demand": "None",
     "IsRare": false,
@@ -12922,7 +12922,7 @@
     "_id": "69a5b686b06e50e5b5a7d390",
     "Name": "Bluesteel Shutter Shades",
     "Value": 0,
-    "RAP": 167,
+    "RAP": 166,
     "Image": "https://cdn.pekora.zip/images/thumbnails/5a7fdfaf0113ac46438f5b19274399c2664572ee25fc042b4578204c1d5506f3.png",
     "Demand": "None",
     "IsRare": false,
@@ -13855,7 +13855,7 @@
     "_id": "69d727ab79a36f5f55b67fc3",
     "Name": "ROBLOX Summer Glider",
     "Value": 0,
-    "RAP": 49,
+    "RAP": 51,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4927ee02077c872ecbd529c2ac7eb9bd52a8dad0091d8555c4e41cf18cc67678.png",
     "Demand": "None",
     "IsRare": false,
@@ -15138,7 +15138,7 @@
   {
     "Name": "RoBLING",
     "Value": 0,
-    "RAP": 71,
+    "RAP": 69,
     "Image": "https://cdn.pekora.zip/images/thumbnails/92f581bc63494682a08e267f2cc19a9cc403dd0dbab4e45027150cfc75ecffad.png",
     "Demand": "None",
     "IsRare": false,
@@ -16816,7 +16816,7 @@
   {
     "Name": "Blue Amazeface",
     "Value": 0,
-    "RAP": 138,
+    "RAP": 134,
     "Image": "https://cdn.pekora.zip/images/thumbnails/735d9c33a7d7bb3c16107a343914dc16a8131ce25c58b39bf4e301726cb1d7a5.png",
     "Demand": "None",
     "IsRare": false,
@@ -16886,7 +16886,7 @@
   {
     "Name": "Blue Galaxy Gaze",
     "Value": 0,
-    "RAP": 332,
+    "RAP": 321,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f39ff7b2ab7d846c6ea725c9d9530e51084550305b3b9823572b9c8b92c941da.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,10 +18501,58 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 926762,
+    "Name": "Dat Rose Crown",
+    "Value": -666,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
+    "Demand": "Amazing",
+    "Trend": "None",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/926762",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "#DATROSESQUAD",
+    "Created": "2026-07-21T19:49:17.383Z",
+    "createdBy": "auto-discover",
+    "updatedBy": 13224,
+    "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1548,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 923157,
     "Name": "Ghostfire Sword",
     "Value": 0,
-    "RAP": 1078,
+    "RAP": 1071,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18586,54 +18634,6 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-23T19:56:11.848Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 926762,
-    "Name": "Dat Rose Crown",
-    "Value": -666,
-    "RAP": 0,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Amazing",
-    "Trend": "None",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/926762",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "#DATROSESQUAD",
-    "Created": "2026-07-21T19:49:17.383Z",
-    "createdBy": "auto-discover",
-    "updatedBy": 13224,
-    "updatedAt": "2026-07-21T20:03:01.067Z"
-  },
-  {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1548,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
     "createdBy": "auto-discover"
   }
 ]
