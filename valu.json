@@ -2095,7 +2095,7 @@
     "_id": "68ebc5a1dc1fcae83e94ec76",
     "Name": "Ice Valkyrie",
     "Value": 2000,
-    "RAP": 3354,
+    "RAP": 3319,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b11b093b2bc27afc258dcedc9f4faad78655a6ebe5d63828ea9f3df8387190c0.png",
     "Demand": "Low",
     "IsRare": false,
@@ -18501,6 +18501,28 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1600,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 30731,
     "Name": "Real Scorching Frost Stunnas",
     "Value": 0,
@@ -18612,28 +18634,6 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1600,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
     "createdBy": "auto-discover"
   }
 ]
