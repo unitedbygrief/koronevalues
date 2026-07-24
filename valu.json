@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 467,
+    "RAP": 449,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -3689,7 +3689,7 @@
     "_id": "6900df29db9f524f12523955",
     "Name": "Elf Ears",
     "Value": 0,
-    "RAP": 1013,
+    "RAP": 1002,
     "Image": "https://cdn.pekora.zip/images/thumbnails/45bdfc4ee44b4a39095504b6d583c330238dde19fad26d0c2bf68f379111b59b.png",
     "Demand": "None",
     "IsRare": false,
@@ -8602,7 +8602,7 @@
     "_id": "69026fe4f809ec156ba90dcd",
     "Name": "Doge Santa",
     "Value": 0,
-    "RAP": 117,
+    "RAP": 116,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ae83de0089c0895b862553c8dff37b99a537e0d1cb2ea9f028b9f120f6234e6f.png",
     "Demand": "None",
     "IsRare": false,
@@ -11004,7 +11004,7 @@
     "_id": "69a5b54ab5970de41cc062c5",
     "Name": "Kleos Themis",
     "Value": 5500,
-    "RAP": 1749,
+    "RAP": 2274,
     "Image": "https://cdn.pekora.zip/images/thumbnails/52ad50f94d0741834e00de1804055241da8225fefb0d5ebd164a28523c3b3dc7.png",
     "Demand": "Low",
     "IsRare": true,
@@ -12467,7 +12467,7 @@
     "_id": "69a5b67bb06e50e5b5a7d379",
     "Name": "Noob Attack: Pitch Fork Pacification",
     "Value": 0,
-    "RAP": 53,
+    "RAP": 56,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7ae7eb7b2b3ea4894989a3886158429c03f7f812b967296a9ade2ebecfc94a6a.png",
     "Demand": "None",
     "IsRare": false,
@@ -13555,7 +13555,7 @@
     "_id": "69c58d6dc7b3cb4ca8c1827a",
     "Name": "Emerald Laser Vision",
     "Value": 0,
-    "RAP": 88,
+    "RAP": 85,
     "Image": "https://cdn.pekora.zip/images/thumbnails/65b04d269bbc8e4af9f3f97de1c74d4c6b82e2b1d1506838f37bd73da784427f.png",
     "Demand": "None",
     "IsRare": false,
@@ -14910,7 +14910,7 @@
   {
     "Name": "Full Moon Egg",
     "Value": 0,
-    "RAP": 81,
+    "RAP": 78,
     "Image": "https://cdn.pekora.zip/images/thumbnails/dc6804e5e59cc9ac8871ed6125572281b85b55275880cf0446c1bb71335365fb.png",
     "Demand": "None",
     "IsRare": false,
@@ -14960,7 +14960,7 @@
   {
     "Name": "Headrow",
     "Value": 0,
-    "RAP": 86,
+    "RAP": 83,
     "Image": "https://cdn.pekora.zip/images/thumbnails/913b30ade232b4f0c1bb3c7e444d84f62b8252a7806e12eb0e279257a0b6b7c5.png",
     "Demand": "None",
     "IsRare": false,
@@ -15811,7 +15811,7 @@
   {
     "Name": "Noob Assist: Sandwich Scramble",
     "Value": 0,
-    "RAP": 60,
+    "RAP": 59,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7f89f866cd3eb430b1ad1a622f8fcfcb9616561a9e204e3f5717c3dff3e6b45e.png",
     "Demand": "None",
     "IsRare": false,
@@ -16691,7 +16691,7 @@
   {
     "Name": "Green Starry Sight",
     "Value": 0,
-    "RAP": 139,
+    "RAP": 134,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0590b1c5ca4786d387a56900db1c0a72172e2a2f2160fedaafbb63ca43153156.png",
     "Demand": "None",
     "IsRare": false,
@@ -17134,7 +17134,7 @@
   {
     "Name": "Green Glowphones",
     "Value": 0,
-    "RAP": 64,
+    "RAP": 65,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6d74356945faa6e3d865a487d63fdc93ce7c8f876a39df36bf8b1468bf1f4e15.png",
     "Demand": "None",
     "IsRare": false,
@@ -17612,7 +17612,7 @@
   {
     "Name": "Brilliant Bombastique",
     "Value": 0,
-    "RAP": 115,
+    "RAP": 111,
     "Image": "https://cdn.pekora.zip/images/thumbnails/23688dfbc6270517ce8e85171fe8a60d5767421aa0e5626171f21814d58f6233.png",
     "Demand": "None",
     "IsRare": false,
@@ -18202,7 +18202,7 @@
   {
     "Name": "Royal Rabbit Ears",
     "Value": 0,
-    "RAP": 73,
+    "RAP": 71,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=854634&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18219,7 +18219,7 @@
   {
     "Name": "Amethyst Vision Visor",
     "Value": 0,
-    "RAP": 88,
+    "RAP": 87,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=853278&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18309,7 +18309,7 @@
   {
     "Name": "Overseer Warlord's Sword",
     "Value": 0,
-    "RAP": 146,
+    "RAP": 143,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825726&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18417,7 +18417,7 @@
   {
     "Name": "Ivory Bloom Pauldrons",
     "Value": 0,
-    "RAP": 73,
+    "RAP": 71,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=824558&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18499,50 +18499,6 @@
     "ValueChangerNote": "",
     "TypeId": 43,
     "OriginalPrice": 200
-  },
-  {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1064,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1575,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
   },
   {
     "itemId": 30731,
@@ -18634,6 +18590,50 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1064,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1575,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
     "createdBy": "auto-discover"
   }
 ]
