@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 483,
+    "RAP": 467,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -3689,7 +3689,7 @@
     "_id": "6900df29db9f524f12523955",
     "Name": "Elf Ears",
     "Value": 0,
-    "RAP": 1064,
+    "RAP": 1013,
     "Image": "https://cdn.pekora.zip/images/thumbnails/45bdfc4ee44b4a39095504b6d583c330238dde19fad26d0c2bf68f379111b59b.png",
     "Demand": "None",
     "IsRare": false,
@@ -4633,7 +4633,7 @@
     "_id": "6900e6c1294767dc88d2cef9",
     "Name": "2010 Fireworks",
     "Value": 0,
-    "RAP": 62,
+    "RAP": 60,
     "Image": "https://cdn.pekora.zip/images/thumbnails/48eb02107e3e598794bd0faa120b3f5cd876c5951c13c1c6195851187dfc312a.png",
     "Demand": "None",
     "IsRare": false,
@@ -8620,7 +8620,7 @@
     "_id": "6902701969a038ffb849b563",
     "Name": "The Ice Skull of Nevermoor",
     "Value": 0,
-    "RAP": 1304,
+    "RAP": 1373,
     "Image": "https://cdn.pekora.zip/images/thumbnails/caa41ecf4b9624fe667ec8548d3ddb64ac5a5db536b5657404a8d1a0691d81d2.png",
     "Demand": "None",
     "IsRare": false,
@@ -12258,7 +12258,7 @@
     "_id": "69a5b675b06e50e5b5a7d36e",
     "Name": "Troublemaker",
     "Value": 0,
-    "RAP": 753,
+    "RAP": 748,
     "Image": "https://cdn.pekora.zip/images/thumbnails/6f36f02b2206ff5858b0d1ece7a98b7719a1e71958a2186b3253a875266108fc.png",
     "Demand": "None",
     "IsRare": false,
@@ -16868,7 +16868,7 @@
   {
     "Name": "Green Galaxy Gaze",
     "Value": 0,
-    "RAP": 314,
+    "RAP": 302,
     "Image": "https://cdn.pekora.zip/images/thumbnails/33c5858fdb6ea803586024a340e78bba64ca9df16ff03e0eded55e3384f9a524.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,28 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
     "Value": -666,
@@ -18634,6 +18612,28 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
   }
 ]
