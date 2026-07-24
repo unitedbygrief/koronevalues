@@ -380,7 +380,7 @@
     "_id": "68c5ab91180eb1381301c4c4",
     "Name": "Sparkle Time Fedora",
     "Value": 10000,
-    "RAP": 8626,
+    "RAP": 9318,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8e1244ca59858108f099e1d00f92b3a1a61d2c602c6991acad9cac8a82e0b0bf.png",
     "Demand": "Decent",
     "IsRare": false,
@@ -1997,7 +1997,7 @@
     "_id": "68e87f8fb7462007faeb8439",
     "Name": "PROJEX Madness Face",
     "Value": 0,
-    "RAP": 1651,
+    "RAP": 1636,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8015477f3f8ca0be5b0d2f78b9471c23162a07fcdf54143284d3c88fad66ea34.png",
     "Demand": "None",
     "IsRare": false,
@@ -2167,7 +2167,7 @@
     "_id": "68f039dd40269e4017f8ce09",
     "Name": "Grandma's Lipstick",
     "Value": 0,
-    "RAP": 1244,
+    "RAP": 1210,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8ab187ae3f9ea4eef9c998b96fba7c7aaa20dc205d00cca1df11be4f1902df6e.png",
     "Demand": "None",
     "IsRare": false,
@@ -3581,7 +3581,7 @@
     "_id": "6900ded7fa79bfd19f642082",
     "Name": "Dragonfire Sword",
     "Value": 0,
-    "RAP": 68,
+    "RAP": 69,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0d1d438bc68225334006e161704d61cf56442b35c47f9d0d48842f6b78ea0900.png",
     "Demand": "None",
     "IsRare": false,
@@ -5041,7 +5041,7 @@
     "_id": "6900e727793f70ac85a8e15d",
     "Name": "Black Iron Commando",
     "Value": 0,
-    "RAP": 138,
+    "RAP": 137,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bcb24d3583a769338ae028de297aace9e7738da97c227c0b3845d517823b7a6b.png",
     "Demand": "None",
     "IsRare": false,
@@ -8787,7 +8787,7 @@
     "_id": "6903b6a8319fc42e41fe14ee",
     "Name": "Emerald Valk Shades",
     "Value": 0,
-    "RAP": 254,
+    "RAP": 261,
     "Image": "https://cdn.pekora.zip/images/thumbnails/050470371af47757b4a0e2def9ddfac026431fab1262e8d27978a75276597503.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,72 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1548,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1078,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1600,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 30731,
     "Name": "Real Scorching Frost Stunnas",
     "Value": 0,
@@ -18635,5 +18569,71 @@
     "createdBy": "auto-discover",
     "updatedBy": 13224,
     "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1548,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1078,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1600,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
   }
 ]
