@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 449,
+    "RAP": 435,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -3966,7 +3966,7 @@
     "_id": "6900e098d41ef68a3973b180",
     "Name": "Shaggy",
     "Value": 0,
-    "RAP": 655,
+    "RAP": 629,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bd15fb65fc495d804a866f5e176f59784398861aca5c5d5aeafd685bb09a162a.png",
     "Demand": "None",
     "IsRare": false,
@@ -5722,7 +5722,7 @@
     "_id": "6900eb9d032ad54929dec23b",
     "Name": "Rockstar Disguise",
     "Value": 0,
-    "RAP": 118,
+    "RAP": 113,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b81bf4ca6233d00ae45b114b3f99bcb3e19f37a547351951e439e11024b8965e.png",
     "Demand": "None",
     "IsRare": false,
@@ -5778,7 +5778,7 @@
     "_id": "6900eb9fdd539600aa60fa89",
     "Name": "Fall Periastron Xi",
     "Value": 0,
-    "RAP": 1238,
+    "RAP": 1225,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0f2248d76dd47a711ac9972db6c28830ff0067751171dada7e5344f1ad4840ec.png",
     "Demand": "None",
     "IsRare": false,
@@ -6677,7 +6677,7 @@
     "_id": "6900fceadc113e1a309134ee",
     "Name": "Ultimate Victory",
     "Value": 0,
-    "RAP": 84,
+    "RAP": 90,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e9dd6d9f87847b7c6cdbdf2c4d0aacbd08d4ab6a1200a04ab2facf2893c2a80f.png",
     "Demand": "None",
     "IsRare": false,
@@ -8161,7 +8161,7 @@
     "_id": "690146e140d87fd29a085b51",
     "Name": "Snowman Face",
     "Value": 0,
-    "RAP": 149,
+    "RAP": 148,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e8dac1fecc4fc9d5fa63fecad9b5c131547121d088d1f839ce21cd72243e72ef.png",
     "Demand": "None",
     "IsRare": false,
@@ -8923,7 +8923,7 @@
     "_id": "690efb550142ee5b309f4d27",
     "Name": "Neon Green Equinox",
     "Value": 0,
-    "RAP": 195,
+    "RAP": 188,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cdbb7c00ab8074399232da6127c7d8ad90e230cab8c89a3a1d247c048486dd8a.png",
     "Demand": "None",
     "IsRare": false,
@@ -13948,7 +13948,7 @@
     "_id": "69d7b3ed79a36f5f55b680a6",
     "Name": "Ice Wizard",
     "Value": 0,
-    "RAP": 152,
+    "RAP": 145,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2f85945db12e154fe5ee99fcdfc81d7b8a23b36cedc47de08bf11ed30270e483.png",
     "Demand": "None",
     "IsRare": false,
@@ -15138,7 +15138,7 @@
   {
     "Name": "RoBLING",
     "Value": 0,
-    "RAP": 69,
+    "RAP": 67,
     "Image": "https://cdn.pekora.zip/images/thumbnails/92f581bc63494682a08e267f2cc19a9cc403dd0dbab4e45027150cfc75ecffad.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,50 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 911735,
-    "Name": "WC Ultimates: Peridot Panic",
-    "Value": 0,
-    "RAP": 1548,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/911735",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1064,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 932477,
     "Name": "Grimgold Periastron Beta",
     "Value": 0,
@@ -18635,5 +18591,49 @@
     "createdBy": "auto-discover",
     "updatedBy": 13224,
     "updatedAt": "2026-07-21T20:03:01.067Z"
+  },
+  {
+    "itemId": 911735,
+    "Name": "WC Ultimates: Peridot Panic",
+    "Value": 0,
+    "RAP": 1548,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/911735",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1064,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
   }
 ]
