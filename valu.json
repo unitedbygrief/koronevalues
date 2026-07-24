@@ -1211,7 +1211,7 @@
   {
     "_id": "68caec7269be20ebfd8927f2",
     "Name": "Fiery Horns of the Netherworld",
-    "Value": 7000,
+    "Value": 8000,
     "RAP": 6883,
     "Image": "https://cdn.pekora.zip/images/thumbnails/3d2264eeacad08d87f56c18901a8b3b69c9a18444a9085195f5d78bcb1b0d5b2.png",
     "Demand": "High",
@@ -1228,7 +1228,7 @@
       12500
     ],
     "itemId": 36041,
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Great performance in sales, leading to a raise",
     "TypeId": 8,
     "OriginalPrice": 300,
     "LimitedU": true
@@ -1411,7 +1411,7 @@
     "_id": "68caef6a28db36577f2c5ea5",
     "Name": "Brighteyes’ Bloxy Cola Hat",
     "Value": 0,
-    "RAP": 1508,
+    "RAP": 1517,
     "Image": "https://cdn.pekora.zip/images/thumbnails/51f94988ed17150946adc9d6d396be35224afc90f75201c10f785e06b0aaeaf1.png",
     "Demand": "High",
     "IsRare": false,
@@ -6752,7 +6752,7 @@
     "_id": "6900fe3641bf505ef4a7b728",
     "Name": "Swordpack",
     "Value": 0,
-    "RAP": 130,
+    "RAP": 131,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8bd7e58bf8fe155cc124b3aece274faaa827049bd7acf5ca6d3ec590baea89d3.png",
     "Demand": "None",
     "IsRare": false,
@@ -10166,7 +10166,7 @@
     "_id": "696941d787e62679ba3e17df",
     "Name": "Earth Day 2010 Cap",
     "Value": 0,
-    "RAP": 56,
+    "RAP": 55,
     "Image": "https://cdn.pekora.zip/images/thumbnails/81a08d4d3dbe0d04577601890561e4d6ecdf52aebff91cf518389223578407c2.png",
     "Demand": "None",
     "IsRare": false,
@@ -13232,7 +13232,7 @@
     "_id": "69bc75a1ebb98046a00e2024",
     "Name": "For the Ages: Saint Patrick",
     "Value": 0,
-    "RAP": 46,
+    "RAP": 45,
     "Image": "https://cdn.pekora.zip/images/thumbnails/43496052fe7466e22daea7e368ab75d540a174bf4cb93bbbc53cdafcd2b5eb4a.png",
     "Demand": "None",
     "IsRare": false,
@@ -13447,7 +13447,7 @@
     "_id": "69c40d80640ae2d125cf0d52",
     "Name": "White Ninja Headband of the Unimpeachable Soul",
     "Value": 0,
-    "RAP": 137,
+    "RAP": 134,
     "Image": "https://cdn.pekora.zip/images/thumbnails/ece8ecc4839fa13b69c33b8df82ac174c6d031c1b0de3b2957c747a32f7b3a6a.png",
     "Demand": "None",
     "IsRare": false,
@@ -15294,7 +15294,7 @@
   {
     "Name": "Neon Pink Pirate Patch",
     "Value": 0,
-    "RAP": 161,
+    "RAP": 156,
     "Image": "https://cdn.pekora.zip/images/thumbnails/c4dd3a8abe27d42f2a34ab26c350c1240ba2c2199f38aa1132fffb5cbc5e7453.png",
     "Demand": "None",
     "IsRare": false,
@@ -15973,7 +15973,7 @@
   {
     "Name": "Epic Egg",
     "Value": 0,
-    "RAP": 54,
+    "RAP": 56,
     "Image": "https://cdn.pekora.zip/images/thumbnails/07b8637a953b333f766dd595204f207086072c199522c99337af667d9db36e12.png",
     "Demand": "None",
     "IsRare": false,
@@ -16886,7 +16886,7 @@
   {
     "Name": "Blue Galaxy Gaze",
     "Value": 0,
-    "RAP": 358,
+    "RAP": 344,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f39ff7b2ab7d846c6ea725c9d9530e51084550305b3b9823572b9c8b92c941da.png",
     "Demand": "None",
     "IsRare": false,
@@ -17732,7 +17732,7 @@
   {
     "Name": "JurasSICK Cap",
     "Value": 0,
-    "RAP": 487,
+    "RAP": 451,
     "Image": "https://cdn.pekora.zip/images/thumbnails/dad53923dc51efa12dabd0a780fa336a347e91a62c219c06e108f312a0c6f7b7.png",
     "Demand": "None",
     "IsRare": false,
@@ -18469,7 +18469,7 @@
   {
     "Name": "Zebra Fedora",
     "Value": 0,
-    "RAP": 78,
+    "RAP": 80,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=806348&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18499,6 +18499,28 @@
     "ValueChangerNote": "",
     "TypeId": 43,
     "OriginalPrice": 200
+  },
+  {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
+    "createdBy": "auto-discover"
   },
   {
     "itemId": 926762,
@@ -18612,28 +18634,6 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
   }
 ]
