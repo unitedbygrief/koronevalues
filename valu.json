@@ -771,7 +771,7 @@
     "_id": "68c5b08624144ed136ce4f3e",
     "Name": "Viscount of the Federation",
     "Value": 0,
-    "RAP": 2831,
+    "RAP": 2828,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b33c033c4c794620d549a12561c5bb9f8e1b0c38d0f67511bc9a7b8652c04243.png",
     "Demand": "None",
     "IsRare": false,
@@ -3689,7 +3689,7 @@
     "_id": "6900df29db9f524f12523955",
     "Name": "Elf Ears",
     "Value": 0,
-    "RAP": 946,
+    "RAP": 936,
     "Image": "https://cdn.pekora.zip/images/thumbnails/45bdfc4ee44b4a39095504b6d583c330238dde19fad26d0c2bf68f379111b59b.png",
     "Demand": "None",
     "IsRare": false,
@@ -4374,7 +4374,7 @@
     "_id": "6900e4f591b3d3cb9e519d69",
     "Name": "Purple Bubble Trouble",
     "Value": 0,
-    "RAP": 453,
+    "RAP": 443,
     "Image": "https://cdn.pekora.zip/images/thumbnails/cae9c77e900d67e5f44721364d0ac1d52467047ef9fb08661cfe88c189034730.png",
     "Demand": "None",
     "IsRare": false,
@@ -7561,7 +7561,7 @@
     "_id": "69011840c1949ffc8f14b10c",
     "Name": "Hot Jams Headphones",
     "Value": 0,
-    "RAP": 299,
+    "RAP": 253,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e3b7a8d8cdc800f6eef431fac559aa589050af930d553b036b1abdd462ce4ef9.png",
     "Demand": "None",
     "IsRare": false,
@@ -7846,7 +7846,7 @@
     "_id": "69011938b58f8c35ef21b2ef",
     "Name": "Bling",
     "Value": 0,
-    "RAP": 229,
+    "RAP": 236,
     "Image": "https://cdn.pekora.zip/images/thumbnails/88d3ae90e206b1a22810c7b6c04eef2281ba3121bb5f7ea0e427aa71b5da85d7.png",
     "Demand": "None",
     "IsRare": false,
@@ -9637,7 +9637,7 @@
     "_id": "694037a25abfdf3b255aaff2",
     "Name": "Midnight Blue Shaggy",
     "Value": 0,
-    "RAP": 597,
+    "RAP": 588,
     "Image": "https://cdn.pekora.zip/images/thumbnails/59724dce75e679f5ae7bc654e3ca3017b654eb0f3f3016371fc6422bad561120.png",
     "Demand": "None",
     "IsRare": false,
@@ -10768,7 +10768,7 @@
     "_id": "699f79dd98c7247b26a0c758",
     "Name": "Hollywood Sign",
     "Value": 0,
-    "RAP": 53,
+    "RAP": 51,
     "Image": "https://cdn.pekora.zip/images/thumbnails/caf5e2de832fc8c044db45f16fa8606d2efb11f2c07170231801c0613e691f33.png",
     "Demand": "None",
     "IsRare": false,
@@ -11165,7 +11165,7 @@
     "_id": "69a5b54fb5970de41cc062ce",
     "Name": "Red Crown of Ozymandias",
     "Value": 5500,
-    "RAP": 872,
+    "RAP": 1284,
     "Image": "https://cdn.pekora.zip/images/thumbnails/80e3bca2c75a94780d6163a1ddc03cf0e444ddd0a4ff725a38f6bfb139d95985.png",
     "Demand": "Low",
     "IsRare": true,
@@ -11725,7 +11725,7 @@
     "_id": "69a5b651b06e50e5b5a7d353",
     "Name": "Golden Top Hat of Bling Bling",
     "Value": 0,
-    "RAP": 307,
+    "RAP": 305,
     "Image": "https://cdn.pekora.zip/images/thumbnails/bc9ba28f84081ecc8538bd0c852c4694cd8313e33d9c25c2c680137d286ab74b.png",
     "Demand": "None",
     "IsRare": false,
@@ -12321,7 +12321,7 @@
     "_id": "69a5b677b06e50e5b5a7d371",
     "Name": "Teal Rock Star Smile",
     "Value": 0,
-    "RAP": 380,
+    "RAP": 381,
     "Image": "https://cdn.pekora.zip/images/thumbnails/9eb0bf2f442d8e5de164f4d3d0ed5b8106d7fb57e10145782079cb2d5db0958d.png",
     "Demand": "None",
     "IsRare": false,
@@ -17046,7 +17046,7 @@
   {
     "Name": "Rusty Chrome Shades",
     "Value": 0,
-    "RAP": 79,
+    "RAP": 80,
     "Image": "https://cdn.pekora.zip/images/thumbnails/64286ceba45b57c18542e25706b6a22a82c971b709d1cf1a0836b0a7c557259a.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,72 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 923157,
-    "Name": "Ghostfire Sword",
-    "Value": 0,
-    "RAP": 1064,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/923157",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1538,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 137,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 917013,
     "Name": "Spec Beta Biograft Energy Sword",
     "Value": 0,
@@ -18634,6 +18568,72 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 923157,
+    "Name": "Ghostfire Sword",
+    "Value": 0,
+    "RAP": 1064,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/923157",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:41.376Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1538,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 137,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
   }
 ]
