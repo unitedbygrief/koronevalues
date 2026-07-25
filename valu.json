@@ -1806,7 +1806,7 @@
     "_id": "68d8212d281bf8791a25d5e9",
     "Name": "Black Iron Antlers",
     "Value": 0,
-    "RAP": 493,
+    "RAP": 474,
     "Image": "https://cdn.pekora.zip/images/thumbnails/2c679a22af4812a6b754e37345ac25f25d28758acafa09501cfccbe0bb00ba53.png",
     "Demand": "None",
     "IsRare": false,
@@ -2689,7 +2689,7 @@
     "_id": "68f88cb87005e094fc4d93cb",
     "Name": "Trance",
     "Value": 0,
-    "RAP": 137,
+    "RAP": 138,
     "Image": "https://cdn.pekora.zip/images/thumbnails/14b2bfd78260a4f898b1dfc3b6d9a6b040d0e2b7e48274f3b1c04a0c80063588.png",
     "Demand": "None",
     "IsRare": false,
@@ -2916,7 +2916,7 @@
     "_id": "6900d450196bef3f9351eac9",
     "Name": "The Infenguinus",
     "Value": 0,
-    "RAP": 450,
+    "RAP": 465,
     "Image": "https://cdn.pekora.zip/images/thumbnails/76a5076212e3d50126f88722fd317a3d740eca024a806b51f4c597ebbbc5a66e.png",
     "Demand": "None",
     "IsRare": false,
@@ -3027,7 +3027,7 @@
     "_id": "6900d45264119002414ef5fe",
     "Name": "Blue Wistful Wink",
     "Value": 0,
-    "RAP": 718,
+    "RAP": 734,
     "Image": "https://cdn.pekora.zip/images/thumbnails/52146b60503d83a43c2af4d5f0e74a7e89df546a5505ff63743c3c7aea22385c.png",
     "Demand": "None",
     "IsRare": false,
@@ -3653,7 +3653,7 @@
     "_id": "6900df2989550813689c6ff7",
     "Name": "Cool Snowman Head",
     "Value": 0,
-    "RAP": 72,
+    "RAP": 70,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f9b9dd55fb0249474a434ed1f9ff0b1b06e8c798406f360ad95eee8341969e48.png",
     "Demand": "None",
     "IsRare": false,
@@ -3689,7 +3689,7 @@
     "_id": "6900df29db9f524f12523955",
     "Name": "Elf Ears",
     "Value": 0,
-    "RAP": 973,
+    "RAP": 946,
     "Image": "https://cdn.pekora.zip/images/thumbnails/45bdfc4ee44b4a39095504b6d583c330238dde19fad26d0c2bf68f379111b59b.png",
     "Demand": "None",
     "IsRare": false,
@@ -7561,7 +7561,7 @@
     "_id": "69011840c1949ffc8f14b10c",
     "Name": "Hot Jams Headphones",
     "Value": 0,
-    "RAP": 403,
+    "RAP": 310,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e3b7a8d8cdc800f6eef431fac559aa589050af930d553b036b1abdd462ce4ef9.png",
     "Demand": "None",
     "IsRare": false,
@@ -7905,7 +7905,7 @@
     "_id": "69012fa062e031d1a0f91c09",
     "Name": "Sapphire Drool",
     "Value": 0,
-    "RAP": 194,
+    "RAP": 190,
     "Image": "https://cdn.pekora.zip/images/thumbnails/41dd844081d1641c18978b34d218ddd4541e79667235e70ef852bfda51982a81.png",
     "Demand": "None",
     "IsRare": false,
@@ -10848,7 +10848,7 @@
     "_id": "699f973498c7247b26a0c973",
     "Name": "Eyephones ",
     "Value": 0,
-    "RAP": 68,
+    "RAP": 66,
     "Image": "https://cdn.pekora.zip/images/thumbnails/63440f6b2bc4160d15c608c15c440ea9f8c50c7b47cd4cb4cf877bb1fb9cc4c8.png",
     "Demand": "None",
     "IsRare": false,
@@ -11687,7 +11687,7 @@
     "_id": "69a5b650b06e50e5b5a7d351",
     "Name": "Monster Hat",
     "Value": 0,
-    "RAP": 310,
+    "RAP": 919,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a6fd8eaca07c75d52453b24ccc12f5ca6639c41d4942857b0fa831fc737d7267.png",
     "Demand": "None",
     "IsRare": false,
@@ -14892,7 +14892,7 @@
   {
     "Name": "Dark Horns of Pwnage",
     "Value": 3000,
-    "RAP": 2446,
+    "RAP": 2551,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d7fb57d1892fb909b1fda72b2851beb9ac0c981b2cbae14036bdf30fb9e5cecd.png",
     "Demand": "Low",
     "IsRare": false,
@@ -15241,7 +15241,7 @@
   {
     "Name": "8-Bit HP Bar",
     "Value": 0,
-    "RAP": 481,
+    "RAP": 492,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4c2389f77c0e607f6181f5363809abea766b119212bc47aa5c09cf3fded16e24.png",
     "Demand": "None",
     "IsRare": false,
@@ -16939,7 +16939,7 @@
   {
     "Name": "True Love Smile",
     "Value": 0,
-    "RAP": 72,
+    "RAP": 70,
     "Image": "https://cdn.pekora.zip/images/thumbnails/06604804770777c7c363f1800cd876b257b77d1bba862ebfd15c50423d7e2725.png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,6 +18501,50 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 932477,
+    "Name": "Grimgold Periastron Beta",
+    "Value": 0,
+    "RAP": 1538,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/932477",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 137,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 917013,
     "Name": "Spec Beta Biograft Energy Sword",
     "Value": 0,
@@ -18590,50 +18634,6 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:41.376Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 932477,
-    "Name": "Grimgold Periastron Beta",
-    "Value": 0,
-    "RAP": 1538,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=932477&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/932477",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:49:50.297Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 137,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
     "createdBy": "auto-discover"
   }
 ]
