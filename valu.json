@@ -639,7 +639,7 @@
     "_id": "68c5afd1fcf127633e3d0879",
     "Name": "Dominus Vespertilio",
     "Value": 3500,
-    "RAP": 3074,
+    "RAP": 3067,
     "Image": "https://cdn.pekora.zip/images/thumbnails/13ba31c5c38a8d7b2b6c3f02148d262179ba6ed02cf3e0fb04cad3c9a21f40f2.png",
     "Demand": "Decent",
     "IsRare": false,
@@ -1411,7 +1411,7 @@
     "_id": "68caef6a28db36577f2c5ea5",
     "Name": "Brighteyes’ Bloxy Cola Hat",
     "Value": 0,
-    "RAP": 1517,
+    "RAP": 1563,
     "Image": "https://cdn.pekora.zip/images/thumbnails/51f94988ed17150946adc9d6d396be35224afc90f75201c10f785e06b0aaeaf1.png",
     "Demand": "High",
     "IsRare": false,
@@ -3581,7 +3581,7 @@
     "_id": "6900ded7fa79bfd19f642082",
     "Name": "Dragonfire Sword",
     "Value": 0,
-    "RAP": 69,
+    "RAP": 70,
     "Image": "https://cdn.pekora.zip/images/thumbnails/0d1d438bc68225334006e161704d61cf56442b35c47f9d0d48842f6b78ea0900.png",
     "Demand": "None",
     "IsRare": false,
@@ -3635,7 +3635,7 @@
     "_id": "6900df289fd181086890f857",
     "Name": "Green Banded Top Hat",
     "Value": 0,
-    "RAP": 178,
+    "RAP": 177,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8bfb9a836fe296d7a952eb551b25d605dbf023d60f6cb6fa715f42ae5208b3e6.png",
     "Demand": "None",
     "IsRare": false,
@@ -4614,7 +4614,7 @@
     "_id": "6900e56756ed3717c3885078",
     "Name": "Green Bubble Trouble",
     "Value": 0,
-    "RAP": 273,
+    "RAP": 275,
     "Image": "https://cdn.pekora.zip/images/thumbnails/31a6fa88bdf7fddfcc2def7311c34d02e05f3ddacaad5caf9105c8559a8d80e7.png",
     "Demand": "None",
     "IsRare": false,
@@ -4633,7 +4633,7 @@
     "_id": "6900e6c1294767dc88d2cef9",
     "Name": "2010 Fireworks",
     "Value": 0,
-    "RAP": 56,
+    "RAP": 54,
     "Image": "https://cdn.pekora.zip/images/thumbnails/48eb02107e3e598794bd0faa120b3f5cd876c5951c13c1c6195851187dfc312a.png",
     "Demand": "None",
     "IsRare": false,
@@ -6877,7 +6877,7 @@
     "_id": "6901026ee56dc89934266803",
     "Name": "Nuclear Winter",
     "Value": 0,
-    "RAP": 102,
+    "RAP": 98,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d2b12009933e10e0e1b106113bc22b4a18454bb41fe599b42b1b08742fee6a1c.png",
     "Demand": "None",
     "IsRare": false,
@@ -8887,7 +8887,7 @@
     "_id": "690d1d88e5a2d9119615c3bd",
     "Name": "Galaxy Wings",
     "Value": 0,
-    "RAP": 90,
+    "RAP": 88,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e421d1ed1ce7a9955258cf3199b52ea902074286a6565fc4cd0eaa205ae7a9e2.png",
     "Demand": "None",
     "IsRare": false,
@@ -10768,7 +10768,7 @@
     "_id": "699f79dd98c7247b26a0c758",
     "Name": "Hollywood Sign",
     "Value": 0,
-    "RAP": 48,
+    "RAP": 53,
     "Image": "https://cdn.pekora.zip/images/thumbnails/caf5e2de832fc8c044db45f16fa8606d2efb11f2c07170231801c0613e691f33.png",
     "Demand": "None",
     "IsRare": false,
@@ -10787,7 +10787,7 @@
     "_id": "699f7a7e98c7247b26a0c77a",
     "Name": "Egg of Hidden Treasures",
     "Value": 0,
-    "RAP": 96,
+    "RAP": 98,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8d9bdbe80d871ed8c25ec1c0d325ab1d423c73b43d1714d6dd346cf55602e133.png",
     "Demand": "None",
     "IsRare": false,
@@ -11839,7 +11839,7 @@
     "_id": "69a5b654b06e50e5b5a7d359",
     "Name": "Bubbling Castle",
     "Value": 0,
-    "RAP": 144,
+    "RAP": 139,
     "Image": "https://cdn.pekora.zip/images/thumbnails/8e0e0fafe58c51e4900d519bd647becdcb76fd87e584de05f9ee061a3dc44222.png",
     "Demand": "None",
     "IsRare": false,
@@ -15189,7 +15189,7 @@
   {
     "Name": "Sugar Egg",
     "Value": 0,
-    "RAP": 49,
+    "RAP": 52,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7e7789782dedfba325bc49e8825bac596a4dba3bb3ea0c61b08d56589b73b02c.png",
     "Demand": "None",
     "IsRare": false,
@@ -15241,7 +15241,7 @@
   {
     "Name": "8-Bit HP Bar",
     "Value": 0,
-    "RAP": 473,
+    "RAP": 481,
     "Image": "https://cdn.pekora.zip/images/thumbnails/4c2389f77c0e607f6181f5363809abea766b119212bc47aa5c09cf3fded16e24.png",
     "Demand": "None",
     "IsRare": false,
@@ -16151,7 +16151,7 @@
   {
     "Name": "Happy 100K Day",
     "Value": 0,
-    "RAP": 103,
+    "RAP": 99,
     "Image": "https://cdn.pekora.zip/images/thumbnails/302b8c103d3e44194a6fd8fc43d0cea26ba57dfb4c0f296e5a78f73d6a57c842.png",
     "Demand": "None",
     "IsRare": false,
@@ -16886,7 +16886,7 @@
   {
     "Name": "Blue Galaxy Gaze",
     "Value": 0,
-    "RAP": 309,
+    "RAP": 304,
     "Image": "https://cdn.pekora.zip/images/thumbnails/f39ff7b2ab7d846c6ea725c9d9530e51084550305b3b9823572b9c8b92c941da.png",
     "Demand": "None",
     "IsRare": false,
@@ -17064,7 +17064,7 @@
   {
     "Name": "Golden Chrome Shades",
     "Value": 0,
-    "RAP": 118,
+    "RAP": 126,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e0a3f887953a054ec9d6372667a1c66cc13102789d56ba506f915fd50826a73a.png",
     "Demand": "None",
     "IsRare": false,
@@ -17476,7 +17476,7 @@
   {
     "Name": "BIG: Silverthorn Antlers",
     "Value": 0,
-    "RAP": 252,
+    "RAP": 243,
     "Image": "https://cdn.pekora.zip/images/thumbnails/a6fa80b1034c3ce1e8304f0749cb2d3038dc4c71f72c2574398d2e93215a7c34.png",
     "Demand": "None",
     "IsRare": false,
@@ -18327,7 +18327,7 @@
   {
     "Name": "Overseer Hooded Cloak",
     "Value": 0,
-    "RAP": 58,
+    "RAP": 64,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825724&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,50 +18501,6 @@
     "OriginalPrice": 200
   },
   {
-    "itemId": 30731,
-    "Name": "Real Scorching Frost Stunnas",
-    "Value": 0,
-    "RAP": 137,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/30731",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-21"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
-    "createdBy": "auto-discover"
-  },
-  {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
     "Value": -666,
@@ -18634,6 +18590,50 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:49:50.297Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 30731,
+    "Name": "Real Scorching Frost Stunnas",
+    "Value": 0,
+    "RAP": 137,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=30731&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/30731",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-21"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-21T19:50:25.767Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
   }
 ]
