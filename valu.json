@@ -492,10 +492,10 @@
   {
     "itemId": 392223,
     "Name": "White Sparkle Time Fedora",
-    "Value": 0,
+    "Value": 18000,
     "RAP": 17065,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=392223&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -558,10 +558,10 @@
   {
     "itemId": 25795,
     "Name": "Clockwork's Headphones",
-    "Value": 0,
+    "Value": 8500,
     "RAP": 7676,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=25795&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "High",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -581,7 +581,7 @@
     "itemId": 495004,
     "Name": "8-Bit SwordPack",
     "Value": 0,
-    "RAP": 101,
+    "RAP": 100,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=495004&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -734,10 +734,10 @@
   {
     "itemId": 490376,
     "Name": "): Green Sidewinder",
-    "Value": 0,
+    "Value": 5500,
     "RAP": 6156,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=490376&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -844,10 +844,10 @@
   {
     "itemId": 13880,
     "Name": "Amethyst Periastron Kappa",
-    "Value": 0,
+    "Value": 3000,
     "RAP": 2579,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=13880&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Terrible",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -1244,10 +1244,10 @@
   {
     "itemId": 43898,
     "Name": "Red Void Star",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 3629,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=43898&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -1266,13 +1266,15 @@
   {
     "itemId": 32105,
     "Name": "Black Sparkle Time Fedora",
-    "Value": 0,
+    "Value": 32500,
     "RAP": 6669,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=32105&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Decent",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/32105",
     "History": [
@@ -1510,10 +1512,10 @@
   {
     "itemId": 46615,
     "Name": "Blackvalk",
-    "Value": 0,
+    "Value": 12500,
     "RAP": 9745,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=46615&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -1708,13 +1710,15 @@
   {
     "itemId": 50766,
     "Name": "Emperor",
-    "Value": 0,
+    "Value": 8500,
     "RAP": 4232,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=50766&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/50766",
     "History": [
@@ -1972,13 +1976,15 @@
   {
     "itemId": 68982,
     "Name": "Black Iron King of the Night",
-    "Value": 0,
+    "Value": 11500,
     "RAP": 8661,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=68982&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
-    "Tags": [],
+    "Tags": [
+      "Hoarded"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/68982",
     "History": [
@@ -1999,8 +2005,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=90462&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/90462",
     "History": [
@@ -2465,8 +2473,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=45393&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Raising",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/45393",
     "History": [
@@ -2791,7 +2801,7 @@
     "itemId": 595262,
     "Name": "Noob Assist: S'mores Snacker",
     "Value": 0,
-    "RAP": 48,
+    "RAP": 47,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=595262&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -2966,13 +2976,15 @@
   {
     "itemId": 95070,
     "Name": "Telamon Hair",
-    "Value": 0,
+    "Value": 10000,
     "RAP": 7475,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=95070&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/95070",
     "History": [
@@ -3149,9 +3161,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=53061&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
+    "IsRare": true,
     "Tags": [
-      "Hoarded"
+      "Hoarded",
+      "Rare"
     ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/53061",
@@ -3855,8 +3868,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=39190&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Raising",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/39190",
     "History": [
@@ -4231,8 +4246,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=378194&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/378194",
     "History": [
@@ -4253,8 +4270,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=56565&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Fluctuating",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/56565",
     "History": [
@@ -4512,10 +4531,10 @@
   {
     "itemId": 34380,
     "Name": "The Void Star",
-    "Value": 0,
+    "Value": 11000,
     "RAP": 7952,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=34380&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "High",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -4756,10 +4775,10 @@
   {
     "itemId": 328739,
     "Name": "Yellow Glowing Eyes",
-    "Value": 0,
+    "Value": 4000,
     "RAP": 3358,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=328739&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -4805,8 +4824,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=45288&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/45288",
     "History": [
@@ -5025,8 +5046,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=15753&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/15753",
     "History": [
@@ -5086,10 +5109,10 @@
   {
     "itemId": 32732,
     "Name": "Purple Sparkle Time Fedora",
-    "Value": 0,
+    "Value": 28000,
     "RAP": 8884,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=32732&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -5308,10 +5331,10 @@
   {
     "itemId": 33874,
     "Name": "Noir Periastron Psi",
-    "Value": 0,
+    "Value": 2000,
     "RAP": 2260,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=33874&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -5352,10 +5375,10 @@
   {
     "itemId": 49515,
     "Name": "Sparkle Time Valkyrie",
-    "Value": 0,
+    "Value": 5500,
     "RAP": 3040,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=49515&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -5535,8 +5558,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=16588&width=420&height=420&format=png",
     "Demand": "High",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/16588",
     "History": [
@@ -7099,8 +7124,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=16821&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/16821",
     "History": [
@@ -7627,8 +7654,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=37738&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/37738",
     "History": [
@@ -7688,10 +7717,10 @@
   {
     "itemId": 366982,
     "Name": "Firebrand",
-    "Value": 0,
+    "Value": 4500,
     "RAP": 3940,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=366982&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -7806,7 +7835,9 @@
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
-    "Tags": [],
+    "Tags": [
+      "Projected"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/326567",
     "History": [
@@ -8133,10 +8164,10 @@
   {
     "itemId": 47854,
     "Name": "Adurite King of the Night ",
-    "Value": 0,
+    "Value": 2600,
     "RAP": 2715,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=47854&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -8205,7 +8236,9 @@
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
-    "Tags": [],
+    "Tags": [
+      "Projected"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/825733",
     "History": [
@@ -8688,8 +8721,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=77953&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/77953",
     "History": [
@@ -8976,8 +9011,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=7265&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Raising",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/7265",
     "History": [
@@ -9218,8 +9255,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=36141&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/36141",
     "History": [
@@ -9948,8 +9987,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=31413&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/31413",
     "History": [
@@ -10165,10 +10206,10 @@
   {
     "itemId": 319324,
     "Name": "Ghostwalker",
-    "Value": 0,
+    "Value": 4700,
     "RAP": 3111,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=319324&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -10320,7 +10361,7 @@
     "itemId": 88727,
     "Name": "Hot Jams Headphones",
     "Value": 0,
-    "RAP": 170,
+    "RAP": 172,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=88727&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10737,7 +10778,7 @@
   {
     "itemId": 42943,
     "Name": "Dominus Aureus",
-    "Value": 0,
+    "Value": 6500,
     "RAP": 8474,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=42943&width=420&height=420&format=png",
     "Demand": "Unassigned",
@@ -10915,13 +10956,16 @@
   {
     "itemId": 405101,
     "Name": "Chrysophylax",
-    "Value": 0,
+    "Value": 13500,
     "RAP": 6000,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=405101&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare",
+      "Hoarded"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/405101",
     "History": [
@@ -11313,10 +11357,10 @@
   {
     "itemId": 368351,
     "Name": "CW Ultimate: Ruby Rapture",
-    "Value": 0,
+    "Value": 5500,
     "RAP": 3820,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=368351&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -11626,8 +11670,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=32155&width=420&height=420&format=png",
     "Demand": "High",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/32155",
     "History": [
@@ -11951,10 +11997,10 @@
   {
     "itemId": 417173,
     "Name": "Bluesteel Domino Crown",
-    "Value": 0,
+    "Value": 6000,
     "RAP": 5204,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=417173&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -12044,8 +12090,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=552530&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/552530",
     "History": [
@@ -12459,13 +12507,15 @@
   {
     "itemId": 339435,
     "Name": "Decklace",
-    "Value": 0,
+    "Value": 22500,
     "RAP": 3080,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=339435&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/339435",
     "History": [
@@ -12882,8 +12932,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=47240&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/47240",
     "History": [
@@ -12921,10 +12973,10 @@
   {
     "itemId": 471270,
     "Name": "Bluesteel Fedora",
-    "Value": 0,
+    "Value": 6500,
     "RAP": 6479,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=471270&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -12970,8 +13022,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=56781&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/56781",
     "History": [
@@ -12992,8 +13046,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=445387&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Unstable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/445387",
     "History": [
@@ -13014,8 +13070,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=373589&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/373589",
     "History": [
@@ -13559,10 +13617,10 @@
   {
     "itemId": 33818,
     "Name": "Rainbow Periastron Omega",
-    "Value": 0,
+    "Value": 3300,
     "RAP": 2010,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=33818&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -14771,10 +14829,10 @@
   {
     "itemId": 17910,
     "Name": "Mighty Mask of Zeus",
-    "Value": 0,
+    "Value": 4500,
     "RAP": 2138,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=17910&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -14991,10 +15049,10 @@
   {
     "itemId": 571537,
     "Name": "Pastel Rainbow Shaggy",
-    "Value": 0,
+    "Value": 6000,
     "RAP": 5086,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=571537&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -16183,13 +16241,15 @@
   {
     "itemId": 16693,
     "Name": "Sword of Darkness",
-    "Value": 0,
+    "Value": 4300,
     "RAP": 2533,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=16693&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Terrible",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/16693",
     "History": [
@@ -16807,11 +16867,11 @@
   {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
-    "Value": 0,
+    "Value": -666,
     "RAP": 0,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=926762&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
+    "Demand": "Terrible",
+    "Trend": "Lowering",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
@@ -17093,10 +17153,10 @@
   {
     "itemId": 47973,
     "Name": "Red Domino Crown",
-    "Value": 0,
+    "Value": 11000,
     "RAP": 10993,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=47973&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -17357,10 +17417,10 @@
   {
     "itemId": 77955,
     "Name": "Dual Darkhearts",
-    "Value": 0,
+    "Value": 11500,
     "RAP": 7845,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=77955&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -17696,8 +17756,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=112585&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/112585",
     "History": [
@@ -18993,10 +19055,10 @@
   {
     "itemId": 64354,
     "Name": "Emerald Valkyrie",
-    "Value": 0,
+    "Value": 12500,
     "RAP": 5708,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=64354&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -19133,14 +19195,15 @@
   {
     "itemId": 291221,
     "Name": "Gaze of Huggo",
-    "Value": 0,
+    "Value": 14000,
     "RAP": 6466,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=291221&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Terrible",
     "Trend": "Stable",
-    "IsRare": false,
+    "IsRare": true,
     "Tags": [
-      "Hoarded"
+      "Hoarded",
+      "Rare"
     ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/291221",
@@ -19201,13 +19264,15 @@
   {
     "itemId": 75874,
     "Name": "): Euro 180",
-    "Value": 0,
+    "Value": 27000,
     "RAP": 5850,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=75874&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/75874",
     "History": [
@@ -19443,10 +19508,10 @@
   {
     "itemId": 445321,
     "Name": "Tix Shaggy",
-    "Value": 0,
+    "Value": 10000,
     "RAP": 11000,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=445321&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Terrible",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -19577,10 +19642,10 @@
   {
     "itemId": 387431,
     "Name": "Green Glowing Eyes",
-    "Value": 0,
+    "Value": 5000,
     "RAP": 3801,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=387431&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -19605,7 +19670,9 @@
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
-    "Tags": [],
+    "Tags": [
+      "Projected"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/47436",
     "History": [
@@ -19643,10 +19710,10 @@
   {
     "itemId": 397593,
     "Name": "Eyes of Crimsonwrath",
-    "Value": 0,
+    "Value": 10000,
     "RAP": 8087,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=397593&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -19753,6 +19820,72 @@
     "createdBy": "auto-discover"
   },
   {
+    "itemId": 495319,
+    "Name": "Teal Mermaid Queen",
+    "Value": 0,
+    "RAP": 301,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=495319&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/495319",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:36:49.865Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 112636,
+    "Name": "Monarch Butterfly Smile ",
+    "Value": 0,
+    "RAP": 449,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=112636&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/112636",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:34:59.200Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 127048,
+    "Name": "Geography Textbook",
+    "Value": 0,
+    "RAP": 461,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=127048&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/127048",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:36:49.865Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 116897,
     "Name": "PEKORA Bowler",
     "Value": 0,
@@ -19772,6 +19905,28 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-25T21:34:59.200Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 197027,
+    "Name": "Benjamin Franklin",
+    "Value": 0,
+    "RAP": 116,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=197027&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/197027",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:36:53.083Z",
     "createdBy": "auto-discover"
   },
   {
@@ -19797,6 +19952,28 @@
     "createdBy": "auto-discover"
   },
   {
+    "itemId": 127049,
+    "Name": "Book: The Life and Times of a Builderman",
+    "Value": 0,
+    "RAP": 369,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=127049&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/127049",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:36:49.865Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 225357,
     "Name": "LOLHOO",
     "Value": 0,
@@ -19819,17 +19996,17 @@
     "createdBy": "auto-discover"
   },
   {
-    "itemId": 112636,
-    "Name": "Monarch Butterfly Smile ",
+    "itemId": 127050,
+    "Name": "Book: Muffin Cat: King of Muffins",
     "Value": 0,
-    "RAP": 449,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=112636&width=420&height=420&format=png",
+    "RAP": 233,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=127050&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/112636",
+    "Link": "https://www.pekora.zip/catalog/127050",
     "History": [
       {
         "v": 0,
@@ -19837,7 +20014,209 @@
       }
     ],
     "ValueChangerNote": "",
-    "Created": "2026-07-25T21:34:59.200Z",
+    "Created": "2026-07-25T21:36:49.865Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 732515,
+    "Name": "billing's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=732515&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/732515",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:39:25.583Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 590905,
+    "Name": "Aqua Emperor Of The Sky",
+    "Value": 0,
+    "RAP": 52,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=590905&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/590905",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:42:33.775Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 535380,
+    "Name": "Ice Law",
+    "Value": 0,
+    "RAP": 2331,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=535380&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/535380",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:47:15.098Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 578566,
+    "Name": "Pig with Aviators",
+    "Value": 0,
+    "RAP": 601,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=578566&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [
+      "Hoarded"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/578566",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:44:26.264Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 586163,
+    "Name": "Shoulder Shark Cat",
+    "Value": 0,
+    "RAP": 663,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=586163&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/586163",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:43:48.064Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 382867,
+    "Name": "Mozarts Hair",
+    "Value": 0,
+    "RAP": 391,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=382867&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/382867",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:42:48.065Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 301181,
+    "Name": "Sinister Fedora",
+    "Value": 0,
+    "RAP": 817,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=301181&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/301181",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:45:32.783Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 176651,
+    "Name": "DDotty Smile",
+    "Value": 0,
+    "RAP": 233,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=176651&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/176651",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:50:52.650Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 308684,
+    "Name": "Spec Zeta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 937,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=308684&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/308684",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:53:06.070Z",
     "createdBy": "auto-discover"
   }
 ]
