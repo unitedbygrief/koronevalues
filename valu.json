@@ -4670,7 +4670,7 @@
     "_id": "6900e6dc907190d077592186",
     "Name": "Blue Eyeroll",
     "Value": 0,
-    "RAP": 439,
+    "RAP": 495,
     "Image": "https://cdn.pekora.zip/images/thumbnails/d13c2b3b57f7d691a96b84736eb3f04d78e780e52c2485647d80ebb141e7d71b.png",
     "Demand": "None",
     "IsRare": false,
@@ -7561,7 +7561,7 @@
     "_id": "69011840c1949ffc8f14b10c",
     "Name": "Hot Jams Headphones",
     "Value": 0,
-    "RAP": 151,
+    "RAP": 149,
     "Image": "https://cdn.pekora.zip/images/thumbnails/e3b7a8d8cdc800f6eef431fac559aa589050af930d553b036b1abdd462ce4ef9.png",
     "Demand": "None",
     "IsRare": false,
@@ -7657,7 +7657,7 @@
     "_id": "6901189c8ec167bb97e7e476",
     "Name": "Zombie Doge",
     "Value": 0,
-    "RAP": 166,
+    "RAP": 170,
     "Image": "https://cdn.pekora.zip/images/thumbnails/68ff2cd37dbfdf958c18111544dcff69d11f07f6d24c2aff9cc588ff57a446e2.png",
     "Demand": "None",
     "IsRare": false,
@@ -9071,7 +9071,7 @@
     "_id": "6915c2e9ce6e865ce872ecb1",
     "Name": "Supa Fly Cap",
     "Value": 0,
-    "RAP": 556,
+    "RAP": 570,
     "Image": "https://cdn.pekora.zip/images/thumbnails/7fc5023a309a3f1ba7b93bddb959375dae34ad9dc6ec21d1f383ad863138de45.png",
     "Demand": "None",
     "IsRare": false,
@@ -9232,7 +9232,7 @@
     "_id": "69223acdfea9508e8e87f6af",
     "Name": "BFF Key",
     "Value": 0,
-    "RAP": 551,
+    "RAP": 536,
     "Image": "https://cdn.pekora.zip/images/thumbnails/aaa1645caa22e320522f2ced2569fe5de59b592cf0ea8b654417062415919b3f.png",
     "Demand": "Unassigned",
     "IsRare": false,
@@ -9695,7 +9695,7 @@
     "_id": "6945d984ca56be7312666bb1",
     "Name": "Sk8r Boi",
     "Value": 0,
-    "RAP": 139,
+    "RAP": 135,
     "Image": "https://cdn.pekora.zip/images/thumbnails/329ac6627f211c85232c1514ada47eab0f2de6d6f89dc230c4fb1002100b6bb8.png",
     "Demand": "None",
     "IsRare": false,
@@ -16242,7 +16242,7 @@
   {
     "Name": "Light Face Melting Guitar",
     "Value": 0,
-    "RAP": 109,
+    "RAP": 170,
     "Image": "https://cdn.pekora.zip/images/thumbnails/b96ab3959f65fc19192f9972e3c56ba30f4f70311f1667a447dd13c308383ad4.png",
     "Demand": "None",
     "IsRare": false,
@@ -16816,7 +16816,7 @@
   {
     "Name": "Blue Amazeface",
     "Value": 0,
-    "RAP": 134,
+    "RAP": 130,
     "Image": "https://cdn.pekora.zip/images/thumbnails/735d9c33a7d7bb3c16107a343914dc16a8131ce25c58b39bf4e301726cb1d7a5.png",
     "Demand": "None",
     "IsRare": false,
@@ -18202,7 +18202,7 @@
   {
     "Name": "Royal Rabbit Ears",
     "Value": 0,
-    "RAP": 71,
+    "RAP": 69,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=854634&width=420&height=420&format=png",
     "Demand": "None",
     "IsRare": false,
@@ -18501,6 +18501,28 @@
     "OriginalPrice": 200
   },
   {
+    "itemId": 917013,
+    "Name": "Spec Beta Biograft Energy Sword",
+    "Value": 0,
+    "RAP": 2000,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/917013",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-23"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-23T19:56:11.848Z",
+    "createdBy": "auto-discover"
+  },
+  {
     "itemId": 926762,
     "Name": "Dat Rose Crown",
     "Value": -666,
@@ -18612,28 +18634,6 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-21T19:50:25.767Z",
-    "createdBy": "auto-discover"
-  },
-  {
-    "itemId": 917013,
-    "Name": "Spec Beta Biograft Energy Sword",
-    "Value": 0,
-    "RAP": 2000,
-    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=917013&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
-    "Acronym": "",
-    "Link": "https://www.pekora.zip/catalog/917013",
-    "History": [
-      {
-        "v": 0,
-        "d": "2026-07-23"
-      }
-    ],
-    "ValueChangerNote": "",
-    "Created": "2026-07-23T19:56:11.848Z",
     "createdBy": "auto-discover"
   }
 ]
