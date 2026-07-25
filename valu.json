@@ -12105,10 +12105,10 @@
   {
     "itemId": 15899,
     "Name": "Crown of the Dark Lord of SQL",
-    "Value": 0,
+    "Value": 25000,
     "RAP": 11270,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=15899&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -19750,6 +19750,94 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-25T21:32:13.350Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 116897,
+    "Name": "PEKORA Bowler",
+    "Value": 0,
+    "RAP": 370,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=116897&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/116897",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:34:59.200Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 112636,
+    "Name": "Monarch Butterfly Smile ",
+    "Value": 0,
+    "RAP": 449,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=112636&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/112636",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:34:59.200Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 157114,
+    "Name": "Shooting Star",
+    "Value": 0,
+    "RAP": 269,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=157114&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/157114",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:34:59.200Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 225357,
+    "Name": "LOLHOO",
+    "Value": 0,
+    "RAP": 818,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=225357&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/225357",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-25"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-25T21:34:59.200Z",
     "createdBy": "auto-discover"
   }
 ]
