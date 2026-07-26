@@ -4147,7 +4147,7 @@
     "itemId": 120720,
     "Name": "Cardboard Bowler",
     "Value": 0,
-    "RAP": 97,
+    "RAP": 94,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=120720&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18757,7 +18757,9 @@
     "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": false,
-    "Tags": [],
+    "Tags": [
+      "Hoarded"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/319324",
     "History": [
