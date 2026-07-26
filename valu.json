@@ -1449,7 +1449,7 @@
     "itemId": 911735,
     "Name": "WC Ultimates: Peridot Panic",
     "Value": 0,
-    "RAP": 1565,
+    "RAP": 1519,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911735&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -2833,7 +2833,7 @@
     "itemId": 88727,
     "Name": "Hot Jams Headphones",
     "Value": 0,
-    "RAP": 179,
+    "RAP": 186,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=88727&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -3075,7 +3075,7 @@
     "itemId": 487197,
     "Name": "Green Laurel Wreath",
     "Value": 0,
-    "RAP": 772,
+    "RAP": 745,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=487197&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -5032,7 +5032,7 @@
     "itemId": 923157,
     "Name": "Ghostfire Sword",
     "Value": 0,
-    "RAP": 1058,
+    "RAP": 1053,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=923157&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -5146,7 +5146,7 @@
     "itemId": 32458,
     "Name": "Merely's Green Sparkle Time Hoverboard",
     "Value": 0,
-    "RAP": 217,
+    "RAP": 216,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=32458&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -5255,13 +5255,15 @@
   {
     "itemId": 135056,
     "Name": "Soviet Ushanka",
-    "Value": 0,
+    "Value": 6000,
     "RAP": 4127,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=135056&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
     "IsRare": false,
-    "Tags": [],
+    "Tags": [
+      "Hoarded"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/135056",
     "History": [
@@ -5854,7 +5856,7 @@
     "itemId": 4667,
     "Name": "Traffic Cone",
     "Value": 0,
-    "RAP": 422,
+    "RAP": 434,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=4667&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -7708,7 +7710,7 @@
     "itemId": 466020,
     "Name": "Pizza Bandit",
     "Value": 0,
-    "RAP": 42,
+    "RAP": 41,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=466020&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -8984,7 +8986,7 @@
     "itemId": 91046,
     "Name": "The First Time I Ever Played KORONE...",
     "Value": 0,
-    "RAP": 497,
+    "RAP": 492,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=91046&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -12153,7 +12155,7 @@
     "itemId": 825722,
     "Name": "Overseer Short Sword",
     "Value": 0,
-    "RAP": 130,
+    "RAP": 126,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=825722&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -14207,7 +14209,7 @@
     "itemId": 457974,
     "Name": "Gork, Your Caveman Shoulder Friend",
     "Value": 0,
-    "RAP": 198,
+    "RAP": 217,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=457974&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -14817,7 +14819,7 @@
     "itemId": 399303,
     "Name": "Sneaky Green-Eyed Snake",
     "Value": 0,
-    "RAP": 317,
+    "RAP": 324,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=399303&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -16137,7 +16139,7 @@
     "itemId": 501970,
     "Name": "Rose Amazeface",
     "Value": 0,
-    "RAP": 135,
+    "RAP": 132,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501970&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -16647,7 +16649,7 @@
     "itemId": 312664,
     "Name": "Pieface Jellyfreckles",
     "Value": 0,
-    "RAP": 460,
+    "RAP": 454,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=312664&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18041,7 +18043,7 @@
     "itemId": 503347,
     "Name": "Crimson Starface",
     "Value": 0,
-    "RAP": 133,
+    "RAP": 137,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=503347&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -19290,7 +19292,7 @@
   {
     "itemId": 36041,
     "Name": "Fiery Horns of the Netherworld",
-    "Value": 7000,
+    "Value": 8000,
     "RAP": 6883,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=36041&width=420&height=420&format=png",
     "Demand": "High",
@@ -19305,7 +19307,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Enough RAP for 8,000 Value.",
     "Created": "2026-07-25T21:03:33.471Z",
     "createdBy": "auto-discover"
   },
@@ -19555,7 +19557,7 @@
     "itemId": 536841,
     "Name": "The Bluesteel Bathelm",
     "Value": 0,
-    "RAP": 149,
+    "RAP": 144,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=536841&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -19826,7 +19828,7 @@
   {
     "itemId": 29285,
     "Name": "Subarctic Commando",
-    "Value": 0,
+    "Value": 2300,
     "RAP": 2635,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=29285&width=420&height=420&format=png",
     "Demand": "Unassigned",
@@ -20391,6 +20393,412 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-26T00:19:28.375Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 732435,
+    "Name": "netflix's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=732435&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/732435",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T01:16:51.606Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 730134,
+    "Name": "dior's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=730134&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/730134",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T01:40:29.126Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 732423,
+    "Name": "club's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=732423&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/732423",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 740351,
+    "Name": "wuw's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=740351&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/740351",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 730188,
+    "Name": "4_4's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=730188&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/730188",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.076Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 732523,
+    "Name": "aesthetical's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=732523&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/732523",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 740358,
+    "Name": "hikikopuppy's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=740358&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/740358",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 740356,
+    "Name": "ceres's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=740356&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/740356",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 732529,
+    "Name": "horohii4's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=732529&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/732529",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 502989,
+    "Name": "Ultra Commando",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=502989&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/502989",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.076Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 730151,
+    "Name": "p5's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=730151&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/730151",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.076Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 740354,
+    "Name": "redxz's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=740354&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/740354",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 730169,
+    "Name": "bitwise's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=730169&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/730169",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.076Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 732414,
+    "Name": "fin's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=732414&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/732414",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 730158,
+    "Name": "saw's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=730158&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/730158",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.076Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 501961,
+    "Name": "Red White and Starface",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501961&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/501961",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.076Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 740818,
+    "Name": "angel's KORONE Tablet",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=740818&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/740818",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-26"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-26T02:12:35.077Z",
     "createdBy": "auto-discover"
   }
 ]
