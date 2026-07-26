@@ -15065,7 +15065,7 @@
   {
     "itemId": 49515,
     "Name": "Sparkle Time Valkyrie",
-    "Value": 5500,
+    "Value": 14000,
     "RAP": 3040,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=49515&width=420&height=420&format=png",
     "Demand": "Low",
@@ -15082,7 +15082,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "STV has been seeing great performance within the recent months, resulting in a raise.",
     "Created": "2026-07-25T21:06:04.989Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -17579,11 +17579,11 @@
   {
     "itemId": 32155,
     "Name": "Bling $$ Necklace",
-    "Value": 140000,
+    "Value": 165000,
     "RAP": 10727,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=32155&width=420&height=420&format=png",
     "Demand": "High",
-    "Trend": "Stable",
+    "Trend": "Raising",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -17596,7 +17596,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "Bling has been seeing insane overpays in trades lately, leading to a raise.",
+    "ValueChangerNote": "Bling has been seeing consistent overpays in trades, leading to a raise and a change in trend.",
     "Created": "2026-07-25T21:04:33.760Z",
     "createdBy": "auto-discover"
   },
