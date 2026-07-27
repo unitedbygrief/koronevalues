@@ -1718,7 +1718,7 @@
   {
     "itemId": 48698,
     "Name": "Purple Ice Crown",
-    "Value": 3000,
+    "Value": 0,
     "RAP": 2425,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=48698&width=420&height=420&format=png",
     "Demand": "Decent",
@@ -4588,7 +4588,7 @@
   {
     "itemId": 87888,
     "Name": "Ice Valkyrie",
-    "Value": 0,
+    "Value": 4000,
     "RAP": 3319,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=87888&width=420&height=420&format=png",
     "Demand": "Unassigned",
@@ -12667,7 +12667,7 @@
   {
     "itemId": 41910,
     "Name": "Midnight Blue Sparkle Time Fedora",
-    "Value": 39000,
+    "Value": 50000,
     "RAP": 20897,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=41910&width=420&height=420&format=png",
     "Demand": "High",
@@ -19679,7 +19679,7 @@
   {
     "itemId": 42603,
     "Name": "Viscount of the Federation",
-    "Value": 0,
+    "Value": 3500,
     "RAP": 2828,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=42603&width=420&height=420&format=png",
     "Demand": "Unassigned",
