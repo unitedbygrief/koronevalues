@@ -1163,7 +1163,7 @@
     "itemId": 591317,
     "Name": "Back Axe Guitar",
     "Value": 0,
-    "RAP": 52,
+    "RAP": 51,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=591317&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -3675,11 +3675,11 @@
   {
     "itemId": 34037,
     "Name": "Spartan Helmet",
-    "Value": 0,
+    "Value": 7000,
     "RAP": 3490,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=34037&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
+    "Demand": "Terrible",
+    "Trend": "Fluctuating",
     "IsRare": true,
     "Tags": [
       "Rare",
@@ -3693,7 +3693,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Spartan Helmet has seen strong trade performance within the past few months, resulting in an initial valuation of 7k.",
     "Created": "2026-07-25T21:21:06.904Z",
     "createdBy": "auto-discover"
   },
@@ -9167,7 +9167,7 @@
     "itemId": 426502,
     "Name": "Violet Fang",
     "Value": 0,
-    "RAP": 529,
+    "RAP": 519,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=426502&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -9393,8 +9393,10 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=77955&width=420&height=420&format=png",
     "Demand": "Low",
     "Trend": "Stable",
-    "IsRare": false,
-    "Tags": [],
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/77955",
     "History": [
@@ -10672,7 +10674,7 @@
     "itemId": 50396,
     "Name": "Pretty Pretty Princess",
     "Value": 0,
-    "RAP": 1091,
+    "RAP": 1121,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=50396&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10738,7 +10740,7 @@
     "itemId": 501994,
     "Name": "Blue Starry Sight",
     "Value": 0,
-    "RAP": 123,
+    "RAP": 120,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501994&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10870,7 +10872,7 @@
     "itemId": 501921,
     "Name": "Green Starface ",
     "Value": 0,
-    "RAP": 85,
+    "RAP": 82,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501921&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -11155,7 +11157,7 @@
   {
     "itemId": 75874,
     "Name": "): Euro 180",
-    "Value": 27000,
+    "Value": 30000,
     "RAP": 5850,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=75874&width=420&height=420&format=png",
     "Demand": "Low",
@@ -11172,7 +11174,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Euro has seen positive trade performance, resulting in a slight raise.",
     "Created": "2026-07-25T21:30:37.194Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -11538,7 +11540,7 @@
     "itemId": 383529,
     "Name": "Earth Day 2010 Cap",
     "Value": 0,
-    "RAP": 53,
+    "RAP": 52,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=383529&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -20303,14 +20305,15 @@
   {
     "itemId": 64354,
     "Name": "Emerald Valkyrie",
-    "Value": 12500,
+    "Value": 22500,
     "RAP": 5708,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=64354&width=420&height=420&format=png",
-    "Demand": "Low",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
-      "Rare"
+      "Rare",
+      "Hoarded"
     ],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/64354",
@@ -20324,7 +20327,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Emerald Valkyrie has been doing pretty good as of lately leading to a raise!",
     "Created": "2026-07-25T21:29:53.777Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -20832,7 +20835,7 @@
     "itemId": 956709,
     "Name": "Spec Gamma Biograft Energy Sword",
     "Value": 0,
-    "RAP": 712,
+    "RAP": 700,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=956709&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
