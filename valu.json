@@ -585,7 +585,7 @@
     "itemId": 578580,
     "Name": "Overseer's Axe",
     "Value": 0,
-    "RAP": 164,
+    "RAP": 159,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=578580&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -3320,7 +3320,7 @@
     "itemId": 746589,
     "Name": "Wings of Liberty",
     "Value": 48000,
-    "RAP": 9200,
+    "RAP": 12779,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=746589&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Raising",
@@ -3745,7 +3745,7 @@
     "itemId": 28857,
     "Name": "Snowman Face",
     "Value": 0,
-    "RAP": 148,
+    "RAP": 143,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=28857&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -6303,7 +6303,7 @@
     "itemId": 374187,
     "Name": "Portrait of a Hero in ROBLOX ",
     "Value": 0,
-    "RAP": 210,
+    "RAP": 202,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=374187&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -11826,7 +11826,7 @@
     "itemId": 609484,
     "Name": "Pink Queen of the Night",
     "Value": 0,
-    "RAP": 1028,
+    "RAP": 1022,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=609484&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -12760,7 +12760,7 @@
     "itemId": 586173,
     "Name": "Katana Traveling Pack",
     "Value": 0,
-    "RAP": 63,
+    "RAP": 62,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=586173&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -14756,7 +14756,7 @@
     "itemId": 16325,
     "Name": "Dominus Vespertilio",
     "Value": 3500,
-    "RAP": 3061,
+    "RAP": 2955,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=16325&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Fluctuating",
@@ -17340,7 +17340,7 @@
     "itemId": 430172,
     "Name": "Eggs Bandolier",
     "Value": 0,
-    "RAP": 58,
+    "RAP": 60,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=430172&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -20835,7 +20835,7 @@
     "itemId": 956709,
     "Name": "Spec Gamma Biograft Energy Sword",
     "Value": 0,
-    "RAP": 885,
+    "RAP": 896,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=956709&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -20851,6 +20851,72 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-07-28T15:46:30.516Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 966410,
+    "Name": "Portrait of a Hero at ROBLOX HQ",
+    "Value": 0,
+    "RAP": 487,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=966410&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/966410",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-31"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-31T17:31:44.445Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 966423,
+    "Name": "Emerald Clawed One",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=966423&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/966423",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-31"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-31T17:32:17.618Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 966401,
+    "Name": "Happy Time Magic Flower Bowler",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=966401&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/966401",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-07-31"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-07-31T17:31:44.445Z",
     "createdBy": "auto-discover"
   }
 ]
