@@ -3476,7 +3476,7 @@
     "itemId": 50028,
     "Name": "Brilliant Bombastique",
     "Value": 0,
-    "RAP": 96,
+    "RAP": 93,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=50028&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -8762,11 +8762,11 @@
   {
     "itemId": 35479,
     "Name": "Transient Harmonica",
-    "Value": 5000,
+    "Value": 6000,
     "RAP": 5084,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=35479&width=420&height=420&format=png",
     "Demand": "Decent",
-    "Trend": "Fluctuating",
+    "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
     "Acronym": "",
@@ -8777,7 +8777,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Harm has been doing well in sales, leading to a raise.",
     "Created": "2026-07-25T21:03:33.471Z",
     "createdBy": "auto-discover"
   },
