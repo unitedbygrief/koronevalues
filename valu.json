@@ -20922,12 +20922,12 @@
   {
     "itemId": 911749,
     "Name": "Bharama Guardian",
-    "Value": 0,
+    "Value": 60000,
     "RAP": 0,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=911749&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
-    "IsRare": false,
+    "Demand": "Low",
+    "Trend": "Fluctuating",
+    "IsRare": true,
     "Tags": [],
     "Acronym": "",
     "Link": "https://www.pekora.zip/catalog/911749",
@@ -20937,7 +20937,7 @@
         "d": "2026-08-01"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Bhar has been performing well since its release, resulting in an initial valuation of 60k.",
     "Created": "2026-08-01T04:29:01.650Z",
     "createdBy": "auto-discover"
   },
