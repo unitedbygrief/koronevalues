@@ -9189,11 +9189,11 @@
   {
     "itemId": 56781,
     "Name": "Domino Crown",
-    "Value": 250000,
+    "Value": 800000,
     "RAP": 670,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=56781&width=420&height=420&format=png",
-    "Demand": "Unassigned",
-    "Trend": "Stable",
+    "Demand": "Low",
+    "Trend": "Raising",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -9206,7 +9206,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Domino Crown has been severely undervalued for a while now. After a few great proofs it has raised!",
     "Created": "2026-07-25T21:05:58.728Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -16069,7 +16069,7 @@
     "itemId": 824544,
     "Name": "Game Over",
     "Value": 0,
-    "RAP": 54,
+    "RAP": 53,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=824544&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
