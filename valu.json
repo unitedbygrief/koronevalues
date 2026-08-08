@@ -11498,7 +11498,7 @@
     "itemId": 977342,
     "Name": "Super HypnoGoggles",
     "Value": 0,
-    "RAP": 102,
+    "RAP": 106,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=977342&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -13694,7 +13694,7 @@
     "itemId": 42603,
     "Name": "Viscount of the Federation",
     "Value": 3500,
-    "RAP": 2828,
+    "RAP": 3045,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=42603&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Stable",
@@ -18076,7 +18076,7 @@
     "itemId": 966410,
     "Name": "Portrait of a Hero at ROBLOX HQ",
     "Value": 0,
-    "RAP": 289,
+    "RAP": 287,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=966410&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -18567,11 +18567,11 @@
   {
     "itemId": 785040,
     "Name": "Double Platinum DJ",
-    "Value": 16500,
+    "Value": 21000,
     "RAP": 8099,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=785040&width=420&height=420&format=png",
     "Demand": "Decent",
-    "Trend": "Fluctuating",
+    "Trend": "Stable",
     "IsRare": false,
     "Tags": [
       "Hoarded"
@@ -18584,7 +18584,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "Double Platinum DJ has been performing insanely good even after its hoard being traded, I see it being even higher in the near future.",
+    "ValueChangerNote": "Consisntent performance in downgrades.",
     "Created": "2026-07-25T21:04:33.760Z",
     "createdBy": "auto-discover"
   },
@@ -18662,7 +18662,7 @@
     "itemId": 678759,
     "Name": "8-Bit HP Bar",
     "Value": 0,
-    "RAP": 421,
+    "RAP": 406,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=678759&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -19757,7 +19757,7 @@
   {
     "itemId": 54584,
     "Name": "Red Glowing Eyes",
-    "Value": 15000,
+    "Value": 20000,
     "RAP": 5678,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=54584&width=420&height=420&format=png",
     "Demand": "Decent",
@@ -19774,7 +19774,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "Positive Trade Performance",
+    "ValueChangerNote": "RGE Has recently seen a nice boost in performance in terms of downgrades, warranting it a decent raise.",
     "Created": "2026-07-25T21:05:46.612Z",
     "createdBy": "auto-discover"
   },
