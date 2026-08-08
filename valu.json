@@ -5177,7 +5177,7 @@
     "itemId": 436545,
     "Name": "Valentine's Day 2011 Cap",
     "Value": 0,
-    "RAP": 73,
+    "RAP": 71,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=436545&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -7634,7 +7634,7 @@
     "itemId": 88719,
     "Name": "Daring Blonde Beard Face",
     "Value": 0,
-    "RAP": 201,
+    "RAP": 202,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=88719&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -12489,7 +12489,7 @@
     "itemId": 386890,
     "Name": "Book: Finnegan's Wake",
     "Value": 0,
-    "RAP": 71,
+    "RAP": 69,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=386890&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -15527,7 +15527,7 @@
     "itemId": 622309,
     "Name": "Real Flaming Hot Stunnas",
     "Value": 0,
-    "RAP": 4680,
+    "RAP": 4493,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=622309&width=420&height=420&format=png",
     "Demand": "Terrible",
     "Trend": "None",
@@ -17075,7 +17075,7 @@
     "itemId": 977343,
     "Name": "Hammerhead on your Head",
     "Value": 0,
-    "RAP": 139,
+    "RAP": 134,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=977343&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21293,6 +21293,50 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-08-07T07:23:15.022Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 989381,
+    "Name": "Lost World Paragon",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=989381&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/989381",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-08-08"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-08-08T13:26:12.673Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 59415,
+    "Name": "Space Cowboy",
+    "Value": 0,
+    "RAP": 1085,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=59415&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/59415",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-08-08"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-08-08T13:28:50.947Z",
     "createdBy": "auto-discover"
   }
 ]
