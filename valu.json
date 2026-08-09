@@ -6073,7 +6073,7 @@
     "itemId": 501970,
     "Name": "Rose Amazeface",
     "Value": 0,
-    "RAP": 111,
+    "RAP": 108,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501970&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -7949,10 +7949,10 @@
   {
     "itemId": 319324,
     "Name": "Ghostwalker",
-    "Value": 4700,
+    "Value": 14000,
     "RAP": 3111,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=319324&width=420&height=420&format=png",
-    "Demand": "Decent",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [
@@ -7966,7 +7966,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Ghostwalker has been performing very well in trades, pulling large amounts consistently, resulting in a raise",
     "Created": "2026-07-25T21:06:04.989Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -17500,7 +17500,7 @@
     "itemId": 501969,
     "Name": "Lavender Amazeface",
     "Value": 0,
-    "RAP": 102,
+    "RAP": 101,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501969&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
