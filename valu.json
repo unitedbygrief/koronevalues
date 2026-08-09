@@ -737,7 +737,7 @@
     "itemId": 18438,
     "Name": "Swordpack",
     "Value": 0,
-    "RAP": 134,
+    "RAP": 135,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=18438&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -3797,7 +3797,7 @@
     "itemId": 641754,
     "Name": "Steampunk Kilty McJig",
     "Value": 0,
-    "RAP": 143,
+    "RAP": 146,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=641754&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -7524,7 +7524,7 @@
     "itemId": 346049,
     "Name": "From the Vault: Dozens of Dinosaurs",
     "Value": 0,
-    "RAP": 619,
+    "RAP": 613,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=346049&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10375,7 +10375,7 @@
     "itemId": 641642,
     "Name": "Steampunk Santa",
     "Value": 0,
-    "RAP": 144,
+    "RAP": 142,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=641642&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10722,7 +10722,7 @@
     "itemId": 44937,
     "Name": "Dual Illumina",
     "Value": 0,
-    "RAP": 7232,
+    "RAP": 6943,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=44937&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -11698,7 +11698,7 @@
     "itemId": 869885,
     "Name": "Uncle Doge",
     "Value": 0,
-    "RAP": 172,
+    "RAP": 169,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=869885&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -11878,7 +11878,7 @@
     "Value": 5500,
     "RAP": 2274,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=13392&width=420&height=420&format=png",
-    "Demand": "None",
+    "Demand": "Terrible",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -11892,7 +11892,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Demand Update",
     "Created": "2026-07-25T21:05:46.612Z",
     "createdBy": "auto-discover"
   },
@@ -12968,8 +12968,8 @@
     "Value": 110000,
     "RAP": 10000,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=7265&width=420&height=420&format=png",
-    "Demand": "Low",
-    "Trend": "Raising",
+    "Demand": "Terrible",
+    "Trend": "Stable",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -12982,7 +12982,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "Despite the 4 copies that were put back in circulation the item continued to pull good overpays and even higher than before, resulting in a trend change and value raise.",
+    "ValueChangerNote": "Demand update to better reflect its current performance.",
     "Created": "2026-07-25T21:05:49.036Z",
     "createdBy": "auto-discover"
   },
@@ -13080,7 +13080,7 @@
     "Value": 16500,
     "RAP": 10641,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=31731&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -13092,7 +13092,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Demand Update",
     "Created": "2026-07-25T21:03:29.832Z",
     "createdBy": "auto-discover"
   },
@@ -14254,7 +14254,7 @@
     "Value": 27000,
     "RAP": 13923,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=46118&width=420&height=420&format=png",
-    "Demand": "Unassigned",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -14266,7 +14266,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Demand Update",
     "Created": "2026-07-25T21:04:33.760Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -14766,7 +14766,7 @@
     "Value": 8500,
     "RAP": 5685,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=892391&width=420&height=420&format=png",
-    "Demand": "None",
+    "Demand": "Low",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -14778,7 +14778,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Demand Update",
     "Created": "2026-07-25T21:04:33.760Z",
     "createdBy": "auto-discover"
   },
@@ -20100,7 +20100,7 @@
     "Value": 8500,
     "RAP": 8708,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=25795&width=420&height=420&format=png",
-    "Demand": "High",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": false,
     "Tags": [],
@@ -20112,7 +20112,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Demand update to better reflect its current performance.",
     "Created": "2026-07-25T21:03:29.832Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
