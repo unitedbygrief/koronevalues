@@ -563,10 +563,8 @@
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=65357&width=420&height=420&format=png",
     "Demand": "Decent",
     "Trend": "Stable",
-    "IsRare": true,
-    "Tags": [
-      "Rare"
-    ],
+    "IsRare": false,
+    "Tags": [],
     "Acronym": "RB",
     "Link": "https://www.pekora.zip/catalog/65357",
     "History": [
@@ -16941,7 +16939,7 @@
     "itemId": 495324,
     "Name": "Punk Face",
     "Value": 0,
-    "RAP": 2261,
+    "RAP": 2274,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=495324&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21299,7 +21297,7 @@
     "itemId": 989381,
     "Name": "Lost World Paragon",
     "Value": 0,
-    "RAP": 145,
+    "RAP": 148,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=989381&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
