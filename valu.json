@@ -6539,7 +6539,7 @@
     "itemId": 546187,
     "Name": "Bull Moose Sympathizer",
     "Value": 0,
-    "RAP": 176,
+    "RAP": 132,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=546187&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -11496,7 +11496,7 @@
     "itemId": 977342,
     "Name": "Super HypnoGoggles",
     "Value": 0,
-    "RAP": 121,
+    "RAP": 119,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=977342&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -15413,7 +15413,7 @@
     "itemId": 578567,
     "Name": "ROBLOX Summer Glider",
     "Value": 0,
-    "RAP": 47,
+    "RAP": 46,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=578567&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -17227,7 +17227,7 @@
     "itemId": 43710,
     "Name": "Green-eyed Awesome Face",
     "Value": 0,
-    "RAP": 109,
+    "RAP": 105,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=43710&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -17315,7 +17315,7 @@
     "itemId": 376922,
     "Name": "Scenic Egg of the Clouds",
     "Value": 0,
-    "RAP": 92,
+    "RAP": 90,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=376922&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21275,7 +21275,7 @@
     "itemId": 985679,
     "Name": "Blizzard Striker",
     "Value": 0,
-    "RAP": 481,
+    "RAP": 479,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=985679&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21357,6 +21357,50 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-08-10T11:13:18.326Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 998285,
+    "Name": "The Fire Crown",
+    "Value": 0,
+    "RAP": 3895,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=998285&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "FC",
+    "Link": "https://www.pekora.zip/catalog/998285",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-08-11"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-08-11T11:01:39.018Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 998309,
+    "Name": "WC Ultimates: Sugilite Satisfaction",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=998309&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "Sugs",
+    "Link": "https://www.pekora.zip/catalog/998309",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-08-11"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-08-11T11:07:25.934Z",
     "createdBy": "auto-discover"
   }
 ]
