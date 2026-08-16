@@ -11671,11 +11671,11 @@
   {
     "itemId": 490376,
     "Name": "): Green Sidewinder",
-    "Value": 5500,
+    "Value": 5000,
     "RAP": 5941,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=490376&width=420&height=420&format=png",
     "Demand": "Low",
-    "Trend": "Stable",
+    "Trend": "Fluctuating",
     "IsRare": false,
     "Tags": [],
     "Acronym": "GSW",
@@ -11686,7 +11686,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "After GSWs evaluation, it has been completely letdown. Not performing well in any trades, resulting in a minor drop.",
     "Created": "2026-07-25T21:10:27.647Z",
     "createdBy": "auto-discover",
     "updatedBy": 18253,
@@ -16914,10 +16914,10 @@
   {
     "itemId": 37738,
     "Name": "Dominus Empyreus",
-    "Value": 500000,
+    "Value": 700000,
     "RAP": 12050,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=37738&width=420&height=420&format=png",
-    "Demand": "Low",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -16931,7 +16931,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "Emp has been performing insane lately, leading to a raise!",
+    "ValueChangerNote": "Emp has been performing well yet again, pulling large amounts with good items, resulting in a raise and a demand change to more accurately reflect its trades.",
     "Created": "2026-07-25T21:06:04.989Z",
     "createdBy": "auto-discover"
   },
