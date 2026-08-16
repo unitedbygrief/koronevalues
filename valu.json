@@ -4606,11 +4606,11 @@
   {
     "itemId": 45393,
     "Name": "Red Bandana of SQL Injection",
-    "Value": 115000,
+    "Value": 140000,
     "RAP": 7325,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=45393&width=420&height=420&format=png",
     "Demand": "Decent",
-    "Trend": "Raising",
+    "Trend": "Stable",
     "IsRare": true,
     "Tags": [
       "Rare"
@@ -4623,7 +4623,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "SQL has been performing strongly yet again, resulting in another raise.",
     "Created": "2026-07-25T21:10:27.647Z",
     "createdBy": "auto-discover"
   },
@@ -5957,7 +5957,7 @@
     "itemId": 742605,
     "Name": "Bucket of the Sea",
     "Value": 0,
-    "RAP": 150,
+    "RAP": 144,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=742605&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -9821,7 +9821,7 @@
     "itemId": 767259,
     "Name": "Overseer Wings of Terror",
     "Value": 0,
-    "RAP": 284,
+    "RAP": 274,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=767259&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -11096,7 +11096,7 @@
     "itemId": 88727,
     "Name": "Hot Jams Headphones",
     "Value": 0,
-    "RAP": 170,
+    "RAP": 164,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=88727&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
