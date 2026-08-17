@@ -2245,7 +2245,7 @@
     "itemId": 17175,
     "Name": "White Ninja Headband of the Unimpeachable Soul",
     "Value": 0,
-    "RAP": 141,
+    "RAP": 154,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=17175&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -4585,7 +4585,7 @@
     "itemId": 417316,
     "Name": "Green Goof ",
     "Value": 0,
-    "RAP": 166,
+    "RAP": 160,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=417316&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -8296,7 +8296,7 @@
     "itemId": 334082,
     "Name": "Tailflipped Hat",
     "Value": 0,
-    "RAP": 441,
+    "RAP": 425,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=334082&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -19106,7 +19106,7 @@
     "itemId": 328736,
     "Name": "Halloween 2011 Paintball Cap",
     "Value": 0,
-    "RAP": 111,
+    "RAP": 107,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=328736&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21495,7 +21495,7 @@
     "itemId": 1004410,
     "Name": "Blue Katana of One Thousand Tears",
     "Value": 0,
-    "RAP": 177,
+    "RAP": 182,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=1004410&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21577,6 +21577,28 @@
     ],
     "ValueChangerNote": "",
     "Created": "2026-08-15T00:05:33.420Z",
+    "createdBy": "auto-discover"
+  },
+  {
+    "itemId": 161009,
+    "Name": "CotM: August Chicken of the Sea",
+    "Value": 0,
+    "RAP": 0,
+    "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=161009&width=420&height=420&format=png",
+    "Demand": "Unassigned",
+    "Trend": "Stable",
+    "IsRare": false,
+    "Tags": [],
+    "Acronym": "",
+    "Link": "https://www.pekora.zip/catalog/161009",
+    "History": [
+      {
+        "v": 0,
+        "d": "2026-08-17"
+      }
+    ],
+    "ValueChangerNote": "",
+    "Created": "2026-08-17T02:29:31.905Z",
     "createdBy": "auto-discover"
   }
 ]
