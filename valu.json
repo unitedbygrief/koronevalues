@@ -5586,7 +5586,7 @@
     "itemId": 501980,
     "Name": "Golden Evil Eye",
     "Value": 0,
-    "RAP": 78,
+    "RAP": 76,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=501980&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10842,7 +10842,7 @@
     "itemId": 1004419,
     "Name": "Bombastic Katana",
     "Value": 0,
-    "RAP": 340,
+    "RAP": 336,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=1004419&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -10997,10 +10997,10 @@
   {
     "itemId": 16588,
     "Name": "Rainbow Shaggy",
-    "Value": 120000,
+    "Value": 145000,
     "RAP": 3174,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=16588&width=420&height=420&format=png",
-    "Demand": "High",
+    "Demand": "Decent",
     "Trend": "Stable",
     "IsRare": true,
     "Tags": [
@@ -11014,7 +11014,7 @@
         "d": "2026-07-25"
       }
     ],
-    "ValueChangerNote": "",
+    "ValueChangerNote": "Rainbow Shaggy has been performing well once again, resulting in yet another raise.",
     "Created": "2026-07-25T21:04:33.760Z",
     "createdBy": "auto-discover"
   },
@@ -19453,7 +19453,7 @@
     "itemId": 1004416,
     "Name": "Jade Katana of the Darkest Forest",
     "Value": 0,
-    "RAP": 248,
+    "RAP": 244,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=1004416&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
@@ -21743,7 +21743,7 @@
     "itemId": 37585,
     "Name": "Neon Pink Shaggy",
     "Value": 0,
-    "RAP": 179,
+    "RAP": 174,
     "Image": "https://www.pekora.zip/asset-thumbnail/image?assetId=37585&width=420&height=420&format=png",
     "Demand": "Unassigned",
     "Trend": "Stable",
